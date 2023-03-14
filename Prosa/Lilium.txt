@@ -42,9 +42,9 @@ Lilium
 
     [Estoy despierto, sentado de la misma forma, mientras la criatura aumenta su luminiscencia incolora y los pétalos de las flores vibran con sensualidad. Se detuvieron. Sin mover en absoluto su delgado y desfigurado cuerpo, ella me habla:]
 
-    - Tú, que mi cuerpo descubriste. Tú, que mi descanso profanaste ¿Qué de mí deseas? -dijo sin mover un músculo (si es que tuviera alguno).
-    - Solo quiero el saber. Quiero saber qué eres. -respondí inmediatamente, totalmente asombrado, sin pensar siquiera con quién o qué estaba hablando.
-    - Mañana sabraslo. Mañana diré yo. Dame hoja y pincel. Veraslo escrito cuando del segundo sopor despiertes.
+    [- Tú, que mi cuerpo descubriste. Tú, que mi descanso profanaste. ¿Qué de mí deseas? -dijo sin mover un músculo (si es que tuviera alguno).]
+    [- Solo quiero el saber. Quiero saber qué eres. -respondí inmediatamente, totalmente asombrado, sin pensar siquiera con quién o qué estaba hablando.]
+    [- Mañana sabraslo. Mañana diré yo. Dame hoja y pincel. Veraslo escrito cuando del segundo sopor despiertes.]
 
     Desperté sentado con las piernas cruzadas y con la frente en el piso con un dolor inmenso en mi cabeza y espalda por la incómoda posición en la que me había dormido e intenté anotar rápidamente en mi libreta el onírico diálogo que recién había tenido. Pero ya estaba escrito.
 
@@ -52,10 +52,10 @@ Lilium
 
     [Estoy dormitando en la cama y creo ser capaz de ver algo con mis ojos cerrados. Estoy escribiendo con el rostro cubierto, espero comprender mi letra más tarde. Creo que hay algo gigante frente a mí. Creo que me observa. No puedo moverme, salvo mi diestra, que escribe. Se está moviendo y desciende donde no hay escala.]
 
-    A mediodía bajé al subterráneo a ver si ahora podría observar a la criatura sin quedarme dormido y encontré la hoja doblada con el lápiz encima. Sorprendido y asustado al mismo tiempo por el hallazgo, temeroso de que podría decir, pero, aún más de si había sido ella quien había hecho esto, lo abrí:
+    A mediodía bajé al subterráneo a ver si ahora podría observar a la criatura sin quedarme dormido y encontré la hoja doblada con el lápiz encima. Sorprendido y asustado al mismo tiempo por el hallazgo, temeroso de qué podría decir, pero, aún más de si había sido ella quien había hecho esto, lo abrí:
 
-    “Soy conocimiento. 
-    Soy genio. 
+    “Soy conocimiento.
+    Soy genio.
     Soy demonio.”
 
     No entendí en absoluto el mensaje. ¿Se supone que la criatura había escrito esto? Está escrito con mi taquigrafía. ¿Yo lo escribí acaso? Revisé en el diario taquigráfico lo que escribí sin recordar exactamente cuándo y leí que en mis sueños le había preguntado solemnemente qué era a la criatura. No lo recordaba... ¿Me respondió? ¡¿Está viva?!
@@ -64,17 +64,17 @@ Lilium
 
     Estando yo de pie, tenía la misma altura ella sentada. Me arrodillé ante ella demostrando mi humildad a su imponente cuerpo y pregunté con honrada timidez si podría responder a las preguntas que mi corazón hiciera. Los lirios rojos comenzaron a vibrar, y cuando se detuvieron, el ser me habló:
 
-    - ¿Qué saber quieres de mi ser? -preguntó- ¿Qué fragmento de sabiduría quieres que te sea concedida antes de la pronta expiración de tu alma?
-    - ¿Eres o fuiste alguna vez humana? -pregunté mareado y sin sentido del espacio. Creo que estoy flotando.
-    - No. A pesar tener una apariencia similar a un humano como tú, momificado por lo árido de esta tierra subterránea en donde elegí descansar, no soy de carne, como tú. Mi cuerpo es absoluto y no podrás definirlo en tu lengua. No todo es material y no todo lo que puede sentirse pertenece a este mundo. No soy de física ni de imaginación. Sé que, si me analizaras con tu inteligencia, me calificarías como un ser vegetal, solo por mi delicada estructura solar-radical. Pero, mi carne no es carne. Mi sangre no es sangre. Mi savia no es savia. Mi cuerpo no es cuerpo. Mi alma es eterna y mi memoria interminable. Soy de infinitas formas, y tu vida para mí no es más que un momento en mi existencia ilimitada. A ti hablo tal cual tú hablas a un insignificante insecto.
-    - ¿Entonces, eres una planta inmortal cuyas raíces lucen como un homínido? -dije, aún mareado, con un sarcasmo que ni yo mismo entendí, nervioso por alguna razón, sin pensar en lo peligrosa que se veía la situación, quizás avergonzado de mi obvia inferioridad- ¿Qué eres y qué quieres, ser de los lirios?
-    - Creo que debo utilizar bien mi lengua contra ti. Yo digo y tú desoyes. Yo explico y tú dudas. No, soy algo mucho más complejo que eso, pero, ¿Qué importa lograr definirme en un reino, no crees más importante que logremos hacer un trato entre nosotros dos, como seres pensantes e inteligentes que somos? -logré identificar el asomo de un halago y me hizo, manipulativamente, sentir que hablaba con un igual- ¿Te interesa el intercambio? Sé lo que buscas, y lo que buscas no es saber.
-    - No sé a dónde quieres llegar, pero hacer un trato con una criatura en mí subterráneo que se define a sí misma como una planta no es algo que podría hacer a diario. Dime, ser momificado, ¿Qué deseas de mí?
-    - Yo te doy lo que más deseas, tú me das lo que más deseo. Yo lo sé. Te noto aburrido en tu nueva vida. Todo a su tiempo. Tú no buscas el saber. Yo te doy historias que he recopilado de los tres mundos humanos, relatos que cambiarán tu vida por completo y te harán un hombre nuevo, y tú, en cambio, solo me darás lo único más grande que has formado en toda tu existencia.
+    [- ¿Qué saber quieres de mi ser? -preguntó- ¿Qué fragmento de sabiduría quieres que te sea concedida antes de la pronta expiración de tu alma?]
+    [- ¿Eres o fuiste alguna vez humana? -pregunté mareado y sin sentido del espacio. Creo que estoy flotando.]
+    [- No. A pesar tener una apariencia similar a un humano como tú, momificado por lo árido de esta tierra subterránea en donde elegí descansar, no soy de carne, como tú. Mi cuerpo es absoluto y no podrás definirlo en tu lengua. No todo es material y no todo lo que puede sentirse pertenece a este mundo. No soy de física ni de imaginación. Sé que, si me analizaras con tu inteligencia, me calificarías como un ser vegetal, solo por mi delicada estructura solar-radical. Pero, mi carne no es carne. Mi sangre no es sangre. Mi savia no es savia. Mi cuerpo no es cuerpo. Mi alma es eterna y mi memoria interminable. Soy de infinitas formas, y tu vida para mí no es más que un momento en mi existencia ilimitada. A ti hablo tal cual tú hablas a un insignificante insecto.]
+    [- ¿Entonces, eres una planta inmortal cuyas raíces lucen como un homínido? -dije, aún mareado, con un sarcasmo que ni yo mismo entendí, nervioso por alguna razón, sin pensar en lo peligrosa que se veía la situación, quizás avergonzado de mi obvia inferioridad- ¿Qué eres y qué quieres, ser de los lirios?]
+    [- Creo que debo utilizar bien mi lengua contra ti. Yo digo y tú desoyes. Yo explico y tú dudas. No, soy algo mucho más complejo que eso, pero, ¿Qué importa lograr definirme en un reino, no crees más importante que logremos hacer un trato entre nosotros dos, como seres pensantes e inteligentes que somos? -logré identificar el asomo de un halago y me hizo, manipulativamente, sentir que hablaba con un igual- ¿Te interesa el intercambio? Sé lo que buscas, y lo que buscas no es saber.]
+    [- No sé a dónde quieres llegar, pero hacer un trato con una criatura en mí subterráneo que se define a sí misma como una planta no es algo que podría hacer a diario. Dime, ser momificado, ¿Qué deseas de mí?]
+    [- Yo te doy lo que más deseas, tú me das lo que más deseo. Yo lo sé. Te noto aburrido en tu nueva vida. Todo a su tiempo. Tú no buscas el saber. Yo te doy historias que he recopilado de los tres mundos humanos, relatos que cambiarán tu vida por completo y te harán un hombre nuevo, y tú, en cambio, solo me darás lo único más grande que has formado en toda tu existencia.]
 
     Desperté sin tiempo para responder. Tomé la libreta y el sueño ya había sido escrito. Me levanté del duro suelo y me incliné ante ella accediendo a su petición. Acepté feliz, pensando que lo más grande que he creado era mi nueva casa o todo el dinero que poseía, que me llevó décadas conseguir, pero, que, aún así, de ninguno me siento muy inclinado a resguardar ni proteger con mi vida. Lo pensé un buen trato. La curiosidad ya había devorado el resto de los sentimientos en mi corazón.
 
-    Al inclinarme ante ella, me di cuenta que su piel incolora emitía una tierna luz blanquecina, y aunque lo intenté, no fui capaz de tocarla siquiera con mis uñas. No me atreví. No pude hacerlo. Sin embargo, sí me atreví a tocar una de las extrañas especies de flores que crecían sobre, detrás y alrededor suyo. Algunos de los lirios parecían [copihues] y otros más abiertos se veían como una [azucenas], sin embargo, no podría considerarlos en estas especies. Eran enredaderas con firmes espinas gigantes de ocho centímetros en promedio, que cuando toqué, sentí el frío y filoso metal en las yemas de mis dedos y la sangre que escurrió de mi piel no la hallé jamás ni en sus ramas ni en sus pétalos. Toqué con atrevida confianza los pétalos de las flores que crecían alrededor del ser inmóvil, pensando que su suavidad relajaría la herida en mi índice izquierdo, pero me horroricé y di un salto atrás jurándome no volver a tocar nada relativo a aquello cuando la carne fresca sentí en mis dedos.
+    Al inclinarme ante ella, me di cuenta que su piel incolora emitía una tierna luz blanquecina, y aunque lo intenté, no fui capaz de tocarla siquiera con mis uñas. No me atreví. No pude hacerlo. Sin embargo, sí me atreví a tocar una de las extrañas especies de flores que crecían sobre, detrás y alrededor suyo. Algunos de los lirios parecían [copihues] o [lapagerias] y otros más abiertos se veían como [azucenas], sin embargo, no podría considerarlos en estas especies. Eran enredaderas con firmes espinas gigantes de ocho centímetros en promedio, que cuando toqué, sentí el frío y filoso metal en las yemas de mis dedos y la sangre que escurrió de mi piel no la hallé jamás ni en sus ramas ni en sus pétalos. Toqué con atrevida confianza los pétalos de las flores que crecían alrededor del ser inmóvil, pensando que su suavidad relajaría la herida en mi índice izquierdo, pero me horroricé y di un salto atrás jurándome no volver a tocar nada relativo a aquello cuando la carne fresca sentí en mis dedos.
 
     Dejé rápido mi libreta junto al lápiz y subí asustado a mi hogar, todavía temeroso por lo que había sentido. Era ya de noche y decidí descansar de la pesadumbre somnolienta que me atacaba.
 
@@ -82,7 +82,7 @@ Lilium
 
     A la mañana siguiente bajé inmediatamente al sarcófago en mi subterráneo y abrí la nota. En ella se escribía mi taquigrafía, decía:
 
-    “Dame hoja y pincel. Lo suficiente para tu disfrute.”
+    [“Dame hoja y pincel. Lo suficiente para tu disfrute.”]
 
     No suelo sobrepensar lo que no logro entender. Accedí alegre pero nervioso y con cierta desconfianza, dejando treinta hojas frente al ser de los lirios. Sobre ellas, uno de mis lápices de tinta favoritos, que dejé vacío y con un frasco de tinta a un lado. Satisfecho y entusiasmado por haber hecho el trato, estuve todo el día ansioso, caminando de un lugar a otro sin ningún propósito, esperando el ansiado momento para volver a ver a la criatura en mi subterráneo. Al ser en el sarcófago. 
 
@@ -103,20 +103,17 @@ Lilium
 
     Fui por lo menos nueve veces, durante los tres días que demoré en leer los manuscritos, al subterráneo, sin éxito, a pedir respuestas a las historias que la Cuentacuentos me había otorgado, pero no fue hasta que leí la totalidad de las historias que me contestó, cuando me senté en humilde forma frente a ella y su vibración y tenue luz del cansancio me despertaron.
 
-    - ¿Qué saber quieres de mi ser? -preguntó- ¿Qué fragmento de sabiduría quieres que te sea concedida antes de la pronta expiración de tu alma?
-    - Dime, ser que cuenta cuentos... Por favor. Respóndeme Cuentacuentos. ¿Dónde está el tercer mundo? Y a qué mundo perteneces tú.
-    - El tercer mundo de la existencia humana es un mundo subjetivo y superior. Y yo, no pertenezco ni a la vida, ni a la muerte, ni a los sueños. El contexto de los como yo es aún más grande y el triángulo que encierra tu existencia es solo un fragmento en la nuestra. 
+    [- ¿Qué saber quieres de mi ser? -preguntó- ¿Qué fragmento de sabiduría quieres que te sea concedida antes de la pronta expiración de tu alma?]
+    [- Dime, ser que cuenta cuentos... Por favor. Respóndeme Cuentacuentos. ¿Dónde está el tercer mundo? Y a qué mundo perteneces tú.]
+    [- El tercer mundo de la existencia humana es un mundo subjetivo y superior. Y yo, no pertenezco ni a la vida, ni a la muerte, ni a los sueños. El contexto de los como yo es aún más grande y el triángulo que encierra tu existencia es solo un fragmento en la nuestra. Quien traspasa la puerta se encuentra en él.]
+    [- ¿Los como tú? ¿Hay más como tú?]
+    [- Millones. Eones. Ninguno. Solo se viene a la vida humana a conseguir sabiduría. Aunque no es abundante, la memoria es grande y de ella se extrae el saber. Lo que se busca aquí es genio. Lo que aquí se busca es sabiduría. Y la sabiduría se guarda en la memoria. Y la memoria es alma. Y el alma es saber.]
+    [- Explícame tu existencia. Dime por qué los como tú siempre buscan el saber del hombre.]
+    [- No.]
+    [- Por favor, dime que es lo que eres tú. ¡Necesito saberlo! ¿O acaso eres solo un demonio solitario? ¿Un ángel protector? ¿Eres acaso el espíritu guardián de esta montaña? ¿Un genio enfrascado en un sarcófago de tierra? ¿Es esta tu cárcel o tu hogar? Por favor ¡Responde!]
+    [- En tu lengua, ángel es mensaje y en lo real es demonio con uno. En tu lengua, demonio es sabio. En tu lengua, genio es saber.]
 
-    [Quien traspasa la puerta se encuentra en él.]
-
-    - ¿Los como tú? ¿Hay más como tú?
-    - Millones. Eones. Ninguno. Solo se viene a la vida humana a conseguir sabiduría. Aunque no es abundante, la memoria es grande y de ella se extrae el saber. Lo que se busca aquí es genio. Lo que aquí se busca es sabiduría. Y la sabiduría se guarda en la memoria. Y la memoria es alma. Y el alma es saber.
-    - Explícame tu existencia. Dime por qué los como tú siempre buscan el saber del hombre.
-    - No.
-    - Por favor, dime que es lo que eres tú. ¡Necesito saberlo! ¿O acaso eres solo un demonio solitario? ¿Un ángel protector? ¿Eres acaso el espíritu guardián de esta montaña? ¿Un genio enfrascado en un sarcófago de tierra? ¿Es esta tu cárcel o tu hogar? Por favor ¡Responde!
-    - En tu lengua, ángel es mensaje y en lo real es demonio con uno. En tu lengua, demonio es sabio. En tu lengua, genio es saber.
-
-    >> Soy conocimiento. Soy genio. Soy demonio. Soy fuente de sabiduría para quien quiera pactar. Soy y hago el pacto. Viniste a mí por historias, no por el saber. Yo sé lo que quieres. Yo sé lo que necesitas. Concéntrate en nuestro contrato, te daré lo que más deseas.
+    [>> Soy conocimiento. Soy genio. Soy demonio. Soy fuente de sabiduría para quien quiera pactar. Soy y hago el pacto. Viniste a mí por historias, no por el saber. Yo sé lo que quieres. Yo sé lo que necesitas. Concéntrate en nuestro contrato, te daré lo que más deseas.]
 
     Desperté con la libreta abierta y el lápiz en mí mano. Un diálogo que no recuerdo ya estaba escrito en mi propio y único sistema taquigráfico. Ya no sé cuándo es de noche ni cuando es de día, estoy tan atento a la lectura que olvido el cansancio y vuelvo a mi cama a dormir sin siquiera saber qué hora es.
 
@@ -153,13 +150,13 @@ Lilium
 
     [Su luz es ahora tan fuerte que me ciega, su vibración puede oírse y las flores crecen en tamaño. Las raíces están cerrando la entrada y sus espinas son cada vez más enormes, tanto como mis pies, que acaban de cortar. Veo abundante sangre. No siento dolor. No puedo moverme. Todo está oscuro. Ella es la única luz. Me está hablando. ¿Qué dice?]
 
-    - Ya del trato mi parte cumplí, es ahora turno tuyo. Dámela.
-    - ¿Qué cosa? Nunca dijiste que era lo que tenía que darte a cambio. Ni tampoco me explicaste tu completa existencia. Exijo tu sabiduría y tú no quieres dármela. Responde Demonio ¿Qué eres? ¿Cuál es tu nombre? ¡Dame más historias!
-    - No tengo nombre. Y el que me diste sabeslo bien y contestas su significado. 
+    [- Ya del trato mi parte cumplí, es ahora turno tuyo. Dámela.]
+    [- ¿Qué cosa? Nunca dijiste que era lo que tenía que darte a cambio. Ni tampoco me explicaste tu completa existencia. Exijo tu sabiduría y tú no quieres dármela. Responde Demonio ¿Qué eres? ¿Cuál es tu nombre? ¡Dame más historias!]
+    [- No tengo nombre. Y el que me diste sabeslo bien y contestas su significado.]
 
-    >> Lo único más grande que has formado en toda tu existencia, por supuesto, es lo que pido y debes. ¿Acaso aún no sabes qué es lo más grande que has creado en este mundo? ¿La familia que hace tan poco abandonaste? ¿Los niños que lloran tu ausencia en hombro ajeno? ¿Esta solitaria casa que construiste para alejarte de tus miedos? ¿Tu fortuna en conceptos de tierra y dinero? ¿Esta completa montaña en la que resido desde antes del origen de la estirpe humana? ¿Acaso será tu propia vida? ¿Vendiste acaso tu propia muerte?
+    [>> Lo único más grande que has formado en toda tu existencia, por supuesto, es lo que pido y debes. ¿Acaso aún no sabes qué es lo más grande que has creado en este mundo? ¿La familia que hace tan poco abandonaste? ¿Los niños que lloran tu ausencia en hombro ajeno? ¿Esta solitaria casa que construiste para alejarte de tus miedos? ¿Tu fortuna en conceptos de tierra y dinero? ¿Esta completa montaña en la que resido desde antes del origen de la estirpe humana? ¿Acaso será tu propia vida? ¿Vendiste acaso tu propia muerte?]
 
-    - ¿Qué es lo más grande que he creado?... No, no lo sé. ¡Déjame pensar! No he tenido tiempo con tus historias. ¡Déjame pensar! ¡No sé! ¡Espera! ¡No me encierres! ¡Déjame pensar! ¡Por favor!
-    - Yo sí lo sé. Dámela.
-    - ¿Qué cosa? ¡¿Qué es?!
-    - Tu alma. ¡Dámela!
+    [- ¿Qué es lo más grande que he creado?... No, no lo sé. ¡Déjame pensar! No he tenido tiempo con tus historias. ¡Déjame pensar! ¡No sé! ¡Espera! ¡No me encierres! ¡Déjame pensar! ¡Por favor!]
+    [- Yo sí lo sé. Dámela.]
+    [- ¿Qué cosa? ¡¿Qué es?!]
+    [- Tu alma. ¡Dámela!]
