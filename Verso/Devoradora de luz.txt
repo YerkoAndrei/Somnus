@@ -5,7 +5,7 @@ Enemiga del mar.
 Blanco es tu invierno.
 Azul tu mirar.
 
-Aún del hombre amada.
+Aun del hombre amada.
 Devoras su dios.
 Ocultas su llegada.
 Y enfurias su adiós.
@@ -16,11 +16,6 @@ De sombra divina.
 Y ahogada muerte salvadora.
 
 Panorámica serpiente.
-De inmensa y utópica visión.
+De utópica visión.
 Tu mirar es suficiente.
-Para calmar mi triste corazón.
-
-// Primer  párrafo: Su vista real
-// Segundo párrafo: Su relación con el hombre
-// Tercer  párrafo: Su leyenda humana
-// Cuarto  párrafo: El amor del autor
+Para calmar mi corazón.
