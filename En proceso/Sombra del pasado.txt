@@ -1,5 +1,66 @@
 Sombra del pasado
 
+Carta a 1: hola tantos años, hay que ponernos al corriente, recuerdas eso que paso cuando teniamos 9
+
+Carta b 2: hola, que bueno saber de ti, no saques eso por favor, por qué lo harias
+
+Carta a 3: lo vi
+
+Carta b 4: que viste? por favor no me asustes
+
+Carta a 5: mi hijo de 9 años trajo a un amigo del colegio a jugar a mi casa, era él, era x, igual que la última vez que lo vimos, me miro de una forma aterradora, tengo miedo no solo por mi hijo sino tambien por mi
+
+Carta b 6: ire a ver a c, la última vez que lo vi viviamos en la misma cuidad, ire a verlo con tus cartas, d está muerto, se suicidó a los 17, un poco despues de irnos del pueblo
+
+Carta b 7: se volvio loco, esto no es bueno
+
+Carta c 8: estoy aterrado, cada aniversario de su muerte tengo el mismo sueño, lo veo matando a una niña de unos 12 años, en el mismo barranco, nunca entendí aquello, me mudé a la gran ciudad, pero me perseguia y, un día, cuando mi hija cumplió 8, la reconocí, estaba matando a mi hija
+
+Carta a 9: hay que huir, investigaré al niño, quizas solo estamos alucinando por la culpa, eramos solo niños
+
+Carta c 10: no hay dónde, yo me fui de la cuidad por lo mismo, pero aun me persigue, siento como me llama desde donde esté, el tambien era un niño a, no lo merecia
+
+Carta a 11: le dije a mi hijo que no trajera pero no me hace caso, siempre ha sido un niño bien portado pero cuando le ordeno dejar de ser su amigo me ignora completamente, ire a la quebrada, quizas descubro algo
+
+Carta a 12: no hay nada, lo unico extraño es que el rio estaba negro, por lo menos desde la perspectiva desde el barranco, me senti observado todo el tiempo, aún estoy aterrado
+
+Carta b 13: quizas deberias descansar, la culpa nos consume pero ya nada podemos hacer, es un secreto que nos llevaremos a la tumba
+
+Carta a 14: mi hijo a muerto, fue un accidente, pero no se, siento que me está llamando, siento que mi hijo pagó mis pecados, ya no soporto este tormento
+
+Carta b 15: se que soy el menor y que que lelgue al ultimo al grupom, siempre te consideré un modelo a seguir, haré tiempo para ir a verte por favor, esperame y volvamos a ser los amigos que alguna vez fuimos
+
+Carta a 16 (esposa): se suicidó, podrias decirme porque quemó tantas cartas? lo ultimo que supe es que estaba conversando contigo
+
+Carta b 17: a se suicidó, por favor, no sé que hacer ahora, estamos en peligro? no cometas una locura
+
+Carta c 18: yo tambien lo haré, tu no lo entiendes b, no tienes hijos, quizas con esto aplaque la ira de x y deje en paz a mi hija, espero su madre pueda con mi partida, quemaré todas mis cartas, por favor, si pregunta sobre si sabes la razon, no le cuentes nada, este sera por siempre nuestro horrible secreto
+
+Carta b 19: no tengo hijos ni familia, y ahora no me quedan amigos, no se si queme estas cartas o las tire al vacio o al rio, supongo que solo esperaré mi muerte
+
+Carta a 20: gracias por enviarme tantas cartas desde el fuego, c tenía razón, pero yo no mataria a un niño, a diferencia de ustedes. Mi unico poder es atraer a la gente a mi, esten donde esten. Estoy entre la vida y la muerte, junto a tus otros amigos, y solo lograran pasar el gran umbral cuando considere pagados sus castigos. Ahora soy el último amigo que te queda, b, quieres venir a verme?
+
+
+
 Epistolar, habla con uno de sus amigos de cuando el niño murió
 
 Un niño lleva a su amigo del colegio a su casa, el autor, observa al niño y se da cuenta que es un niño que mato cuando él tenia la edad de su hijo, junto con sus amigos con los que comparte las cartas.
+
+
+a: Eulalio
+b: Carlos
+c: Segundo
+d: Longino
+x: Curileo
+
+Saludo
+a: Querido abc
+b: abc, amigo mio
+c: Estimado abc
+x: c, querido amigo
+
+Despedida
+a: Con cariño, a.
+b: Siempre de ustedes, b.
+c: Atentamente, c.
+x: x, tu último mejor amigo.
