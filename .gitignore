@@ -1,6 +1,21 @@
 # YerkoAndrei
-# Esto es para escritura
-# Texto dentro de corchetes [texto], significa cursiva
-# Sangría son 4 espacios (Tabulación en un editor)
-# 1 saltos de línea por cada párrafo
+
+# En proceso:
+# .txt
+# Texto dentro de corchetes: [texto], significa negrita o cursiva
+# Sangría son 4 espacios
+# 1 salto de línea por cada párrafo
 # 3 saltos de línea por cada capítulo
+
+# Prosa:
+# .fodt
+# Formato final imprimible
+# En prosa larga, título usa una hoja
+# En prosa corta, título cuenta como capítulo
+# 3 saltos de línea por cada capítulo
+
+# Krita
+*.png~
+
+#LibreOffice
+*.fodt#
