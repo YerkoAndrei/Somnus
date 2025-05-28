@@ -1,17 +1,28 @@
 # YerkoAndrei
 
-# En proceso:
+# En proceso / Verso:
 # .txt
 # Texto dentro de corchetes: [texto], significa negrita o cursiva
 # Sangría son 4 espacios
 # 1 salto de línea por cada párrafo
 # 3 saltos de línea por cada capítulo
+# 3 saltos de línea para título
 
 # Prosa:
 # .fodt
 # Formato final imprimible
-# En prosa larga, título usa una hoja
-# En prosa corta, título cuenta como capítulo
+# Noto serif 12
+
+# Prosa corta:
+# Título en negrita
+# Título usa 3 saltos de línea
+# Título alineado a izquiera
+
+# Prosa larga:
+# Título usa una hoja
+# Título en negrita
+# Título centrado horizontal y verticalmente
+# Capítulo alineado a izquiera
 # 3 saltos de línea por cada capítulo
 
 # Krita

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:date>2025-05-28T11:59:43.965447816</dc:date><meta:editing-duration>PT18M48S</meta:editing-duration><meta:editing-cycles>6</meta:editing-cycles><meta:generator>LibreOffice/25.2.3.2$Linux_X86_64 LibreOffice_project/bbb074479178df812d175f709636b368952c2ce3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="24" meta:paragraph-count="131" meta:word-count="8745" meta:character-count="51076" meta:non-whitespace-character-count="42338"/></office:meta>
+ <office:meta><dc:date>2025-05-28T12:48:09.687762730</dc:date><meta:editing-duration>PT19M59S</meta:editing-duration><meta:editing-cycles>8</meta:editing-cycles><meta:generator>LibreOffice/25.2.3.2$Linux_X86_64 LibreOffice_project/bbb074479178df812d175f709636b368952c2ce3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="24" meta:paragraph-count="131" meta:word-count="8745" meta:character-count="51076" meta:non-whitespace-character-count="42338"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">600920</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">621194</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">51359</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">22449</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">20096</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">593815</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">16884</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">629356</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">600920</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">621194</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">51357</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">623367</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">643641</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -144,7 +144,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1395627</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1577341</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -279,16 +279,27 @@
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1"/>
   </style:style>
   <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-style="italic" officeooo:paragraph-rsid="0013e28f" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1"/>
   </style:style>
   <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-style="italic" officeooo:paragraph-rsid="0013e28f" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" officeooo:paragraph-rsid="0013e28f"/>
   </style:style>
-  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" officeooo:paragraph-rsid="0013e28f"/>
   </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" officeooo:paragraph-rsid="0018117d"/>
+  </style:style>
   <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
    <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:page-layout style:name="pm1">
@@ -349,9 +360,9 @@
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1">“La muerte se aproxima, y la sombra que la precede ha arrojado una influencia calmante sobre mi corazón”.</text:p>
-   <text:p text:style-name="P2">William Wilson, Edgard Allan Poe</text:p>
-   <text:p text:style-name="P3">Capítulo primero: Suceso</text:p>
+   <text:p text:style-name="P2">“La muerte se aproxima, y la sombra que la precede ha arrojado una influencia calmante sobre mi corazón”.</text:p>
+   <text:p text:style-name="P3">William Wilson, Edgard Allan Poe</text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T1">Capítulo primero:</text:span><text:span text:style-name="T1"> </text:span>Suceso</text:p>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"/>
@@ -391,10 +402,10 @@
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"><text:tab/>Inmóviles, atónitos e incrédulos estábamos cinco alumnos, los mismos que empezamos la fiesta. Quizás pasaron diez segundos o quizá diez minutos, pero nadie pensó en decir ni hacer nada. Cuando las pequeñas manos de madera tocaron lentamente el pecho del profesor, como si buscara su corazón, a su izquierda, apareció un rostro infantil, o, mejor dicho, medio rostro infantil, de pelo largo y liso, o eso se suponía, que más que un muro, parecía ser una estatua de ébano que algún demente, fuera de cualquier raciocinio humano, haría. Un pequeño rostro desfigurado. Buscando. Hallando.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P4"><text:tab/>El pequeño medio rostro de madera hizo una mueca que asimilaba una sonrisa, pero con el rencor y odio que jamás ningún hombre quisiera ver en su vida, y que sería capaz de borrar la felicidad en cualquier ser viviente. Y en un pestañeo, la pesadilla terminó con la desaparición de un espectro de madera y un hombre desmayado escupiendo espuma por la boca. ¿Alucinación? ¿Borrachera? ¿Broma de mal gusto? Ya quisiéramos los testigos que fuera cualquiera de las tres.</text:p>
-   <text:p text:style-name="P3">Capítulo segundo: Posteriori</text:p>
-   <text:p text:style-name="P4"/>
-   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P5"><text:tab/>El pequeño medio rostro de madera hizo una mueca que asimilaba una sonrisa, pero con el rencor y odio que jamás ningún hombre quisiera ver en su vida, y que sería capaz de borrar la felicidad en cualquier ser viviente. Y en un pestañeo, la pesadilla terminó con la desaparición de un espectro de madera y un hombre desmayado escupiendo espuma por la boca. ¿Alucinación? ¿Borrachera? ¿Broma de mal gusto? Ya quisiéramos los testigos que fuera cualquiera de las tres.</text:p>
+   <text:p text:style-name="P4">Capítulo segundo: Posteriori</text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P5"/>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"><text:tab/>No estoy seguro de cuánto tiempo pasó desde el desmayo del profesor hasta que uno de nosotros reaccionó primero. Solo sé que fue una mujer, mas no quien. En total, éramos tres mujeres y dos hombres (contándome a mí). Dos mujeres comenzaron a hablar entrecortadamente y sollozando, los dos hombres nos miramos y comprendimos en mediana parte lo que estaba sucediendo. Cuatro de nosotros nos acercamos lentamente al desmayado, una de mis compañeras, bastante nerviosa, se sentó para no volver a moverse hasta que el desmayado despertó, que habrán sido los peores minutos de nuestras vidas. Al acercarnos al Señor Higgins, que yacía en el piso en una posición ridículamente incómoda, nos apresuramos en acostarlo correctamente con una mochila por almohada. Nos dimos cuenta que el rostro de desfigurado terror no había desaparecido con el desmayo. A pesar de que sus ojos estaban cerrados, podía notarse el miedo que le causó ser protagonista del increíble suceso.</text:p>
    <text:p text:style-name="P1"/>
@@ -422,10 +433,10 @@
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"><text:tab/>Nadie dijo nada después de aquella huida, solo miradas sin significado, solo miradas sin sentido. Cada uno de nosotros se levantó lentamente casi al mismo tiempo, tomó sus cosas torpemente y se fue, a todos se nos quedó o cayó algo en la sala de clases, pues nadie pensaba con lucidez. Cada uno de camino a su hogar, cada uno viajando a su casa. Pensando en quizás qué cosas. Que cosas pasan por tu mente luego de ver algo así, algo imposible ¡Absurdo! En ese momento cualquier explicación sería incoherente e ilógica.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P4"><text:tab/>No recuerdo el viaje a mi hogar. Lo primero que recuerdo después de eso, es el techo de mi habitación mientras mi pesado cuerpo estaba tendido sobre mi cama. En un acto de maldita racionalidad pensé: “¿Cómo puedo quedarme aquí, sin saber qué fue lo que realmente pasó?” y me senté en la cama, listo para salir corriendo al encuentro de los demás testigos, pero recordé que al otro día tendría que verlos igualmente, en la misma sala donde fuimos mudos por minutos eternos, pues recordé vagamente que a todos se nos había quedado algo de valor ahí. Nadie hace nada bien mientras está en ese nivel de agotamiento mental. Solo esperaba que los demás pensaran lo mismo, que quisieran saber qué fue todo eso. Si fuera así, nos veríamos a primera hora de ese mismo día, en la sala donde todo comenzó. Para mala suerte nuestra, así fue.</text:p>
-   <text:p text:style-name="P3">Capítulo tercero: Preguntas</text:p>
-   <text:p text:style-name="P4"/>
-   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P5"><text:tab/>No recuerdo el viaje a mi hogar. Lo primero que recuerdo después de eso, es el techo de mi habitación mientras mi pesado cuerpo estaba tendido sobre mi cama. En un acto de maldita racionalidad pensé: “¿Cómo puedo quedarme aquí, sin saber qué fue lo que realmente pasó?” y me senté en la cama, listo para salir corriendo al encuentro de los demás testigos, pero recordé que al otro día tendría que verlos igualmente, en la misma sala donde fuimos mudos por minutos eternos, pues recordé vagamente que a todos se nos había quedado algo de valor ahí. Nadie hace nada bien mientras está en ese nivel de agotamiento mental. Solo esperaba que los demás pensaran lo mismo, que quisieran saber qué fue todo eso. Si fuera así, nos veríamos a primera hora de ese mismo día, en la sala donde todo comenzó. Para mala suerte nuestra, así fue.</text:p>
+   <text:p text:style-name="P4">Capítulo tercero: Preguntas</text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P5"/>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"><text:tab/>Muchas preguntas produjo esa extraña noche, por suerte el camino era largo y me dio tiempo para aclarar la mente, formular preguntas claras y darme cuenta de que el personaje principal sabía lo que estaba sucediendo, su reacción de escapar había sido obvia, pero con el aturdimiento mental por presenciar algo completamente imposible, nadie se había dado cuenta.</text:p>
    <text:p text:style-name="P1"/>
@@ -435,8 +446,8 @@
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"><text:tab/>Lamentablemente tuvimos que recurrir a esto, porque no nos dejaron leerlos con ninguna de las excusas que le propusimos a la ya anciana secretaria mientras nuestros compañeros dormían. Colarse a un edificio para posiblemente ir a una cárcel era solo un pequeño obstáculo en nuestra empresa, el principal problema era que, al encontrar al ser capaz de responder nuestras preguntas, éste, se hubiera suicidado, escapado de la ciudad o que simplemente no quisiera respondernos nada.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P4"><text:tab/>El plan ya estaba hecho (no muy elaboradamente, solo consistía en entrar por una ventana de baño e improvisar), cada uno de nosotros fue a su casa a descansar y prepararse para lo que haríamos en la noche del sábado, segundo día de diciembre.</text:p>
-   <text:p text:style-name="P3">Capítulo cuarto: Fantasía</text:p>
+   <text:p text:style-name="P5"><text:tab/>El plan ya estaba hecho (no muy elaboradamente, solo consistía en entrar por una ventana de baño e improvisar), cada uno de nosotros fue a su casa a descansar y prepararse para lo que haríamos en la noche del sábado, segundo día de diciembre.</text:p>
+   <text:p text:style-name="P4">Capítulo cuarto: Fantasía</text:p>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"/>
@@ -448,9 +459,9 @@
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"><text:tab/>Aún seguía todo en aquella extraña calma verde (¿Se le puede llamar a algo así?) cuando entramos al baño. Cuando cerré la puerta suavemente (por suerte), todo volvió <text:soft-page-break/>a ser oscuro, y, aparte de los ruidos de la carretera, por el pasillo, se escuchaban los pasos de un hombre cojo y viejo.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P4"><text:tab/>Saltando a la ventana con extrema excitación para escapar de lo vivido, escapamos con nuestro cometido, nos había ido bien cumpliendo nuestro objeto, y corrimos al encuentro de los que nos esperaban. No fue, debo decir, una muy buena bienvenida, solo nos preguntaron “¿Por qué se arrepintieron?” o “¿Qué hacen acá?” Extrañados los dos, nos miramos. Ella sacó el papel de su bolsillo, a lo que ellos dijeron que era imposible, que ni siquiera habían pasado dos minutos. Respondimos que no importaba, que teníamos la dirección y que nadie nos había visto, ¿Nos creerían que corrimos desesperados en los pasillos de un mundo totalmente verde mientras el tiempo estaba detenido? Nunca lo supimos, nunca les contamos.</text:p>
-   <text:p text:style-name="P3">Capítulo quinto: Investigación</text:p>
-   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P5"><text:tab/>Saltando a la ventana con extrema excitación para escapar de lo vivido, escapamos con nuestro cometido, nos había ido bien cumpliendo nuestro objeto, y corrimos al encuentro de los que nos esperaban. No fue, debo decir, una muy buena bienvenida, solo nos preguntaron “¿Por qué se arrepintieron?” o “¿Qué hacen acá?” Extrañados los dos, nos miramos. Ella sacó el papel de su bolsillo, a lo que ellos dijeron que era imposible, que ni siquiera habían pasado dos minutos. Respondimos que no importaba, que teníamos la dirección y que nadie nos había visto, ¿Nos creerían que corrimos desesperados en los pasillos de un mundo totalmente verde mientras el tiempo estaba detenido? Nunca lo supimos, nunca les contamos.</text:p>
+   <text:p text:style-name="P4">Capítulo quinto: Investigación</text:p>
+   <text:p text:style-name="P5"/>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"><text:tab/>Como precaución, cada uno escribió la dirección en algún lugar personal y nos separamos hasta la mañana siguiente. Era el tres de diciembre, una mañana calurosa, pero ¿A alguien le importa la temperatura cuando se tiene solo preguntas en la mente? El escenario era nuevamente la universidad, a la razón de que nadie se atrevió a entrar nuevamente, apenas llegamos todos, nos despedimos para siempre de nuestro reconocido establecimiento de educación, mirándolo desde la calle con miradas de extrañeza, de preguntas, de incredulidad. Para siempre. Hasta nunca.</text:p>
@@ -480,10 +491,10 @@
    <text:p text:style-name="P1"><text:soft-page-break/></text:p>
    <text:p text:style-name="P1"><text:tab/>Solo recuerdo eso, creo que es lo más importante, lo demás solo es información innecesaria, supongo.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Luego de la lectura en voz alta de una de mis compañeras, el silencio inundó toda la habitación, las ideas que cada uno concluyó eran obvias e idénticas. Borracho inmundo. Cinco personas miraban con odio a un hombre semidesnudo tirado en el suelo, solo era necesario el paso hacia delante de alguien para empezar algo de lo que nos arrepentiríamos. <text:span text:style-name="T1">Deus ex machina</text:span>. Pasos de personas interrumpieron el silencio gritando algo así como “policía” y recordamos que habíamos entrado sin permiso y empujando a la anciana criada. No pudimos hacer nada más que huir. Y corrimos con la energía de adolescentes prófugos, lo cual éramos.</text:p>
+   <text:p text:style-name="P1"><text:tab/>Luego de la lectura en voz alta de una de mis compañeras, el silencio inundó toda la habitación, las ideas que cada uno concluyó eran obvias e idénticas. Borracho inmundo. Cinco personas miraban con odio a un hombre semidesnudo tirado en el suelo, solo era necesario el paso hacia delante de alguien para empezar algo de lo que nos arrepentiríamos. <text:span text:style-name="T2">Deus ex machina</text:span>. Pasos de personas interrumpieron el silencio gritando algo así como “policía” y recordamos que habíamos entrado sin permiso y empujando a la anciana criada. No pudimos hacer nada más que huir. Y corrimos con la energía de adolescentes prófugos, lo cual éramos.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P4"><text:tab/>Ya corridos diez minutos, y dejando la casa más atrás que los policías gordos que nos seguían, resolvimos volver a la casa para encontrarnos con nuestro antiguo profesor sobrio y encararlo para obtener respuestas. Empresa imposible de cometer. Cuando volvimos una hora después, los policías estaban aún en la casa y hablando de vigilarla por toda la noche y el día siguiente. Solo nos quedaba una cosa por hacer, buscar a la familia de la niña atropellada y hallar las respuestas que hace tan poco y a la vez tanto tiempo buscábamos. Recuerdo que algunas de ellas cruzaron mi mente cuando emprendimos el viaje a los Archivos de la Biblioteca Nacional ¿Qué es un fantasma? ¿Qué es un espectro? ¿Qué es el alma? ¿Cómo se convierte la gente en esas cosas paranormales que tantas veces he leído en libros y revistas fantasiosas?</text:p>
-   <text:p text:style-name="P3">Capítulo sexto: Sueños</text:p>
+   <text:p text:style-name="P5"><text:tab/>Ya corridos diez minutos, y dejando la casa más atrás que los policías gordos que nos seguían, resolvimos volver a la casa para encontrarnos con nuestro antiguo profesor sobrio y encararlo para obtener respuestas. Empresa imposible de cometer. Cuando volvimos una hora después, los policías estaban aún en la casa y hablando de vigilarla por toda la noche y el día siguiente. Solo nos quedaba una cosa por hacer, buscar a la familia de la niña atropellada y hallar las respuestas que hace tan poco y a la vez tanto tiempo buscábamos. Recuerdo que algunas de ellas cruzaron mi mente cuando emprendimos el viaje a los Archivos de la Biblioteca Nacional ¿Qué es un fantasma? ¿Qué es un espectro? ¿Qué es el alma? ¿Cómo se convierte la gente en esas cosas paranormales que tantas veces he leído en libros y revistas fantasiosas?</text:p>
+   <text:p text:style-name="P4">Capítulo sexto: Sueños</text:p>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"/>
@@ -493,24 +504,24 @@
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"><text:tab/>12:25 – Tres de nosotros dormían y empecé a sentir sueño mirando por la ventana. Es la última hora que recuerdo antes de dormir.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T1">Despierto pensando que aún sigo en el bus, me equivoco, estoy en un auto. Todo es borroso y no creo controlar el movimiento de mi mirada. Estoy conduciendo, y el camino parece borrarse en pestañeos. Me duermo. El auto choca a baja velocidad con lo que creo es un árbol. En un intento vergonzoso por abrir los ojos solo puedo ver el volante, el parabrisas y... Sangre...</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T2">Despierto pensando que aún sigo en el bus, me equivoco, estoy en un auto. Todo es borroso y no creo controlar el movimiento de mi mirada. Estoy conduciendo, y el camino parece borrarse en pestañeos. Me duermo. El auto choca a baja velocidad con lo que creo es un árbol. En un intento vergonzoso por abrir los ojos solo puedo ver el volante, el parabrisas y... Sangre...</text:span></text:p>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"><text:tab/>12:40 – Desperté con el corazón queriendo salir de mi pecho, todos dormían.</text:p>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"><text:tab/>12:45 – El sueño volvió a llevarme a otro mundo, u otra visión, lo que sea.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T1">Igual al anterior sueño tampoco controlo la mirada, esta vez no es borrosa, pero todo está desde una perspectiva distinta, soy varios centímetros más bajo. Cada mano sujeta una persona más grande que yo, un hombre moreno de barba, y una mujer tan blanca que no contrasta con la iluminación que está detrás de ella cuando la miro. Extrañamente siento felicidad, no me extraña que sonriera mientras dormía en el bus. Veo dos luces que vienen hacia mí.</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T2">Igual al anterior sueño tampoco controlo la mirada, esta vez no es borrosa, pero todo está desde una perspectiva distinta, soy varios centímetros más bajo. Cada mano sujeta una persona más grande que yo, un hombre moreno de barba, y una mujer tan blanca que no contrasta con la iluminación que está detrás de ella cuando la miro. Extrañamente siento felicidad, no me extraña que sonriera mientras dormía en el bus. Veo dos luces que vienen hacia mí.</text:span></text:p>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"><text:tab/>13:00 – Esta vez desperté más bruscamente, golpeándome la frente con el asiento <text:soft-page-break/>de enfrente y despertando al que estaba sentado ahí. Me miró, pero no lo hizo ¿Cómo puedo explicar esto? Solo vi un par de ojos muertos, ojos que navegan por un mar de pesadillas, y nada creen en lo terrenal, en lo real. Ojos que toman el horror y la fantasía como una verdad y olvidan todo lo físico y palpable para aislarse en un mundo de sueños retorcidos que nacen desde los horrores de este mundo. Ojos que no miran hacia ningún lado, pero aún así observan los horrores imaginarios de irreales sueños inducidos por increíbles experiencias pasadas. Los mismos ojos con los que escribo este texto.</text:p>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"><text:tab/>La breve visión que tuve al rostro del despertado, me indujo un sueño horrible.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T1">No siento mi cuerpo, solo siento la molestia de unas luces. Una mirada horrible, ebria de miedo y alcohol. Balanceos. Siento que floto, siento que estoy muerto. La misma mirada otra vez, pero ahora está más cerca, y desaparece de a poco, como si estuviera siendo tapado con algo. Inmediatamente, lo poco y nada que veía, se vuelve verde. Verde, y aún más borroso que antes. Todo es verde. Solo verde. Siento un gran peso en mi pecho, en mis piernas, en mi rostro. Solo deja de ser verde, para volverse negro. Un negro color muerte.</text:span></text:p>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T2">No siento mi cuerpo, solo siento la molestia de unas luces. Una mirada horrible, ebria de miedo y alcohol. Balanceos. Siento que floto, siento que estoy muerto. La misma mirada otra vez, pero ahora está más cerca, y desaparece de a poco, como si estuviera siendo tapado con algo. Inmediatamente, lo poco y nada que veía, se vuelve verde. Verde, y aún más borroso que antes. Todo es verde. Solo verde. Siento un gran peso en mi pecho, en mis piernas, en mi rostro. Solo deja de ser verde, para volverse negro. Un negro color muerte.</text:span></text:p>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"><text:tab/>14:00 – Me despertaron. Parecía un muerto andante, pero no era el único. ¿Habrá alguno de mis compañeros tenido las mismas pesadillas que yo, que a pesar de que los sentimientos del miedo o el dolor no estaban presentes, se podía sentir la angustia horrible e insana, que aún llevo en mi corazón?</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P4"><text:tab/>Llegamos a nuestro destino. Cinco muchachos ojerosos, delgados y demacrados entraron a los archivos nacionales de la principal biblioteca del país, con un diario de hace cinco años en una de sus manos y muchas preguntas en sus cabezas.</text:p>
-   <text:p text:style-name="P3">Capítulo séptimo: Niña</text:p>
+   <text:p text:style-name="P5"><text:tab/>Llegamos a nuestro destino. Cinco muchachos ojerosos, delgados y demacrados entraron a los archivos nacionales de la principal biblioteca del país, con un diario de hace cinco años en una de sus manos y muchas preguntas en sus cabezas.</text:p>
+   <text:p text:style-name="P4">Capítulo séptimo: Niña</text:p>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"/>
@@ -536,10 +547,10 @@
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"><text:tab/>Solo nos dimos cuenta de cómo estaba decorada la casa cuando nos marchábamos: llena de fetiches espirituales y religiosos, casi todos relacionados con la muerte. Estatuillas, colgantes de piel, collares de huesos, una biblioteca salida del infierno, llena de librejos con símbolos extraños y huesos que espero no hayan sido humanos. Con tal decoración la casa parecía pertenecer a la santera ajena a las religiones grandes. Una visión horrible que tuvimos al dejar la casa, que dejamos un poco cabizbajos, sumisos ante la imponencia sentimental de la familia.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P4"><text:tab/>Aun así, les dijimos que gracias a la visita habíamos tenido muchos avances en nuestra investigación, y que pronto daríamos con el paradero de aquel que les había robado la más grande felicidad de sus vidas, pero en vez de mostrarse esperanzados, retorcieron sus rostros en una expresión inimaginable que ninguna palabra podría describir mejor que... ¿Venganza?</text:p>
-   <text:p text:style-name="P3">Capítulo octavo: Respuestas</text:p>
-   <text:p text:style-name="P4"/>
-   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P5"><text:tab/>Aun así, les dijimos que gracias a la visita habíamos tenido muchos avances en nuestra investigación, y que pronto daríamos con el paradero de aquel que les había robado la más grande felicidad de sus vidas, pero en vez de mostrarse esperanzados, retorcieron sus rostros en una expresión inimaginable que ninguna palabra podría describir mejor que... ¿Venganza?</text:p>
+   <text:p text:style-name="P4">Capítulo octavo: Respuestas</text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P5"/>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"><text:tab/>Algunas dudas se estaban despejando, a estas alturas ya podíamos hacer sugerencias sobre posibles respuestas a las extrañas preguntas que nos atormentaban, pero, aún así, no teníamos ninguna. La entrevista con la familia generó nuevas preguntas, pero no tengo intención alguna de responderlas.</text:p>
    <text:p text:style-name="P1"/>
@@ -564,10 +575,10 @@
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"><text:tab/>Bajo un crepúsculo de venganza, comencé a cavar rodeado de mis cuatro compañeros. Al estar mala la pala, sumado a los nervios de muerte que hacían temblar hasta mi conciencia, no podía existir un trabajador menos eficiente que yo. Demoré una eternidad, y los observantes así me lo demostraron, pero, aún así, no hicieron nada por ayudarme ¿Habrá sido el miedo? Luego de varios incontables minutos alcancé el metro de profundidad. Lo que encontré allí...</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P4"><text:tab/>Y en ese lugar del jardín, hallamos las respuestas que tanto buscábamos. La razón de que de un muro de madera saltara la imagen y forma de una niña, con una sonrisa eterna y diabólica, a tomar el cuerpo de un hombre cuyo pasado nadie conocía. Allí estaba, allí estaban las respuestas... En un agujero de casi un metro de profundidad... En el jardín de un hombre despreciable... Bajo la mirada de cinco jóvenes sin energía... Bajo un manto verde.</text:p>
-   <text:p text:style-name="P3">Capítulo noveno: Incógnita</text:p>
-   <text:p text:style-name="P4"/>
-   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P5"><text:tab/>Y en ese lugar del jardín, hallamos las respuestas que tanto buscábamos. La razón de que de un muro de madera saltara la imagen y forma de una niña, con una sonrisa eterna y diabólica, a tomar el cuerpo de un hombre cuyo pasado nadie conocía. Allí estaba, allí estaban las respuestas... En un agujero de casi un metro de profundidad... En el jardín de un hombre despreciable... Bajo la mirada de cinco jóvenes sin energía... Bajo un manto verde.</text:p>
+   <text:p text:style-name="P4">Capítulo noveno: Incógnita</text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P5"/>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"><text:tab/>Una eternidad pasó ante nosotros antes de que alguien levantara la mortaja verde. Al fin, yo lo hice. Puedo escribir en cada página de este relato, de mi último relato, cuánto me arrepiento de haber realizado cada una de las acciones posteriores al suceso de terror en mi antigua casa de estudios, y ésta no es la excepción. Me arrepiento tanto, lector. Me arrepiento tanto.</text:p>
    <text:p text:style-name="P1"/>
@@ -579,16 +590,16 @@
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"><text:tab/>La escena que describiré a continuación es de imposible credibilidad. Todos sentados con horror en nuestros rostros, en silencio, vimos... Como el cadáver comenzaba a levantarse, a dirigir miradas a cada uno de nosotros con su pequeño rostro desfigurado por el accidente y el paso de los años. Un horror mudo se apoderó de nosotros, del profesor corría un torrente de lágrimas sin siquiera pestañear. Y así, mientras nos miraba, comenzó a hablar. Lamentablemente (o por suerte), no recuerdo una sola palabra que ella dijera, sin embargo, recuerdo que fue lo que mencionó en su acusador monólogo. Recriminó hasta dar muerte a nuestro profesor, lo culpaba y atemorizaba con una voz horrible, gutural, tan ronca que hacía temblar los cimientos de nuestras almas aún jóvenes. Una voz imposible en este mundo mas no en el infierno. El corazón de aquel hombre no soportó tanta aversión, y mientras convulsionaba y comprimía sus extremidades en extrañas posiciones, cayó sin vida a un costado, con los ojos que, casi fuera de sus cuencas, eran tan blancos como su piel y tan antinaturales como abierta su quijada.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T1">Posteriori</text:span>, miró a cada uno de nosotros, y con la misma áspera voz nos comenzó a revelar secretos uno por uno, en un comportamiento errático y fuera de control. <text:soft-page-break/>Secretos íntimos que lastiman a la gente, secretos que nadie debería o quisiera saber jamás, de odio y de muerte, y que, aun así, veíamos a un cadáver gritándonoslos. No solo secretos contó aquel espectro, también verdades, y no personales, si no... Verdades... No quiero recordar... Sobre cosas... No quiero... Que la gente ignora... Hasta su muerte.</text:p>
+   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T2">Posteriori</text:span>, miró a cada uno de nosotros, y con la misma áspera voz nos comenzó a revelar secretos uno por uno, en un comportamiento errático y fuera de control. <text:soft-page-break/>Secretos íntimos que lastiman a la gente, secretos que nadie debería o quisiera saber jamás, de odio y de muerte, y que, aun así, veíamos a un cadáver gritándonoslos. No solo secretos contó aquel espectro, también verdades, y no personales, si no... Verdades... No quiero recordar... Sobre cosas... No quiero... Que la gente ignora... Hasta su muerte.</text:p>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"><text:tab/>La conciencia de morir. Cuanto odio se podía sentir en esa habitación, e increíblemente, bajo toda la tensión inconcebible de las circunstancias, tuve un pensamiento, más bien una pregunta, como las que había tenido hasta entonces ¿Podía una niña de seis años, odiar así? La respuesta es no. No a esa edad, no sin una razón viva pues la muerte libera e ignora el perdón, entonces ¿Qué estaba yo viendo ante mí? Lo entendí, en ese momento lo entendí todo.</text:p>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"><text:tab/>Me levanté, en medio del horror de su voz, del hedor, de la verdad. Pues la verdad es un horror. Pues la verdad suele matar gente, y así lo hizo el espectro ese día. En silencio y con la mirada perdida llena de angustia, caminé con empatía en mi corazón y decisión en mi cabeza en un acto de increíble valentía en un cuerpo que mi conciencia ya no controlaba. No sabía por qué, cuándo, dónde ni cómo, pero caminaba, y lo hacía al desgraciado cadáver de lo que alguna vez fue una reluciente niña con una vida llena de felicidad y un hermoso futuro por delante. La miré, me miró, y en silencio, la tomé en mis brazos.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P4"><text:tab/>El mundo desapareció esa tarde, solo era yo, con una bella niña en mis brazos, de cabello claro y liso, con unos saltones ojos verdes que me miraban sin pestañear, mientras yo hacía exactamente lo mismo. Creo haber caminado, pero no sé hacia dónde. Como dije, el mundo ya no existía, solo era yo, un universitario ojeroso, con una niña en brazos, mirándose, mientras caminaba en el vacío y hacia el mismo. Pudo haber pasado un millón de segundos ¡O quizás un millón de años! Quién sabe. Pero no importaba, porque donde me encontraba ahora no existía el tiempo, ni el color, ni el espacio, ni nada, solo éramos dos. El rostro de la niña cambió, se convirtió en pena e infelicidad, una lágrima cayó al vacío, y un abrazo paró la marcha. Existieron por un momento, palabras pronunciadas por aquella encadenada a la vida por la gente que la amo. Eso fue el final, un abrazo, una palabra, y la solté al vacío para olvidar a los muertos.</text:p>
-   <text:p text:style-name="P3">Capítulo décimo: Epílogo</text:p>
+   <text:p text:style-name="P5"><text:tab/>El mundo desapareció esa tarde, solo era yo, con una bella niña en mis brazos, de cabello claro y liso, con unos saltones ojos verdes que me miraban sin pestañear, mientras yo hacía exactamente lo mismo. Creo haber caminado, pero no sé hacia dónde. Como dije, el mundo ya no existía, solo era yo, un universitario ojeroso, con una niña en brazos, mirándose, mientras caminaba en el vacío y hacia el mismo. Pudo haber pasado un millón de segundos ¡O quizás un millón de años! Quién sabe. Pero no importaba, porque donde me encontraba ahora no existía el tiempo, ni el color, ni el espacio, ni nada, solo éramos dos. El rostro de la niña cambió, se convirtió en pena e infelicidad, una lágrima cayó al vacío, y un abrazo paró la marcha. Existieron por un momento, palabras pronunciadas por aquella encadenada a la vida por la gente que la amo. Eso fue el final, un abrazo, una palabra, y la solté al vacío para olvidar a los muertos.</text:p>
+   <text:p text:style-name="P4">Capítulo décimo: Epílogo</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P6"/>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"><text:tab/>Ese fue el último evento sin explicación en mi vida. Desperté después de mediodía, ya era tarde y el sol ardía con fuerza. Estaba junto al agujero en el patio del profesor. No había nada. En ese momento tampoco recordaba nada de lo ocurrido el día anterior. Me levanté y entré a la cocina, ahí empecé a darme cuenta donde estaba, a recordar el lugar, pero no el porqué estaba yo allí. Lo que vi en ese lugar, hasta el día de hoy me estremece, no tanto claro está, como los dos sucesos que cambiaron mi vida por completo. De mis cuatro compañeros, una estaba muerta, más tarde supe que fue un paro cardiorrespiratorio, o esas cosas que dicen los médicos al no saber la causa exacta, ni el porqué pasó. Pero yo sí conozco la razón de su muerte, murió por miedo... Al horror de la verdad.</text:p>
    <text:p text:style-name="P1"/>
