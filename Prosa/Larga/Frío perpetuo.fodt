@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:date>2025-05-28T11:17:49.178301824</dc:date><meta:editing-duration>PT11M16S</meta:editing-duration><meta:editing-cycles>4</meta:editing-cycles><meta:generator>LibreOffice/25.2.3.2$Linux_X86_64 LibreOffice_project/bbb074479178df812d175f709636b368952c2ce3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="18" meta:paragraph-count="119" meta:word-count="6066" meta:character-count="33834" meta:non-whitespace-character-count="27775"/></office:meta>
+ <office:meta><dc:date>2025-05-28T13:26:24.315874280</dc:date><meta:editing-duration>PT32M27S</meta:editing-duration><meta:editing-cycles>11</meta:editing-cycles><meta:generator>LibreOffice/25.2.3.2$Linux_X86_64 LibreOffice_project/bbb074479178df812d175f709636b368952c2ce3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="18" meta:paragraph-count="119" meta:word-count="6066" meta:character-count="33834" meta:non-whitespace-character-count="27775"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">21</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">81317</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">35544</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">48791</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">21327</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">31863</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">24395</config:config-item>
      <config:config-item config:name="ViewTop" config:type="long">8269</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">21</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">81315</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">35564</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">48789</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">21325</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">60</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">true</config:config-item>
@@ -144,7 +144,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1334449</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1625249</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -201,6 +201,9 @@
   <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
    <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
    <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans" style:font-family-complex="&apos;Noto Sans&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:orphans="0" fo:widows="0" text:number-lines="false" text:line-number="0"/>
   </style:style>
   <text:outline-style style:name="Outline">
    <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
@@ -276,7 +279,8 @@
  </office:styles>
  <office:automatic-styles>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" officeooo:paragraph-rsid="00145cb1"/>
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-weight="bold" officeooo:rsid="001747c3" officeooo:paragraph-rsid="001747c3" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:break-before="page"/>
@@ -284,6 +288,9 @@
   </style:style>
   <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" officeooo:paragraph-rsid="00145cb1"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
@@ -326,6 +333,7 @@
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"/>
    <text:p text:style-name="P1">Frío perpetuo</text:p>
    <text:p text:style-name="P2">Capítulo primero: Mi primer trabajo</text:p>
    <text:p text:style-name="P3"/>
@@ -349,7 +357,7 @@
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P3"><text:tab/>Cuando pasamos la extraña habitación, volteé y me di cuenta de que no era un pozo en sí, si no más bien una entrada, como la de los bomberos al primer piso, pero el eco que hizo el crujir de las maderas, más la débil luz acuática que se reflejaba desde abajo, hicieron darme cuenta luego de pensar un poco, que en el primer piso sí había uno. ¿Por qué habría un pozo o cualquier clase de agujero literalmente a la mitad de una casa?</text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P1"><text:tab/>Con las dudas que tenía y el temor a la casa no me había dado cuenta del frío que había allí, era tanta la humedad que mis pestañas se humedecían solo al caminar. Llegamos a la habitación del anciano que debía cuidar y el hombre abrió la puerta aún con nerviosismo, me esperé el cuadro de una anciana tomando la mano de su viejo marido recostado en una cama casi agonizante, sin embargo, no era su pareja quien la sostenía con nostalgia, si no, me imaginé, su bis o tátara nieta. De cabello negro como el ébano, ojos claros avellana, labios azules y la vestimenta de una indigente. Ella me miró desde su tierna altura y no pude contener mi aliento ni las tristes lágrimas que brotaron a propia voluntad de mis ojos.</text:p>
+   <text:p text:style-name="P4"><text:tab/>Con las dudas que tenía y el temor a la casa no me había dado cuenta del frío que había allí, era tanta la humedad que mis pestañas se humedecían solo al caminar. Llegamos a la habitación del anciano que debía cuidar y el hombre abrió la puerta aún con nerviosismo, me esperé el cuadro de una anciana tomando la mano de su viejo marido recostado en una cama casi agonizante, sin embargo, no era su pareja quien la sostenía con nostalgia, si no, me imaginé, su bis o tátara nieta. De cabello negro como el ébano, ojos claros avellana, labios azules y la vestimenta de una indigente. Ella me miró desde su tierna altura y no pude contener mi aliento ni las tristes lágrimas que brotaron a propia voluntad de mis ojos.</text:p>
    <text:p text:style-name="P2">Capítulo segundo: El trabajo soñado</text:p>
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P3"/>
@@ -366,7 +374,7 @@
    <text:p text:style-name="P3"><text:soft-page-break/></text:p>
    <text:p text:style-name="P3"><text:tab/>A pesar de que yo contestaba todas sus preguntas, o por lo menos las que podía, ella ignoraba sin siquiera mover un músculo las preguntas que yo le hacía, como el por qué había un agujero en el segundo piso, y qué había en el primero.</text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P1"><text:tab/>Lamentablemente, tuve que averiguarlo por mí mismo.</text:p>
+   <text:p text:style-name="P4"><text:tab/>Lamentablemente, tuve que averiguarlo por mí mismo.</text:p>
    <text:p text:style-name="P2">Capítulo tercero: ¿Accidente laboral?</text:p>
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P3"/>
@@ -375,10 +383,10 @@
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P3"><text:tab/>No recuerdo qué día sucedió, ni de que mes, ni año, porque eso ya no es importante. Ya nada es importante para mi... Al siguiente día de recibir un sobre con mi sueldo, quería agradecerle al hombre extraño por el trabajo. Fui a la especie de oficina que tenía mi empleador en el segundo piso y cuando di un paso fuerte frente a su puerta, la madera podrida la abrió como si le hubieran dado un empujón. Tengo recuerdos difusos acerca del hombre sin piel, con el torso abierto, al que la anciana, que a veces solía ver deambular por la casa, rellenaba con arcilla. Me miró sorprendida y levantó su mano apuntándome con una señal de calma, y lo había logrado, hasta que aquel hombre falso levantó la vista a verme e hizo el mismo gesto con su brazo, dejando ver que era solo un par de huesos con trozos de arcilla en él.</text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P1"><text:tab/>No necesito obviar que huí como un loco de ahí, y, que si no fuera por mi pensamiento, antónimo de la lógica, me habría detenido a pensar que acababa de pasar. Pero no fue así, y corrí y corrí un tiempo indeterminado por la laberíntica mansión. Terminé perdiéndome al no conocerla aún muy bien y llegué a la extraña habitación circular. Corriendo, cayendo por el podrido piso al que la humedad había corrompido quizás por siglos y, viendo frente a mí el rostro más horroroso que ningún humano ni criatura viva de este mundo tendría, “bajé del suelo”.</text:p>
+   <text:p text:style-name="P4"><text:tab/>No necesito obviar que huí como un loco de ahí, y, que si no fuera por mi pensamiento, antónimo de la lógica, me habría detenido a pensar que acababa de pasar. Pero no fue así, y corrí y corrí un tiempo indeterminado por la laberíntica mansión. Terminé perdiéndome al no conocerla aún muy bien y llegué a la extraña habitación circular. Corriendo, cayendo por el podrido piso al que la humedad había corrompido quizás por siglos y, viendo frente a mí el rostro más horroroso que ningún humano ni criatura viva de este mundo tendría, “bajé del suelo”.</text:p>
    <text:p text:style-name="P2">Capítulo cuarto: Frío líquido</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"/>
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P3"><text:tab/>Caí de espalda al primer piso y, con un gran dolor, logré sentarme aún con los ojos cerrados, para abrirlos y tener el rostro de una monstruosa criatura a menos de diez centímetros del mío. Me paralicé. Las emociones, a las que no estoy acostumbrado, me superaron.</text:p>
    <text:p text:style-name="P3"/>
@@ -400,7 +408,7 @@
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P3"><text:tab/>Dejé de temblar y pensé que moría. El ser caminaba lentamente buscando algo con el mismo gesto extraño, pero no halló lo mismo que lo hizo despertar y se volvió hacia la misma puerta por la que entró luego de un escalofrío al que no encontré explicación. Me pensé libre de esa mirada foránea y del vacío infinito que se veía desde sus pupilas huecas.</text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P1"><text:tab/>Recuerdo haber visto a la niña con los labios morados y ojeras rojas en su rostro, mientras todo lo demás eran nieblas frías.</text:p>
+   <text:p text:style-name="P4"><text:tab/>Recuerdo haber visto a la niña con los labios morados y ojeras rojas en su rostro, mientras todo lo demás eran nieblas frías.</text:p>
    <text:p text:style-name="P2">Capítulo quinto: El tiempo no tiene sentido</text:p>
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P3"/>
@@ -480,7 +488,7 @@
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P3"><text:tab/>Me vi a mi en la anciana, porque aunque estábamos en escalas distintas, ella también conocía la impotencia de la debilidad.</text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P1"><text:tab/>Miré el pasado y vi felicidad. Miré el presente y solo había confusión. Miré al futuro y no había nada. Y la falsa alegría en mi murió. Elegí el camino de la negación e intenté vivir en el pasado, que jamás se repetirá.</text:p>
+   <text:p text:style-name="P4"><text:tab/>Miré el pasado y vi felicidad. Miré el presente y solo había confusión. Miré al futuro y no había nada. Y la falsa alegría en mi murió. Elegí el camino de la negación e intenté vivir en el pasado, que jamás se repetirá.</text:p>
    <text:p text:style-name="P2">Capítulo sexto: Trabajando como muerto</text:p>
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P3"/>
@@ -525,10 +533,10 @@
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P3"><text:tab/>Acabé mi jornada laboral sin antes preguntar si me necesitarían. Prefirieron estar solos. No creían que podría aguantar lo que se venía. Con una sonrisa me despedí de ellos, quizás me contagiaron su alegría al ver su sonrisa conjunta y con sus manos entrelazadas tan románticamente. Esa fue la última vez que sentiría calidez en mi corazón.</text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P1"><text:tab/>En el viaje al indiferente hogar que no me esperaba, solo podía pensar una y otra vez en la última frase que oí de la persona más fuerte que he conocido en mi vida: “Siempre hay esperanza”.</text:p>
+   <text:p text:style-name="P4"><text:tab/>En el viaje al indiferente hogar que no me esperaba, solo podía pensar una y otra vez en la última frase que oí de la persona más fuerte que he conocido en mi vida: “Siempre hay esperanza”.</text:p>
    <text:p text:style-name="P2">Capítulo séptimo: Condena</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"/>
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P3"><text:tab/>Pero era la última esperanza. Y en mi corazón, el mar de la resignación se evaporó.</text:p>
    <text:p text:style-name="P3"/>

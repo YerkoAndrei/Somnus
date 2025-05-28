@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:date>2025-05-28T12:07:29.349253677</dc:date><meta:editing-duration>PT14M10S</meta:editing-duration><meta:editing-cycles>7</meta:editing-cycles><meta:generator>LibreOffice/25.2.3.2$Linux_X86_64 LibreOffice_project/bbb074479178df812d175f709636b368952c2ce3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="13" meta:paragraph-count="100" meta:word-count="4481" meta:character-count="25014" meta:non-whitespace-character-count="20549"/></office:meta>
+ <office:meta><dc:date>2025-05-28T13:26:23.259398300</dc:date><meta:editing-duration>PT24M34S</meta:editing-duration><meta:editing-cycles>9</meta:editing-cycles><meta:generator>LibreOffice/25.2.3.2$Linux_X86_64 LibreOffice_project/bbb074479178df812d175f709636b368952c2ce3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="14" meta:paragraph-count="105" meta:word-count="4497" meta:character-count="25089" meta:non-whitespace-character-count="20614"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">336555</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">44355</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">19389</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">48791</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">21327</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">18667</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">349560</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">24395</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">8846</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">336555</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">44353</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">355942</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">48789</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">21325</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">110</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">true</config:config-item>
@@ -144,7 +144,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1604720</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1831094</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -168,7 +168,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0cm" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0cm" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Serif" fo:font-size="12pt" fo:language="es" fo:country="CL" style:letter-kerning="true" style:font-name-asian="DejaVu Sans" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="DejaVu Sans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -276,20 +276,41 @@
  </office:styles>
  <office:automatic-styles>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1"/>
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-weight="bold" officeooo:rsid="001747c3" officeooo:paragraph-rsid="001a93df" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-weight="bold" officeooo:paragraph-rsid="0019bc68" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" officeooo:paragraph-rsid="00168aab"/>
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" officeooo:paragraph-rsid="0019bc68"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" officeooo:paragraph-rsid="00168aab"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" officeooo:paragraph-rsid="00168aab"/>
   </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" officeooo:paragraph-rsid="0019bc68"/>
+  </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties officeooo:rsid="0019bc68"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
@@ -314,166 +335,188 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P1">Lilium</text:p>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>He comenzado la tranquila vida que siempre quise tener, y, desde hoy, la relataré.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Me he alejado del mundo y de su gente. Me aparté de la humanidad y de la civilización que han creado. No soy un hombre ni mucho menos un dios, y si es necesario llamarme bestia, así deberé ser llamado.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Para perpetuar mis memorias y que no se perdiesen en el viento junto a mi cuerpo, decidí comenzar un nuevo diario con todo lo interesante que pueda ocurrir en mi nueva vida. Para esto, estuve practicando dos años el arte de la taquigrafía que siempre admiré desde mi infancia por sobre todas las demás artes. Podrá sonar ridículo incluso, pero hasta al aire libre es importante escribir a la velocidad del habla. Aún no estoy seguro qué terminaré escribiendo, pero, si al releer mis escritos me doy cuenta que algo ha cambiado en mi comportamiento, podré confirmarlo antes de volverme un ermitaño sin cerebro y hacer lo necesario para revertir una indeseable situación como esa. Este diario lo he creado con el propósito de mantener mi salud mental intacta en la eterna soledad en la que mi corazón ha decidido permanecer hasta su muerte.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Decidí llevar conmigo siempre una pequeña libreta para poder escribir inmediatamente los sucesos que pudiera vivir fuera de mi hogar y de la comodidad de un escritorio. Por supuesto, utilizando mi propio sistema único y personal, que perfeccioné durante los dos años de estudio antes de mi renacer, al punto de ser la única persona en ser capaz de leer y entenderlo.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>La costumbre me ha hecho escribir mi diario de siempre en taquigrafía, al principio me consideré a mí mismo torpe por hacerlo, pero, ¿Quién más lo leería? Por ende, decidí seguir escribiendo mi diario en las noches como siempre y mezclarlo con las notas taquigráficas que escribiría en el cuadernillo que siempre llevo en mi bolsillo. He borrado todo recuerdo de mi anterior vida y mi crónica comienza en el verde que hoy me rodea.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>A pesar de que la nueva vida que elegí es en extremo tranquila, aún quiero anotar los sucesos que me parezcan interesantes, sobre todo la observación de aves de la que soy un fanático y el calendario de estrellas que estoy planeando hacer con la observación natural de las mismas. No tengo recuerdos dignos de escribir al futuro, antes de mi renacimiento. Siento mucha curiosidad de ver que anotaré en mi ahora <text:soft-page-break/>simple y silenciosa vida. En mi ahora irrelevante y plácida existencia en el mundo de la vida.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T1">Acabo de ver un ave verde con una mancha roja en el alféizar de mi ventaja. Quería identificarlo y salí corriendo apresurado de mi casa con la libreta en la mano con la intención de dibujarlo, pero solo veo una mancha lejana en los árboles y no logro distinguir si es un ave o una simple rama.</text:span></text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Hace unos días, en mi afán de tener una casa con una innecesaria compleja estructura y guardar cosas inútiles de las que no soy capaz de deshacerme, con planos creados por mí mismo luego de largas horas de estudio, comencé a cavar bajo mi casa. Junto a la soledad de la montaña en la que recién mudado vivía, lo hacía cada mañana de cada día, lejos de la gente de los pueblos cercanos y antes de buscar los alimentos que ahora conseguía de la tierra.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Cuando me faltaban solo un par de metros para terminar la excavación planeada, noté una superficie extremadamente compacta en la tierra y me decidí a romperla para seguir mi tarea. Con una picota estuve más de dos horas intentando romper la dura superficie, que, cabe destacar, estaba a cinco metros de profundidad. Logré romperla por fin con mucho esfuerzo y entré a un hueco con paredes sólidas de aproximadamente dos metros de ancho, dos también de alto y cuatro de largo. De esto último no estoy tan seguro, ya que no alcanzaba a ver el fondo por la oscuridad y lo que lo tapaba. Era algo demasiado inusual, las paredes eran extremadamente lisas y creo sus caras y aristas eran incluso más rectas que las de mi propia casa. Aunque esto no es tan importante si considero que dentro de la estructura encontraría algo que cambiaría mi vida por completo y que gracias a ello podría seguir con mi objetivo en esta nueva vida. Cuando descendí a la “habitación”, frente a mí encontré una criatura estática, un ser humanoide envuelto en raíces, de piel marchita y de apariencia momificada. Sentada, quieta, venerable y bella. No me atrevería a decir que era una momia, ya que, aunque no me atreví a tocar su incolora piel, se veía fresca en su sequedad.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T1">¿Qué podrá ser? Es muy grande y su cuerpo se impone ante mi humilde ser. No logro comprender las raíces que la rodean. ¿Es esto un altar o una tumba?</text:span></text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Quizás sea imposible describirla, pero lo intentaré: a pesar de que sus rasgos eran sumamente delicados y bellos, su deformidad me helaba la sangre, sin contar que el volumen de su gigantesco cuerpo era quizás tres veces el mío. Estaba sentada en una posición bastante extraña, sujetando su cuerpo con sus impares manos cuya estructura carecía de sentido. Se apreciaban varias fracturas en lo que parecían ser sus huesos y también en sus músculos. Su rostro era hermoso en su forma, su mandíbula se <text:soft-page-break/>extendía de extraña forma y su exceso de dientes la hacía más grande con un propósito desconocido. La cresta sagital en su cráneo, explicando quizás su exagerada dentadura, rozaba la superficie del hueco obviamente edificado para ella al cual llamé “Sarcófago” y cuyo descubrimiento haría mi vida en la montaña mucho más interesante. Su belleza era comparable a la de un ángel, pero, no podría ser uno sin un mensaje cual entregar ¿Cierto?</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Cuando apagué por error mi linterna me di cuenta que emitía una extraña luminiscencia, lo que me hizo pensar por un momento que estaba viva. A pesar de que su luz era tenue, dejaba ver su extraña y bella figura en conjunto a las flores que la rodeaban... ¿¡Flores!? ¿Por qué habría flores cinco metros bajo el suelo en un sarcófago paralelepípedo liso y sin perforaciones?</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Cuando comencé a observar y analizar las flores desde más cerca, me llegó como un golpe el aroma de éstas y reconocí inmediatamente el sentido olvidado de los lirios en su florecimiento. ¿Qué clase de lirios eran esos? He leído un sinnúmero de libros de botánica, pero no logro reconocer siquiera sus pétalos. Creo que hay por lo menos tres tipos de lirios, distintos en tamaños y en formas, pero sus colores, aunque distintos también, parecen estar hechos de la misma rugosa materia que no parece ser vegetal. No se parecían en nada a lo que había visto antes. Su visión indujo la somnolencia en mi persona tan fuertemente que tuve que subir gateando a mi cama, a dormir con pesadez. Aunque estaba excitado por el descubrimiento de la criatura, o lo que fuese, el sueño me atacó tan fuerte y sorpresivamente cuando me acerque de más a ellas, que necesité un esfuerzo gigante para llegar a mi habitación y caí en la cama con la misma ropa sucia con la que había estado trabajando.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Tuve un sueño que me hizo despertar con un extraño sentimiento, pero lo olvidé apenas desperté. Decidí dejar mi diario en el mueble junto a la cama y escribir el próximo sueño que tuviese para no olvidarlo jamás. Tengo la sensación de que en él aparecía el ser momificado.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Animado con el descubrimiento del día anterior, decidí ordenar todo y posponer la excavación para dedicar todo mi tiempo a la observación y análisis de la sólida estructura y del ser que había dentro. No soy una persona impaciente, y si la criatura había permanecido allí durante quién sabe cuánto tiempo, seguiría estando ahí en la mañana cuando despertase y a mediodía cuando fuese a verla.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Tardé solo una mañana y a mediodía bajé al subterráneo a observar mejor todo lo que allí había. Llevé mi cuadernillo y en él anoté todo lo que debía y podía investigar, también anoté ciertas teorías o posibilidades de que podría ser la criatura embalsamada con el perfume de aquellos extraños lirios multicolores: simple momia <text:soft-page-break/>humana deformada por el tiempo, humano malformado de la antigüedad y venerado por esta misma razón, homínido desconocido, ¿Extraterrestre?, formación extrañamente parecida a un humano de las raíces de las enredaderas que allí había... Creo que no se me ocurría nada más. Ninguna de estas ridículas opciones fue acertada.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Me senté en el suelo en una posición similar a la de la criatura y la admiré un par de minutos.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>“¿Qué será?”, me pregunté más de una vez.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>“¡Quiero saber qué es!”, me repetí aún más veces.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Vi que las flores del extraño color rojizo se movían como si el viento de primavera de la superficie llegara hasta ahí. Pero no lo hacía. Otra vez una horrible somnolencia cayó en mi cuerpo y mente y sin poder siquiera mover un mínimo las piernas para levantarme, caí con pesadez sobre la lisa tierra comprimida que hacía de suelo para el ser que, ante mí, permanecía inmóvil.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T1">Estoy despierto, sentado de la misma forma, mientras la criatura aumenta su luminiscencia incolora y los pétalos de las flores vibran con sensualidad. Se detuvieron. Sin mover en absoluto su delgado y desfigurado cuerpo, ella me habla:</text:span></text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T1">- Tú, que mi cuerpo descubriste. Tú, que mi descanso profanaste. ¿Qué de mí deseas? -dijo sin mover un músculo (si es que tuviera alguno).</text:span></text:p>
-   <text:p text:style-name="P2"><text:tab/>- Solo quiero el saber. Quiero saber qué eres. -respondí inmediatamente, totalmente asombrado, sin pensar siquiera con quién o qué estaba hablando.</text:p>
-   <text:p text:style-name="P2"><text:tab/>- Mañana sabraslo. Mañana diré yo. Dame hoja y pincel. Veraslo escrito cuando del segundo sopor despiertes.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Desperté sentado con las piernas cruzadas y con la frente en el piso con un dolor inmenso en mi cabeza y espalda por la incómoda posición en la que me había dormido e intenté anotar rápidamente en mi libreta el onírico diálogo que recién había tenido. Pero ya estaba escrito.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Ya estaba hecho. Sin esperanza alguna y obviando que mis visiones habían sido influenciadas por mi gran imaginación, arranqué una hoja de mi libreta y la dejé debajo del lápiz que tenía en ese momento frente al ser cuyo comportamiento era el de una estatua. Subí a mi habitación y me di cuenta que ya era de noche y la luna estaba a mitad del camino de observación de la alejada tierra en la que hoy vivo. Estaba extremadamente agotado, intentando recordar si había alcanzado a hacer algo ese día o si lo pasé en difusos recuerdos. Apenas me acosté, mi cuerpo y mente se apagaron <text:soft-page-break/>por completo. Desperté doce horas después.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T1">Estoy dormitando en la cama y creo ser capaz de ver algo con mis ojos cerrados. Estoy escribiendo con el rostro cubierto, espero comprender mi letra más tarde. Creo que hay algo gigante frente a mí. Creo que me observa. No puedo moverme, salvo mi diestra, que escribe. Se está moviendo y desciende donde no hay escala.</text:span></text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>A mediodía bajé al subterráneo a ver si ahora podría observar a la criatura sin quedarme dormido y encontré la hoja doblada con el lápiz encima. Sorprendido y asustado al mismo tiempo por el hallazgo, temeroso de qué podría decir, pero, aún más de si había sido ella quien había hecho esto, lo abrí:</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>“Soy conocimiento.</text:p>
-   <text:p text:style-name="P1"><text:tab/>Soy genio.</text:p>
-   <text:p text:style-name="P1"><text:tab/>Soy demonio”.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>No entendí en absoluto el mensaje. ¿Se supone que la criatura había escrito esto? Está escrito con mi taquigrafía. ¿Yo lo escribí acaso? Revisé en el diario taquigráfico lo que escribí sin recordar exactamente cuándo y leí que en mis sueños le había preguntado solemnemente qué era a la criatura. No lo recordaba... ¿Me respondió? ¡¿Está viva?!</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>El miedo desapareció de mi espíritu cuando la curiosidad en mi mente devoró todo sentimiento vano que puede poseer un hombre en su ser. La pasión por el conocimiento. El amor por el análisis y el aprendizaje. La devoción a lo desconocido. La labor de descubrir lo oculto y la compleja tarea de saber lo antes ignorado estaba ante mí y yo mismo la haría antes que cualquier hombre en este mundo.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Estando yo de pie, tenía la misma altura ella sentada. Me arrodillé ante ella demostrando mi humildad a su imponente cuerpo y pregunté con honrada timidez si podría responder a las preguntas que mi corazón hiciera. Los lirios rojos comenzaron a vibrar, y cuando se detuvieron, el ser me habló:</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T1">- ¿Qué saber quieres de mi ser? -preguntó- ¿Qué fragmento de sabiduría quieres que te sea concedida antes de la pronta expiración de tu alma?</text:span></text:p>
-   <text:p text:style-name="P2"><text:tab/>- ¿Eres o fuiste alguna vez humana? -pregunté mareado y sin sentido del espacio. Creo que estoy flotando.</text:p>
-   <text:p text:style-name="P2"><text:tab/>- No. A pesar tener una apariencia similar a un humano como tú, momificado por lo árido de esta tierra subterránea en donde elegí descansar, no soy de carne, como tú. Mi cuerpo es absoluto y no podrás definirlo en tu lengua. No todo es material y no todo lo que puede sentirse pertenece a este mundo. No soy de física ni de imaginación. Sé que, si <text:soft-page-break/>me analizaras con tu inteligencia, me calificarías como un ser vegetal, solo por mi delicada estructura solar-radical. Pero, mi carne no es carne. Mi sangre no es sangre. Mi savia no es savia. Mi cuerpo no es cuerpo. Mi alma es eterna y mi memoria interminable. Soy de infinitas formas, y tu vida para mí no es más que un momento en mi existencia ilimitada. A ti hablo tal cual tú hablas a un insignificante insecto.</text:p>
-   <text:p text:style-name="P2"><text:tab/>- ¿Entonces, eres una planta inmortal cuyas raíces lucen como un homínido? -dije, aún mareado, con un sarcasmo que ni yo mismo entendí, nervioso por alguna razón, sin pensar en lo peligrosa que se veía la situación, quizás avergonzado de mi obvia inferioridad- ¿Qué eres y qué quieres, ser de los lirios?</text:p>
-   <text:p text:style-name="P2"><text:tab/>- Creo que debo utilizar bien mi lengua contra ti. Yo digo y tú desoyes. Yo explico y tú dudas. No, soy algo mucho más complejo que eso, pero, ¿Qué importa lograr definirme en un reino, no crees más importante que logremos hacer un trato entre nosotros dos, como seres pensantes e inteligentes que somos? -logré identificar el asomo de un halago y me hizo, manipulativamente, sentir que hablaba con un igual- ¿Te interesa el intercambio? Sé lo que buscas, y lo que buscas no es saber.</text:p>
-   <text:p text:style-name="P2"><text:tab/>- No sé a dónde quieres llegar, pero hacer un trato con una criatura en mí subterráneo que se define a sí misma como una planta no es algo que podría hacer a diario. Dime, ser momificado, ¿Qué deseas de mí?</text:p>
-   <text:p text:style-name="P2"><text:tab/>- Yo te doy lo que más deseas, tú me das lo que más deseo. Yo lo sé. Te noto aburrido en tu nueva vida. Todo a su tiempo. Tú no buscas el saber. Yo te doy historias que he recopilado de los tres mundos humanos, relatos que cambiarán tu vida por completo y te harán un hombre nuevo, y tú, en cambio, solo me darás lo único más grande que has formado en toda tu existencia.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Desperté sin tiempo para responder. Tomé la libreta y el sueño ya había sido escrito. Me levanté del duro suelo y me incliné ante ella accediendo a su petición. Acepté feliz, pensando que lo más grande que he creado era mi nueva casa o todo el dinero que poseía, que me llevó décadas conseguir, pero, que, aún así, de ninguno me siento muy inclinado a resguardar ni proteger con mi vida. Lo pensé un buen trato. La curiosidad ya había devorado el resto de los sentimientos en mi corazón.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Al inclinarme ante ella, me di cuenta que su piel incolora emitía una tierna luz blanquecina, y aunque lo intenté, no fui capaz de tocarla siquiera con mis uñas. No me atreví. No pude hacerlo. Sin embargo, sí me atreví a tocar una de las extrañas especies de flores que crecían sobre, detrás y alrededor suyo. Algunos de los lirios parecían <text:span text:style-name="T1">copihues</text:span> o <text:span text:style-name="T1">lapagerias</text:span> y otros más abiertos se veían como <text:span text:style-name="T1">azucenas</text:span>, sin embargo, no podría considerarlos en estas especies. Eran enredaderas con firmes espinas gigantes de ocho centímetros en promedio, que cuando toqué, sentí el frío y filoso metal en las yemas de mis dedos y la sangre que escurrió de mi piel no la hallé jamás ni en sus ramas ni en sus pétalos. Toqué con atrevida confianza los pétalos de las flores que crecían alrededor del ser inmóvil, pensando que su suavidad relajaría la herida en mi <text:soft-page-break/>índice izquierdo, pero me horroricé y di un salto atrás jurándome no volver a tocar nada relativo a aquello cuando la carne fresca sentí en mis dedos.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Dejé rápido mi libreta junto al lápiz y subí asustado a mi hogar, todavía temeroso por lo que había sentido. Era ya de noche y decidí descansar de la pesadumbre somnolienta que me atacaba.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T1">No siento mi mano y no logro moverla... No. Ya la siento, pero está muy débil. Yo también estoy débil.</text:span></text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>A la mañana siguiente bajé inmediatamente al sarcófago en mi subterráneo y abrí la nota. En ella se escribía mi taquigrafía, decía:</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>“Dame hoja y pincel. Lo suficiente para tu disfrute”.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>No suelo sobrepensar lo que no logro entender. Accedí alegre pero nervioso y con cierta desconfianza, dejando treinta hojas frente al ser de los lirios. Sobre ellas, uno de mis lápices de tinta favoritos, que dejé vacío y con un frasco de tinta a un lado. Satisfecho y entusiasmado por haber hecho el trato, estuve todo el día ansioso, caminando de un lugar a otro sin ningún propósito, esperando el ansiado momento para volver a ver a la criatura en mi subterráneo. Al ser en el sarcófago.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>A la mañana siguiente, después de una larga noche sin poder dormir, volví y hallé la mejor sorpresa que he tenido en mi vida. El total de las hojas estaban ya escritas y separadas en títulos y algunos de éstos en capítulos. Escritos cada uno de los títulos en distintas manuscritas, relataban diarios de personas que en otra época vivieron o que quizás podrían vivir hoy. El lápiz seguía vacío y en el frasco había la misma cantidad de tinta, pero en vez de negra, era roja... No lo entendí. Pero el contrato había comenzado.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>No le di importancia a lo anterior y comencé a leerlos con disfrute. La primera hoja sobre las demás historias, haciendo de título a la recopilación, tenía una nota dirigida al lector, a mí. En ella decía:</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P3"><text:tab/>“Lee lo que han creado cada una de las almas de estos seres y deleita la pasión con la que fueron sus obras escritas”.</text:p>
-   <text:p text:style-name="P4">***</text:p>
-   <text:p text:style-name="P1">- El espectro</text:p>
-   <text:p text:style-name="P1">- El muro</text:p>
-   <text:p text:style-name="P1">- Perseguidor</text:p>
-   <text:p text:style-name="P1">- Carta a mi nuevo eterno amor que estuvo siempre a mi lado</text:p>
-   <text:p text:style-name="P1">- El monstruo oculto</text:p>
-   <text:p text:style-name="P1">- Desde el tercer mundo</text:p>
-   <text:p text:style-name="P3">***</text:p>
-   <text:p text:style-name="P4"><text:tab/>Fui por lo menos nueve veces, durante los tres días que demoré en leer los manuscritos, al subterráneo, sin éxito, a pedir respuestas a las historias que la Cuentacuentos me había otorgado, pero no fue hasta que leí la totalidad de las historias que me contestó, cuando me senté en humilde forma frente a ella y su vibración y tenue luz del cansancio me despertaron.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T1">- ¿Qué saber quieres de mi ser? -preguntó- ¿Qué fragmento de sabiduría quieres que te sea concedida antes de la pronta expiración de tu alma?</text:span></text:p>
-   <text:p text:style-name="P2"><text:tab/>- Dime, ser que cuenta cuentos... Por favor. Respóndeme Cuentacuentos. ¿Dónde está el tercer mundo? Y a qué mundo perteneces tú.</text:p>
-   <text:p text:style-name="P2"><text:tab/>- El tercer mundo de la existencia humana es un mundo subjetivo y superior. Y yo, no pertenezco ni a la vida, ni a la muerte, ni a los sueños. El contexto de los como yo es aún más grande y el triángulo que encierra tu existencia es solo un fragmento en la nuestra. Quien traspasa la puerta se encuentra en él.</text:p>
-   <text:p text:style-name="P2"><text:tab/>- ¿Los como tú? ¿Hay más como tú?</text:p>
-   <text:p text:style-name="P2"><text:tab/>- Millones. Eones. Ninguno. Solo se viene a la vida humana a conseguir sabiduría. Aunque no es abundante, la memoria es grande y de ella se extrae el saber. Lo que se busca aquí es genio. Lo que aquí se busca es sabiduría. Y la sabiduría se guarda en la memoria. Y la memoria es alma. Y el alma es saber.</text:p>
-   <text:p text:style-name="P2"><text:tab/>- Explícame tu existencia. Dime por qué los como tú siempre buscan el saber del hombre.</text:p>
-   <text:p text:style-name="P2"><text:tab/>- No.</text:p>
-   <text:p text:style-name="P2"><text:tab/>- Por favor, dime que es lo que eres tú. ¡Necesito saberlo! ¿O acaso eres solo un demonio solitario? ¿Un ángel protector? ¿Eres acaso el espíritu guardián de esta montaña? ¿Un genio enfrascado en un sarcófago de tierra? ¿Es esta tu cárcel o tu hogar? Por favor ¡Responde!</text:p>
-   <text:p text:style-name="P2"><text:tab/>- En tu lengua, ángel es mensaje y en lo real es demonio con uno. En tu lengua, demonio es sabio. En tu lengua, genio es saber.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T1">&gt;&gt; Soy conocimiento. Soy genio. Soy demonio. Soy fuente de sabiduría para quien quiera pactar. Soy y hago el pacto. Viniste a mí por historias, no por el saber. Yo sé lo que quieres. Yo sé lo que necesitas. Concéntrate en nuestro contrato, te daré lo que más deseas.</text:span></text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Desperté con la libreta abierta y el lápiz en mí mano. Un diálogo que no recuerdo ya estaba escrito en mi propio y único sistema taquigráfico. Ya no sé cuándo es de noche ni cuando es de día, estoy tan atento a la lectura que olvido el cansancio y vuelvo a mi cama a dormir sin siquiera saber qué hora es.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Ayer fui a ver al Cuentacuentos en la tarde, justo después de mediodía, pero no pude establecer la conversación, y, cuando subí de inmediato a mi hogar, me di cuenta <text:soft-page-break/>que era ya de noche y recordé que solo con la alba luz contestaría mis preguntas. Tuve que esperar con desesperada paciencia el resto de las horas que faltaban para que la luna volviera a su letargo. En tres días no he comido ni bebido nada y recién ahora me doy cuenta al sentir un dolor inmenso en mi abdomen. Me siento exhausto, derrotado, como si hubiera ya perdido una batalla inexistente. Me alimentaré lo suficiente para volver a recibir las historias que tenga que contarme.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T1">Estoy cansado. No logro recordar qué día es. Recuerdo cuando era domingo, pero no sé cuánto tiempo ha pasado desde entonces. Estoy sentado en la cama y tampoco logro recordar desde hace cuánto tiempo estoy así.</text:span></text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T1">La misma ave de hace tiempo está en el alféizar de la misma ventana, pero no tengo intención de identificarla. Solo quiero seguir leyendo.</text:span></text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T1">No tengo claro si mi velocidad de lectura se redujo considerablemente o si leo las cosas una y otra vez.</text:span></text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Volví a dejar hojas frente al Cuentacuentos, pero no treinta, si no sesenta esta vez, y no me equivoqué en hacerlo, pues cuando volví, somnoliento como siempre, allí estaban las sesenta hojas escritas con distintas manuscritas cada título. Podré seguir leyendo para no convertirme en un demente. La primera hoja decía exactamente lo de la primera vez:</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P3"><text:tab/>“Lee lo que han creado cada una de las almas de estos seres y deleita la pasión con la que fueron sus obras escritas”.</text:p>
-   <text:p text:style-name="P4">***</text:p>
-   <text:p text:style-name="P1">- Misterio en el barco y el alma prometida</text:p>
-   <text:p text:style-name="P1">- Post mortem</text:p>
-   <text:p text:style-name="P1">- Óseo</text:p>
-   <text:p text:style-name="P1">- El viaje</text:p>
-   <text:p text:style-name="P1">- El reloj </text:p>
-   <text:p text:style-name="P1">- Ponzoña sanguínea</text:p>
-   <text:p text:style-name="P3">***</text:p>
-   <text:p text:style-name="P4"><text:tab/>Este diario es un fracaso. Estoy desesperado. Ya no sé hace cuánto tiempo dejé de escribir en él y me he encontrado deambulando semi desnudo por los árboles a más de quinientos metros del árbol guía que marca mi hogar. No logro concentrarme y escribir. Me siento confundido. Este es el primer momento de lucidez que he tenido supongo en varios días y que no ocupo para leer las historias escritas por el Cuentacuentos que hay en el sarcófago que encontré en mi subterráneo. Ya las terminé. Quiero más.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>T<text:span text:style-name="T1">engo sueño. Estoy cansado. Iré a pedirle más para leer. Si no leo. Me siento mal. Si no leo. Si no leo, me volveré loco. Me volveré un ermitaño sin cerebro. Si no leo. Tengo que hacerlo. Tengo que seguir leyendo.</text:span></text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>Hoy me encontré en la noche mirando las estrellas acostado en el techo. No sé qué día es. Creo que es invierno. Recuerdo que cuando renací en la montaña me propuse crear un calendario astronómico, observar a las aves, identificar especies... No he hecho absolutamente nada de lo que me propuse. Soy un fracaso. Quiero leer, pero mi cuerpo es demasiado pesado como para levantarlo con mis débiles piernas. No recuerdo ser tan delgado. ¿Fueron mis nudillos siempre así de grandes? Me arrastraré si es necesario.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T1">No siento el piso. ¿Estoy flotando?</text:span></text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/>En esta visita al Cuentacuentos probaré escribir taquigráficamente todo lo que diga y así mantener mi mente ocupada, aunque la pereza en mis hombros me obligue con fuerza a recostarme. Seré fuerte y resistiré para lograr que el ser que permanece sentado me explique su completa existencia y sus objetivos en este mundo. Esta vez no me dormiré y todo lo que escriba será a la velocidad del habla. Podré hacerlo.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T1">Su luz es ahora tan fuerte que me ciega, su vibración puede oírse y las flores crecen en tamaño. Las raíces están cerrando la entrada y sus espinas son cada vez más enormes, tanto como mis pies, que acaban de cortar. Veo abundante sangre. No siento dolor. No puedo moverme. Todo está oscuro. Ella es la única luz. Me está hablando. ¿Qué dice?</text:span></text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T1">- Ya del trato mi parte cumplí, es ahora turno tuyo. Dámela.</text:span></text:p>
-   <text:p text:style-name="P2"><text:tab/>- ¿Qué cosa? Nunca dijiste que era lo que tenía que darte a cambio. Ni tampoco me explicaste tu completa existencia. Exijo tu sabiduría y tú no quieres dármela. Responde Demonio ¿Qué eres? ¿Cuál es tu nombre? ¡Dame más historias!</text:p>
-   <text:p text:style-name="P2"><text:tab/>- No tengo nombre. Y el que me diste sabeslo bien y contestas su significado.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T1">&gt;&gt; Lo único más grande que has formado en toda tu existencia, por supuesto, es lo </text:span><text:soft-page-break/><text:span text:style-name="T1">que pido y debes. ¿Acaso aún no sabes qué es lo más grande que has creado en este mundo? ¿La familia que hace tan poco abandonaste? ¿Los niños que lloran tu ausencia en hombro ajeno? ¿Esta solitaria casa que construiste para alejarte de tus miedos? ¿Tu fortuna en conceptos de tierra y dinero? ¿Esta completa montaña en la que resido desde antes del origen de la estirpe humana? ¿Acaso será tu propia vida? ¿Vendiste acaso tu propia muerte?</text:span></text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1"><text:tab/><text:span text:style-name="T1">- ¿Qué es lo más grande que he creado?... No, no lo sé. ¡Déjame pensar! No he tenido tiempo con tus historias. ¡Déjame pensar! ¡No sé! ¡Espera! ¡No me encierres! ¡Déjame pensar! ¡Por favor!</text:span></text:p>
-   <text:p text:style-name="P2"><text:tab/>- Yo sí lo sé. Dámela.</text:p>
-   <text:p text:style-name="P2"><text:tab/>- ¿Qué cosa? ¡¿Qué es?!</text:p>
-   <text:p text:style-name="P2"><text:tab/>- Tu alma. ¡Dámela!</text:p>
+   <text:p text:style-name="P2">Lilium</text:p>
+   <text:p text:style-name="P3"><text:tab/>He comenzado la tranquila vida que siempre quise tener, y, desde hoy, la relataré.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>Me he alejado del mundo y de su gente. Me aparté de la humanidad y de la civilización que han creado. No soy un hombre ni mucho menos un dios, y si es necesario llamarme bestia, así deberé ser llamado.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>Para perpetuar mis memorias y que no se perdiesen en el viento junto a mi cuerpo, decidí comenzar un nuevo diario con todo lo interesante que pueda ocurrir en mi nueva vida. Para esto, estuve practicando dos años el arte de la taquigrafía que siempre admiré desde mi infancia por sobre todas las demás artes. Podrá sonar ridículo incluso, pero hasta al aire libre es importante escribir a la velocidad del habla. Aún no estoy seguro qué terminaré escribiendo, pero, si al releer mis escritos me doy cuenta que algo ha cambiado en mi comportamiento, podré confirmarlo antes de volverme un ermitaño sin cerebro y hacer lo necesario para revertir una indeseable situación como esa. Este diario lo he creado con el propósito de mantener mi salud mental intacta en la eterna soledad en la que mi corazón ha decidido permanecer hasta su muerte.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>Decidí llevar conmigo siempre una pequeña libreta para poder escribir inmediatamente los sucesos que pudiera vivir fuera de mi hogar y de la comodidad de un escritorio. Por supuesto, utilizando mi propio sistema único y personal, que perfeccioné durante los dos años de estudio antes de mi renacer, al punto de ser la única persona en ser capaz de leer y entenderlo.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>La costumbre me ha hecho escribir mi diario de siempre en taquigrafía, al principio me consideré a mí mismo torpe por hacerlo, pero, ¿Quién más lo leería? Por ende, decidí seguir escribiendo mi diario en las noches como siempre y mezclarlo con las notas taquigráficas que escribiría en el cuadernillo que siempre llevo en mi bolsillo. He borrado todo recuerdo de mi anterior vida y mi crónica comienza en el verde que hoy me rodea.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>A pesar de que la nueva vida que elegí es en extremo tranquila, aún quiero anotar los sucesos que me parezcan interesantes, sobre todo la observación de aves de la que soy un fanático y el calendario de estrellas que estoy planeando hacer con la observación natural de las mismas. No tengo recuerdos dignos de escribir al futuro, antes de mi renacimiento. Siento mucha curiosidad de ver que anotaré en mi ahora simple y silenciosa vida. En mi ahora irrelevante y plácida existencia en el mundo de la vida.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T1">Acabo de ver un ave verde con una mancha roja en el alféizar de mi ventaja. </text:span><text:soft-page-break/><text:span text:style-name="T1">Quería identificarlo y salí corriendo apresurado de mi casa con la libreta en la mano con la intención de dibujarlo, pero solo veo una mancha lejana en los árboles y no logro distinguir si es un ave o una simple rama.</text:span></text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>Hace unos días, en mi afán de tener una casa con una innecesaria compleja estructura y guardar cosas inútiles de las que no soy capaz de deshacerme, con planos creados por mí mismo luego de largas horas de estudio, comencé a cavar bajo mi casa. Junto a la soledad de la montaña en la que recién mudado vivía, lo hacía cada mañana de cada día, lejos de la gente de los pueblos cercanos y antes de buscar los alimentos que ahora conseguía de la tierra.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>Cuando me faltaban solo un par de metros para terminar la excavación planeada, noté una superficie extremadamente compacta en la tierra y me decidí a romperla para seguir mi tarea. Con una picota estuve más de dos horas intentando romper la dura superficie, que, cabe destacar, estaba a cinco metros de profundidad. Logré romperla por fin con mucho esfuerzo y entré a un hueco con paredes sólidas de aproximadamente dos metros de ancho, dos también de alto y cuatro de largo. De esto último no estoy tan seguro, ya que no alcanzaba a ver el fondo por la oscuridad y lo que lo tapaba. Era algo demasiado inusual, las paredes eran extremadamente lisas y creo sus caras y aristas eran incluso más rectas que las de mi propia casa. Aunque esto no es tan importante si considero que dentro de la estructura encontraría algo que cambiaría mi vida por completo y que gracias a ello podría seguir con mi objetivo en esta nueva vida. Cuando descendí a la “habitación”, frente a mí encontré una criatura estática, un ser humanoide envuelto en raíces, de piel marchita y de apariencia momificada. Sentada, quieta, venerable y bella. No me atrevería a decir que era una momia, ya que, aunque no me atreví a tocar su incolora piel, se veía fresca en su sequedad.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T1">¿Qué podrá ser? Es muy grande y su cuerpo se impone ante mi humilde ser. No logro comprender las raíces que la rodean. ¿Es esto un altar o una tumba?</text:span></text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>Quizás sea imposible describirla, pero lo intentaré: a pesar de que sus rasgos eran sumamente delicados y bellos, su deformidad me helaba la sangre, sin contar que el volumen de su gigantesco cuerpo era quizás tres veces el mío. Estaba sentada en una posición bastante extraña, sujetando su cuerpo con sus impares manos cuya estructura carecía de sentido. Se apreciaban varias fracturas en lo que parecían ser sus huesos y también en sus músculos. Su rostro era hermoso en su forma, su mandíbula se extendía de extraña forma y su exceso de dientes la hacía más grande con un propósito desconocido. La cresta sagital en su cráneo, explicando quizás su exagerada dentadura, rozaba la superficie del hueco obviamente edificado para ella al cual llamé “Sarcófago” y cuyo descubrimiento haría mi vida en la montaña mucho más interesante. Su belleza <text:soft-page-break/>era comparable a la de un ángel, pero, no podría ser uno sin un mensaje cual entregar ¿Cierto?</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>Cuando apagué por error mi linterna me di cuenta que emitía una extraña luminiscencia, lo que me hizo pensar por un momento que estaba viva. A pesar de que su luz era tenue, dejaba ver su extraña y bella figura en conjunto a las flores que la rodeaban... ¿¡Flores!? ¿Por qué habría flores cinco metros bajo el suelo en un sarcófago paralelepípedo liso y sin perforaciones?</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>Cuando comencé a observar y analizar las flores desde más cerca, me llegó como un golpe el aroma de éstas y reconocí inmediatamente el sentido olvidado de los lirios en su florecimiento. ¿Qué clase de lirios eran esos? He leído un sinnúmero de libros de botánica, pero no logro reconocer siquiera sus pétalos. Creo que hay por lo menos tres tipos de lirios, distintos en tamaños y en formas, pero sus colores, aunque distintos también, parecen estar hechos de la misma rugosa materia que no parece ser vegetal. No se parecían en nada a lo que había visto antes. Su visión indujo la somnolencia en mi persona tan fuertemente que tuve que subir gateando a mi cama, a dormir con pesadez. Aunque estaba excitado por el descubrimiento de la criatura, o lo que fuese, el sueño me atacó tan fuerte y sorpresivamente cuando me acerque de más a ellas, que necesité un esfuerzo gigante para llegar a mi habitación y caí en la cama con la misma ropa sucia con la que había estado trabajando.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>Tuve un sueño que me hizo despertar con un extraño sentimiento, pero lo olvidé apenas desperté. Decidí dejar mi diario en el mueble junto a la cama y escribir el próximo sueño que tuviese para no olvidarlo jamás. Tengo la sensación de que en él aparecía el ser momificado.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>Animado con el descubrimiento del día anterior, decidí ordenar todo y posponer la excavación para dedicar todo mi tiempo a la observación y análisis de la sólida estructura y del ser que había dentro. No soy una persona impaciente, y si la criatura había permanecido allí durante quién sabe cuánto tiempo, seguiría estando ahí en la mañana cuando despertase y a mediodía cuando fuese a verla.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>Tardé solo una mañana y a mediodía bajé al subterráneo a observar mejor todo lo que allí había. Llevé mi cuadernillo y en él anoté todo lo que debía y podía investigar, también anoté ciertas teorías o posibilidades de que podría ser la criatura embalsamada con el perfume de aquellos extraños lirios multicolores: simple momia humana deformada por el tiempo, humano malformado de la antigüedad y venerado por esta misma razón, homínido desconocido, ¿Extraterrestre?, formación extrañamente parecida a un humano de las raíces de las enredaderas que allí había... Creo que no se me ocurría nada más. Ninguna de estas ridículas opciones fue acertada.</text:p>
+   <text:p text:style-name="P4"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P4"><text:tab/>Me senté en el suelo en una posición similar a la de la criatura y la admiré un par de minutos.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>“¿Qué será?”, me pregunté más de una vez.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>“¡Quiero saber qué es!”, me repetí aún más veces.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>Vi que las flores del extraño color rojizo se movían como si el viento de primavera de la superficie llegara hasta ahí. Pero no lo hacía. Otra vez una horrible somnolencia cayó en mi cuerpo y mente y sin poder siquiera mover un mínimo las piernas para levantarme, caí con pesadez sobre la lisa tierra comprimida que hacía de suelo para el ser que, ante mí, permanecía inmóvil.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T1">Estoy despierto, sentado de la misma forma, mientras la criatura aumenta su luminiscencia incolora y los pétalos de las flores vibran con sensualidad. Se detuvieron. Sin mover en absoluto su delgado y desfigurado cuerpo, ella me habla:</text:span></text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T1">- Tú, que mi cuerpo descubriste. Tú, que mi descanso profanaste. ¿Qué de mí deseas? -dijo sin mover un músculo (si es que tuviera alguno).</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>- Solo quiero el saber. Quiero saber qué eres. -respondí inmediatamente, totalmente asombrado, sin pensar siquiera con quién o qué estaba hablando.</text:p>
+   <text:p text:style-name="P5"><text:tab/>- Mañana sabraslo. Mañana diré yo. Dame hoja y pincel. Veraslo escrito cuando del segundo sopor despiertes.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>Desperté sentado con las piernas cruzadas y con la frente en el piso con un dolor inmenso en mi cabeza y espalda por la incómoda posición en la que me había dormido e intenté anotar rápidamente en mi libreta el onírico diálogo que recién había tenido. Pero ya estaba escrito.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>Ya estaba hecho. Sin esperanza alguna y obviando que mis visiones habían sido influenciadas por mi gran imaginación, arranqué una hoja de mi libreta y la dejé debajo del lápiz que tenía en ese momento frente al ser cuyo comportamiento era el de una estatua. Subí a mi habitación y me di cuenta que ya era de noche y la luna estaba a mitad del camino de observación de la alejada tierra en la que hoy vivo. Estaba extremadamente agotado, intentando recordar si había alcanzado a hacer algo ese día o si lo pasé en difusos recuerdos. Apenas me acosté, mi cuerpo y mente se apagaron por completo. Desperté doce horas después.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T1">Estoy dormitando en la cama y creo ser capaz de ver algo con mis ojos cerrados. Estoy escribiendo con el rostro cubierto, espero comprender mi letra más tarde. Creo que </text:span><text:soft-page-break/><text:span text:style-name="T1">hay algo gigante frente a mí. Creo que me observa. No puedo moverme, salvo mi diestra, que escribe. Se está moviendo y desciende donde no hay escala.</text:span></text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>A mediodía bajé al subterráneo a ver si ahora podría observar a la criatura sin quedarme dormido y encontré la hoja doblada con el lápiz encima. Sorprendido y asustado al mismo tiempo por el hallazgo, temeroso de qué podría decir, pero, aún más de si había sido ella quien había hecho esto, lo abrí:</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>“Soy conocimiento.</text:p>
+   <text:p text:style-name="P4"><text:tab/>Soy genio.</text:p>
+   <text:p text:style-name="P4"><text:tab/>Soy demonio”.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>No entendí en absoluto el mensaje. ¿Se supone que la criatura había escrito esto? Está escrito con mi taquigrafía. ¿Yo lo escribí acaso? Revisé en el diario taquigráfico lo que escribí sin recordar exactamente cuándo y leí que en mis sueños le había preguntado solemnemente qué era a la criatura. No lo recordaba... ¿Me respondió? ¡¿Está viva?!</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>El miedo desapareció de mi espíritu cuando la curiosidad en mi mente devoró todo sentimiento vano que puede poseer un hombre en su ser. La pasión por el conocimiento. El amor por el análisis y el aprendizaje. La devoción a lo desconocido. La labor de descubrir lo oculto y la compleja tarea de saber lo antes ignorado estaba ante mí y yo mismo la haría antes que cualquier hombre en este mundo.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>Estando yo de pie, tenía la misma altura ella sentada. Me arrodillé ante ella demostrando mi humildad a su imponente cuerpo y pregunté con honrada timidez si podría responder a las preguntas que mi corazón hiciera. Los lirios rojos comenzaron a vibrar, y cuando se detuvieron, el ser me habló:</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T1">- ¿Qué saber quieres de mi ser? -preguntó- ¿Qué fragmento de sabiduría quieres que te sea concedida antes de la pronta expiración de tu alma?</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>- ¿Eres o fuiste alguna vez humana? -pregunté mareado y sin sentido del espacio. Creo que estoy flotando.</text:p>
+   <text:p text:style-name="P5"><text:tab/>- No. A pesar tener una apariencia similar a un humano como tú, momificado por lo árido de esta tierra subterránea en donde elegí descansar, no soy de carne, como tú. Mi cuerpo es absoluto y no podrás definirlo en tu lengua. No todo es material y no todo lo que puede sentirse pertenece a este mundo. No soy de física ni de imaginación. Sé que, si me analizaras con tu inteligencia, me calificarías como un ser vegetal, solo por mi delicada estructura solar-radical. Pero, mi carne no es carne. Mi sangre no es sangre. Mi savia no es savia. Mi cuerpo no es cuerpo. Mi alma es eterna y mi memoria interminable. Soy de infinitas formas, y tu vida para mí no es más que un momento en mi existencia <text:soft-page-break/>ilimitada. A ti hablo tal cual tú hablas a un insignificante insecto.</text:p>
+   <text:p text:style-name="P5"><text:tab/>- ¿Entonces, eres una planta inmortal cuyas raíces lucen como un homínido? -dije, aún mareado, con un sarcasmo que ni yo mismo entendí, nervioso por alguna razón, sin pensar en lo peligrosa que se veía la situación, quizás avergonzado de mi obvia inferioridad- ¿Qué eres y qué quieres, ser de los lirios?</text:p>
+   <text:p text:style-name="P5"><text:tab/>- Creo que debo utilizar bien mi lengua contra ti. Yo digo y tú desoyes. Yo explico y tú dudas. No, soy algo mucho más complejo que eso, pero, ¿Qué importa lograr definirme en un reino, no crees más importante que logremos hacer un trato entre nosotros dos, como seres pensantes e inteligentes que somos? -logré identificar el asomo de un halago y me hizo, manipulativamente, sentir que hablaba con un igual- ¿Te interesa el intercambio? Sé lo que buscas, y lo que buscas no es saber.</text:p>
+   <text:p text:style-name="P5"><text:tab/>- No sé a dónde quieres llegar, pero hacer un trato con una criatura en mí subterráneo que se define a sí misma como una planta no es algo que podría hacer a diario. Dime, ser momificado, ¿Qué deseas de mí?</text:p>
+   <text:p text:style-name="P5"><text:tab/>- Yo te doy lo que más deseas, tú me das lo que más deseo. Yo lo sé. Te noto aburrido en tu nueva vida. Todo a su tiempo. Tú no buscas el saber. Yo te doy historias que he recopilado de los tres mundos humanos, relatos que cambiarán tu vida por completo y te harán un hombre nuevo, y tú, en cambio, solo me darás lo único más grande que has formado en toda tu existencia.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>Desperté sin tiempo para responder. Tomé la libreta y el sueño ya había sido escrito. Me levanté del duro suelo y me incliné ante ella accediendo a su petición. Acepté feliz, pensando que lo más grande que he creado era mi nueva casa o todo el dinero que poseía, que me llevó décadas conseguir, pero, que, aún así, de ninguno me siento muy inclinado a resguardar ni proteger con mi vida. Lo pensé un buen trato. La curiosidad ya había devorado el resto de los sentimientos en mi corazón.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>Al inclinarme ante ella, me di cuenta que su piel incolora emitía una tierna luz blanquecina, y aunque lo intenté, no fui capaz de tocarla siquiera con mis uñas. No me atreví. No pude hacerlo. Sin embargo, sí me atreví a tocar una de las extrañas especies de flores que crecían sobre, detrás y alrededor suyo. Algunos de los lirios parecían <text:span text:style-name="T1">copihues</text:span> o <text:span text:style-name="T1">lapagerias</text:span> y otros más abiertos se veían como <text:span text:style-name="T1">azucenas</text:span>, sin embargo, no podría considerarlos en estas especies. Eran enredaderas con firmes espinas gigantes de ocho centímetros en promedio, que cuando toqué, sentí el frío y filoso metal en las yemas de mis dedos y la sangre que escurrió de mi piel no la hallé jamás ni en sus ramas ni en sus pétalos. Toqué con atrevida confianza los pétalos de las flores que crecían alrededor del ser inmóvil, pensando que su suavidad relajaría la herida en mi índice izquierdo, pero me horroricé y di un salto atrás jurándome no volver a tocar nada relativo a aquello cuando la carne fresca sentí en mis dedos.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>Dejé rápido mi libreta junto al lápiz y subí asustado a mi hogar, todavía temeroso <text:soft-page-break/>por lo que había sentido. Era ya de noche y decidí descansar de la pesadumbre somnolienta que me atacaba.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T1">No siento mi mano y no logro moverla... No. Ya la siento, pero está muy débil. Yo también estoy débil.</text:span></text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>A la mañana siguiente bajé inmediatamente al sarcófago en mi subterráneo y abrí la nota. En ella se escribía mi taquigrafía, decía:</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>“Dame hoja y pincel. Lo suficiente para tu disfrute”.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>No suelo sobrepensar lo que no logro entender. Accedí alegre pero nervioso y con cierta desconfianza, dejando treinta hojas frente al ser de los lirios. Sobre ellas, uno de mis lápices de tinta favoritos, que dejé vacío y con un frasco de tinta a un lado. Satisfecho y entusiasmado por haber hecho el trato, estuve todo el día ansioso, caminando de un lugar a otro sin ningún propósito, esperando el ansiado momento para volver a ver a la criatura en mi subterráneo. Al ser en el sarcófago.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>A la mañana siguiente, después de una larga noche sin poder dormir, volví y hallé la mejor sorpresa que he tenido en mi vida. El total de las hojas estaban ya escritas y separadas en títulos y algunos de éstos en capítulos. Escritos cada uno de los títulos en distintas manuscritas, relataban diarios de personas que en otra época vivieron o que quizás podrían vivir hoy. El lápiz seguía vacío y en el frasco había la misma cantidad de tinta, pero en vez de negra, era roja... No lo entendí. Pero el contrato había comenzado.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>No le di importancia a lo anterior y comencé a leerlos con disfrute. La primera hoja sobre las demás historias, haciendo de título a la recopilación, tenía una nota dirigida al lector, a mí. En ella decía:</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P6"><text:tab/>“Lee lo que han creado cada una de las almas de estos seres y deleita la pasión con la que fueron sus obras escritas”.</text:p>
+   <text:p text:style-name="P7">***</text:p>
+   <text:p text:style-name="P4">- El espectro</text:p>
+   <text:p text:style-name="P4">- El muro</text:p>
+   <text:p text:style-name="P8">- Perseguidor<text:span text:style-name="T2"/></text:p>
+   <text:p text:style-name="P8">- <text:span text:style-name="T3">Mancha oscura</text:span></text:p>
+   <text:p text:style-name="P8">- <text:span text:style-name="T3">Frío perpetuo</text:span></text:p>
+   <text:p text:style-name="P8">- El monstruo oculto<text:span text:style-name="T2"/></text:p>
+   <text:p text:style-name="P8">- Carta a mi nuevo eterno amor que estuvo siempre a mi lado</text:p>
+   <text:p text:style-name="P4">- Desde el tercer mundo</text:p>
+   <text:p text:style-name="P8">***</text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P7"><text:tab/>Fui por lo menos nueve veces, durante los tres días que demoré en leer los manuscritos, al subterráneo, sin éxito, a pedir respuestas a las historias que la Cuentacuentos me había otorgado, pero no fue hasta que leí la totalidad de las historias que me contestó, cuando me senté en humilde forma frente a ella y su vibración y tenue luz del cansancio me despertaron.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T1">- ¿Qué saber quieres de mi ser? -preguntó- ¿Qué fragmento de sabiduría quieres que te sea concedida antes de la pronta expiración de tu alma?</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>- Dime, ser que cuenta cuentos... Por favor. Respóndeme Cuentacuentos. ¿Dónde está el tercer mundo? Y a qué mundo perteneces tú.</text:p>
+   <text:p text:style-name="P5"><text:tab/>- El tercer mundo de la existencia humana es un mundo subjetivo y superior. Y yo, no pertenezco ni a la vida, ni a la muerte, ni a los sueños. El contexto de los como yo es aún más grande y el triángulo que encierra tu existencia es solo un fragmento en la nuestra. Quien traspasa la puerta se encuentra en él.</text:p>
+   <text:p text:style-name="P5"><text:tab/>- ¿Los como tú? ¿Hay más como tú?</text:p>
+   <text:p text:style-name="P5"><text:tab/>- Millones. Eones. Ninguno. Solo se viene a la vida humana a conseguir sabiduría. Aunque no es abundante, la memoria es grande y de ella se extrae el saber. Lo que se busca aquí es genio. Lo que aquí se busca es sabiduría. Y la sabiduría se guarda en la memoria. Y la memoria es alma. Y el alma es saber.</text:p>
+   <text:p text:style-name="P5"><text:tab/>- Explícame tu existencia. Dime por qué los como tú siempre buscan el saber del hombre.</text:p>
+   <text:p text:style-name="P5"><text:tab/>- No.</text:p>
+   <text:p text:style-name="P5"><text:tab/>- Por favor, dime que es lo que eres tú. ¡Necesito saberlo! ¿O acaso eres solo un demonio solitario? ¿Un ángel protector? ¿Eres acaso el espíritu guardián de esta montaña? ¿Un genio enfrascado en un sarcófago de tierra? ¿Es esta tu cárcel o tu hogar? Por favor ¡Responde!</text:p>
+   <text:p text:style-name="P5"><text:tab/>- En tu lengua, ángel es mensaje y en lo real es demonio con uno. En tu lengua, demonio es sabio. En tu lengua, genio es saber.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T1">&gt;&gt; Soy conocimiento. Soy genio. Soy demonio. Soy fuente de sabiduría para quien quiera pactar. Soy y hago el pacto. Viniste a mí por historias, no por el saber. Yo sé lo que quieres. Yo sé lo que necesitas. Concéntrate en nuestro contrato, te daré lo que más deseas.</text:span></text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>Desperté con la libreta abierta y el lápiz en mí mano. Un diálogo que no recuerdo ya estaba escrito en mi propio y único sistema taquigráfico. Ya no sé cuándo es de noche ni cuando es de día, estoy tan atento a la lectura que olvido el cansancio y vuelvo a mi cama a dormir sin siquiera saber qué hora es.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>Ayer fui a ver al Cuentacuentos en la tarde, justo después de mediodía, pero no pude establecer la conversación, y, cuando subí de inmediato a mi hogar, me di cuenta <text:soft-page-break/>que era ya de noche y recordé que solo con la alba luz contestaría mis preguntas. Tuve que esperar con desesperada paciencia el resto de las horas que faltaban para que la luna volviera a su letargo. En tres días no he comido ni bebido nada y recién ahora me doy cuenta al sentir un dolor inmenso en mi abdomen. Me siento exhausto, derrotado, como si hubiera ya perdido una batalla inexistente. Me alimentaré lo suficiente para volver a recibir las historias que tenga que contarme.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T1">Estoy cansado. No logro recordar qué día es. Recuerdo cuando era domingo, pero no sé cuánto tiempo ha pasado desde entonces. Estoy sentado en la cama y tampoco logro recordar desde hace cuánto tiempo estoy así.</text:span></text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T1">La misma ave de hace tiempo está en el alféizar de la misma ventana, pero no tengo intención de identificarla. Solo quiero seguir leyendo.</text:span></text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T1">No tengo claro si mi velocidad de lectura se redujo considerablemente o si leo las cosas una y otra vez.</text:span></text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>Volví a dejar hojas frente al Cuentacuentos, pero no treinta, si no sesenta esta vez, y no me equivoqué en hacerlo, pues cuando volví, somnoliento como siempre, allí estaban las sesenta hojas escritas con distintas manuscritas cada título. Podré seguir leyendo para no convertirme en un demente. La primera hoja decía exactamente lo de la primera vez:</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P6"><text:tab/>“Lee lo que han creado cada una de las almas de estos seres y deleita la pasión con la que fueron sus obras escritas”.</text:p>
+   <text:p text:style-name="P3">***<text:span text:style-name="T2"/></text:p>
+   <text:p text:style-name="P8">- Misterio en el barco y el alma prometida</text:p>
+   <text:p text:style-name="P8">- Post mortem</text:p>
+   <text:p text:style-name="P8">- <text:span text:style-name="T3">La otra muerte</text:span></text:p>
+   <text:p text:style-name="P8">- Ponzoña sanguínea</text:p>
+   <text:p text:style-name="P8">- Óseo</text:p>
+   <text:p text:style-name="P8">- El reloj</text:p>
+   <text:p text:style-name="P8">- <text:span text:style-name="T3">Un</text:span> viaje</text:p>
+   <text:p text:style-name="P8">- <text:span text:style-name="T3">Buscando comida</text:span></text:p>
+   <text:p text:style-name="P8">- <text:span text:style-name="T3">Perro libre</text:span></text:p>
+   <text:p text:style-name="P6">***</text:p>
+   <text:p text:style-name="P7"><text:tab/>Este diario es un fracaso. Estoy desesperado. Ya no sé hace cuánto tiempo dejé de escribir en él y me he encontrado deambulando semi desnudo por los árboles a más de quinientos metros del árbol guía que marca mi hogar. No logro concentrarme y escribir. Me siento confundido. Este es el primer momento de lucidez que he tenido supongo en varios días y que no ocupo para leer las historias escritas por el Cuentacuentos que hay en el sarcófago que encontré en mi subterráneo. Ya las terminé. Quiero más.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>T<text:span text:style-name="T1">engo sueño. Estoy cansado. Iré a pedirle más para leer. Si no leo. Me siento mal. Si no leo. Si no leo, me volveré loco. Me volveré un ermitaño sin cerebro. Si no leo. Tengo que hacerlo. Tengo que seguir leyendo.</text:span></text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>Hoy me encontré en la noche mirando las estrellas acostado en el techo. No sé qué día es. Creo que es invierno. Recuerdo que cuando renací en la montaña me propuse crear un calendario astronómico, observar a las aves, identificar especies... No he hecho absolutamente nada de lo que me propuse. Soy un fracaso. Quiero leer, pero mi cuerpo es demasiado pesado como para levantarlo con mis débiles piernas. No recuerdo ser tan delgado. ¿Fueron mis nudillos siempre así de grandes? Me arrastraré si es necesario.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T1">No siento el piso. ¿Estoy flotando?</text:span></text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/>En esta visita al Cuentacuentos probaré escribir taquigráficamente todo lo que diga y así mantener mi mente ocupada, aunque la pereza en mis hombros me obligue con fuerza a recostarme. Seré fuerte y resistiré para lograr que el ser que permanece sentado me explique su completa existencia y sus objetivos en este mundo. Esta vez no me dormiré y todo lo que escriba será a la velocidad del habla. Podré hacerlo.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T1">Su luz es ahora tan fuerte que me ciega, su vibración puede oírse y las flores crecen en tamaño. Las raíces están cerrando la entrada y sus espinas son cada vez más enormes, tanto como mis pies, que acaban de cortar. Veo abundante sangre. No siento dolor. No puedo moverme. Todo está oscuro. Ella es la única luz. Me está hablando. ¿Qué dice?</text:span></text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T1">- Ya del trato mi parte cumplí, es ahora turno tuyo. Dámela.</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>- ¿Qué cosa? Nunca dijiste que era lo que tenía que darte a cambio. Ni tampoco me explicaste tu completa existencia. Exijo tu sabiduría y tú no quieres dármela. Responde Demonio ¿Qué eres? ¿Cuál es tu nombre? ¡Dame más historias!</text:p>
+   <text:p text:style-name="P5"><text:tab/>- No tengo nombre. Y el que me diste sabeslo bien y contestas su significado.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T1">&gt;&gt; Lo único más grande que has formado en toda tu existencia, por supuesto, es lo </text:span><text:soft-page-break/><text:span text:style-name="T1">que pido y debes. ¿Acaso aún no sabes qué es lo más grande que has creado en este mundo? ¿La familia que hace tan poco abandonaste? ¿Los niños que lloran tu ausencia en hombro ajeno? ¿Esta solitaria casa que construiste para alejarte de tus miedos? ¿Tu fortuna en conceptos de tierra y dinero? ¿Esta completa montaña en la que resido desde antes del origen de la estirpe humana? ¿Acaso será tu propia vida? ¿Vendiste acaso tu propia muerte?</text:span></text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"><text:tab/><text:span text:style-name="T1">- ¿Qué es lo más grande que he creado?... No, no lo sé. ¡Déjame pensar! No he tenido tiempo con tus historias. ¡Déjame pensar! ¡No sé! ¡Espera! ¡No me encierres! ¡Déjame pensar! ¡Por favor!</text:span></text:p>
+   <text:p text:style-name="P5"><text:tab/>- Yo sí lo sé. Dámela.</text:p>
+   <text:p text:style-name="P5"><text:tab/>- ¿Qué cosa? ¡¿Qué es?!</text:p>
+   <text:p text:style-name="P5"><text:tab/>- Tu alma. ¡Dámela!</text:p>
   </office:text>
  </office:body>
 </office:document>
