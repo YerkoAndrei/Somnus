@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:date>2025-05-28T12:33:13.311852451</dc:date><meta:editing-duration>PT25M19S</meta:editing-duration><meta:editing-cycles>8</meta:editing-cycles><meta:generator>LibreOffice/25.2.3.2$Linux_X86_64 LibreOffice_project/bbb074479178df812d175f709636b368952c2ce3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="7" meta:paragraph-count="37" meta:word-count="2857" meta:character-count="16061" meta:non-whitespace-character-count="13205"/></office:meta>
+ <office:meta><dc:date>2025-05-28T13:35:04.771143040</dc:date><meta:editing-duration>PT28M42S</meta:editing-duration><meta:editing-cycles>9</meta:editing-cycles><meta:generator>LibreOffice/25.2.3.2$Linux_X86_64 LibreOffice_project/bbb074479178df812d175f709636b368952c2ce3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="7" meta:paragraph-count="38" meta:word-count="2858" meta:character-count="16062" meta:non-whitespace-character-count="13206"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">9737</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">44355</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">19389</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">48791</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">21327</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">24926</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">4808</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">15600</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">2501</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">44353</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">19387</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">9737</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">48789</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">31062</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">110</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">true</config:config-item>
@@ -144,7 +144,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1454596</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1523559</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -201,6 +201,22 @@
   <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
    <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
    <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans" style:font-family-complex="&apos;Noto Sans&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.795cm" style:type="center"/>
+     <style:tab-stop style:position="17.59cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Header_20_and_20_Footer" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.795cm" style:type="center"/>
+     <style:tab-stop style:position="17.59cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
   </style:style>
   <text:outline-style style:name="Outline">
    <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
@@ -275,10 +291,13 @@
   </loext:theme>
  </office:styles>
  <office:automatic-styles>
-  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
   </style:style>
   <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -289,14 +308,20 @@
     <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
    </style:page-layout-properties>
    <style:header-style/>
-   <style:footer-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0cm" fo:margin-top="0.499cm" fo:background-color="transparent" draw:fill="none"/>
+   </style:footer-style>
   </style:page-layout>
   <style:style style:name="dp1" style:family="drawing-page">
    <style:drawing-page-properties draw:background-size="full"/>
   </style:style>
  </office:automatic-styles>
  <office:master-styles>
-  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1"/>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
+   <style:footer>
+    <text:p text:style-name="P1"><text:bookmark-start text:name="PageNumWizard_FOOTER_Estilo de página predeterminado1"/><text:page-number text:select-page="current">7</text:page-number><text:bookmark-end text:name="PageNumWizard_FOOTER_Estilo de página predeterminado1"/></text:p>
+   </style:footer>
+  </style:master-page>
  </office:master-styles>
  <office:body>
   <office:text text:use-soft-page-breaks="true">
@@ -307,81 +332,81 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P1">Desde el tercer mundo</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Mi nombre ya no es importante, pero sí lo que tengo que decir. He estado más allá de la vida o la muerte, y, aunque después de un largo viaje tricolor fui capaz de lograr uno de mis objetivos, aún siento un vacío inmenso en mi corazón. Ahora conozco la verdad sobre el símbolo triangular que tanto aparecía en visiones y sueños. Aunque en contra de mi voluntad, logré llegar y pertenecer, por siempre, en y al tercer mundo.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>El único deseo que me atormenta hoy es no poder volver a verte madre, solo quiero estar contigo una vez más, eres lo único que tengo y por eso te escribo esta carta de torpe letra. Espero la encuentres en tu velador al despertar, después de soñar conmigo. Te extraño y no quiero olvidarte como lo hice con mi propio nombre ¡O como lo estoy haciendo con mi propia existencia!</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>El tercer mundo: un mundo al que se visita mientras se duerme, muchas veces confundido con un sueño. Un mundo donde no existe el tiempo y el espacio es subjetivo.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Mis extraños sueños (o creía que lo eran) empezaron más o menos hace doce años, cuando aún era un infante que nada sabía sobre el mundo o de su habla escrita. En estos extraños sueños, no siempre nocturnos, siempre aparecía en un lugar distinto y sin ningún patrón, el mismo sentimiento de inmensidad definida que mi cerebro interpretaba como un símbolo triangular con tres círculos unidos de extraña forma. Nunca le di atención alguna, solo eran sueños, pensaba. Pero en el accidente, del que no tengo muchos recuerdos, justo antes de morir, apareció frente a mí, y, en el momento en el que debí desaparecer de la vida y entrar a la muerte como mi destino lo exigía, mi existencia fue interrumpida por un banal sueño.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>En mi sueño, estaba sentado en un árbol, mirando hacia el cielo mientras llovía... Lo sé, es algo ridículo, pero no fue hasta después de mucho “tiempo” que me di cuenta de que no estaba durmiendo en el automóvil como mi último recuerdo de vida lo mostraba, ni que tampoco estaba realmente en un sueño que habría tenido durante el viaje y que esa sensación tan pacífica en mi espíritu no terminaría jamás. Salí del lugar de donde estaba y logré recorrer, sin cansarme, un nuevo mundo que emergía ante mí. Aunque “nuevo” no es la palabra correcta, creo que “olvidado” se ajusta mejor a la verdad, mas no a la realidad. Porque en este mundo madre, la realidad, como la conocía, no existe.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:soft-page-break/><text:tab/>Recordé todas las veces que había estado en esos lugares que veía mientras soñaba, y me di cuenta de que ninguno de esos lugares, ni se crearon en mi mente, ni eran recuerdos retorcidos que mi cerebro confundía. No era yo quien creaba esas formas, ni mi subconsciente ni mis traumas... Era un mundo completamente independiente a nuestra vida y futura muerte. Recordaba algunas cosas... Y olvidaba otras.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>La calle donde vivía, por ejemplo, mi propia casa, y muchos otros lugares eran casi iguales, pero siempre con sutiles o a veces extravagantes diferencias. Paisajes inexistentes, calles cambiantes, lugares en eternos ocasos, y otros en los que el sol no salía jamás son solo algunas cosas que recuerdo de mis innumerables sueños. En esos eternos lugares estaba yo ahora, sin vivir ni morir... Yo solo... Existía.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Recorrí, con un extraño bienestar, mi nuevo hogar, caminé por los paisajes imposibles de mis anteriores sueños y los recordé como en un <text:span text:style-name="T1">déjà vu</text:span>. También, volví a conocer personas que nunca en mi vida vi. Pero, aún así, entre tanta felicidad y calma, sentía un extraño sentimiento al que creí definir como ignorancia. En un momento dado, me di cuenta que no sabía dónde estaba ni qué estaba haciendo. “¿Es que sigo soñando?, ¿Hace cuánto descendí de aquel árbol?, ¿Cuándo dejó de llover?” son solo algunas de las preguntas que me hice en ese momento.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Durante el viaje sin sentido, recordé el porqué estaba yo allí, ya que, sin la necesidad de buscarlo, encontré el automóvil en el mismo lugar del accidente, pero no hallé mi cuerpo. Tampoco estabas tú. Sufrí una crisis nerviosa al recordar medianamente lo que sucedió y al ver mi cuerpo partirse en dos, frente a mí, en un recuerdo borroso que traje involuntariamente del mundo en el que tú, madre, existes. Y entre el temblor de mi cuerpo y el choque mental, caí inconsciente.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Desperté en un lugar que no conocía, y ya nada era tan irreal como antes. Todo volvió a ser palpable, dimensionado, físico, real... Aburrido... Desperté en la muerte.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Al principio, estúpidamente, creí haber revivido milagrosamente e intenté buscarte, pero no estabas en ningún lugar, y en nuestra casa vivía gente que nunca había visto en mi vida. Les pregunté sobre ti y no te conocían, pero, logré reconocer a una persona idéntica a ti, bueno, más o menos. Le pregunté su nombre y después de varios minutos pensando, me di cuenta que era ridículamente parecido a tu apellido materno. Ahora no lo recuerdo, pero estoy seguro que si lo escucharas, te reirías.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Ninguna persona nos conocía y cuando me atreví a preguntar por mí mismo, me di cuenta que no recordaba mi nombre y que el tuyo cada vez se me hacía más difícil recordar... Pero mis sentimientos por ti madre nunca cambiarán, porque tampoco <text:soft-page-break/>permitiré que tal cosa suceda. No permitiré que mi alma se desvanezca en este mundo y con ella los bellos recuerdos que guardo sobre ti.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Luego de un tiempo reconocí a algunas de esa gente: eran tus familiares muertos, los reconocí por los nombres de las viejas cartas que siempre me mostrabas. Estuve observándolos por un tiempo mientras dormía en las calles como un indigente, ya que por un loco sin nombre me tomaron, y me di cuenta que no los unían lazos sanguíneos, como sí sucedió en la vida. Permanecían juntos como simples conocidos, por alguna razón que aún desconozco.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>“Si sigo así, terminaré viviendo de hambre”, dije en voz alta... Pero, “¿Qué acabo de decir?”, pensé, “Eso no tiene ningún sentido”. Y casi desfalleciendo por la inanición, me dormí. Tuve el sueño más revelador que te podrías imaginar.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Volví al mismo mundo que te acabo de describir. Cuando reaccioné a mi entorno, no perdí ni un solo segundo en investigar lo que estaba pasando porque aún no comprendía nada y a esas alturas ya me sentía desesperado por no poder volver a verte. Me sentí un estúpido al darme cuenta de que en el lugar que ahora habitaba no existía el tiempo y que, aunque quisiera, no podría desperdiciarlo. No estuve mil años en el mundo de los sueños, mucho menos mil y una noches. No fue ni una eternidad ni un momento. Mi existencia pertenecía al allá, y el allá pertenecía en mí. Por y hasta siempre. Por y hasta nunca.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>La hora percibida dependía, simplemente, de la posición del sol, y el sol, a su vez, dependía del lugar en el que me hallaba. En algunos valles era siempre de noche. El centro de la ciudad, por ejemplo, era gigante y siempre era de día, podía estar quieto allí por una eternidad, pero el sol nunca se ponía hasta que me retiraba a otro lugar. Podrá sonar absurdo e imposible de entender, pero estoy seguro que a lo largo de tu vida pudiste al menos una vez sentir la sensación de extraña paz que da este lugar, aunque lo hayas olvidado al momento de despertar de alguno de tus suaves letargos. Todo es tan irreal, porque lo imposible es la única verdad en este lugar, y lo físico es una mera fantasía.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Pude haber estado mil eternidades en este mundo y otra eternidad estoy dispuesto a permanecer entre sus infinitos límites... Pero tú no estás acá. Te extraño madre. Aunque no me hayas tenido en tu vientre y que ningún sentimiento nos unió antes de mis nueve años, tu eres mi madre y yo soy tu hijo. Mis sentimientos por ti, aunque ya no pueda estar contigo físicamente, no variarán en lo absoluto y mi alma, por siempre, te pertenecerá. Espero el profundo amor que sufro desde este mundo, cruce los pasajes de la vida para que a tu corazón lleguen con el mismo cariño que emana desde mi desconsolado corazón. Quiero, desesperadamente, volver a verte.</text:p>
-   <text:p text:style-name="P2"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P2"><text:tab/>Desperté en la muerte. Casi viviendo por inanición, y mirando el blanco cielo nocturno me di cuenta que la vida y la muerte son la misma cosa, el mismo lugar, y el mismo sentimiento... ¡Ni siquiera son antípodas! Tampoco son contrarias, una no es buena y la otra mala. No existen cosas como el bien y el mal, solo existen los lugares de existencia al que nuestras almas pertenecen. Son acciones y consecuencias las que manejan nuestras vidas, no el bien y el mal. El humano tiene una cantidad finita de arquetipos personales y estamos encadenados a siempre hacer lo mismo, sea en la vida o en la muerte, por eso nuestro comportamiento es idéntico en los dos mundos y la única forma de conmutar nuestro destino es alejarnos del molde divino del que fuimos creados. Dejar de ser humanos, dejar la humanidad de lado... Pero eso es algo que no estoy dispuesto a hacer, ya que, al olvidar mi humanidad, rompería los lazos que a ti me unen.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>El alma se construye a base de las memorias que nosotros mismos creamos en nuestra existencia, independiente del mundo en las que se crean... Y por eso madre, tengo miedo. Tengo miedo de que la transferencia a otro mundo termine por borrar mis memorias sobre ti y con ellas, mi joven alma se desvanezca.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>El sueño que tuve antes de mi muerte fue un error cósmico que evitó el reinicio de mi alma después de traspasar el gran umbral. Pero yo no lo traspasé. Soy una extraña excepción a la regla. Aunque es increíblemente difícil encontrar personas, he conocido otras excepciones aquí en el tercer mundo. Hay una razón por la que los planetas no chocan entre sí, y es la inmensidad del universo.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Ahora pertenezco al extraño universo limitado sobre y entre la vida y la muerte y eso hace aún más difícil definir y explicarte sobre donde me encuentro. Aunque no es imposible el volver a juntarnos para poder abrazar tu corazón otra vez, como tú lo hiciste con el mío ese día al adoptar mi vida en la tuya.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Siempre pensando en ti y repitiendo tu nombre con cariño en mi mente, en el mundo de la muerte, comencé a alejarme de todo ser humano para terminar deambulando por montañas y desiertos. Sin sentido ya del tiempo y del espacio, terminé sobremuriendo dentro de una cueva para no vivir. Si volvía a cambiar de mundo, por culpa de mi cuerpo humano, perdería todo recuerdo tuyo, madre, al traspasar obligadamente por el umbral y que mi actual mundo olvidara mi alma. Y esa es exactamente la razón por la que no volví a la vida.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Comencé a meditar, en un ayuno obligado, e intentar recordar el triángulo de mis sueños sin un propósito muy claro. Lo dibujé en la tierra como lo recordaba y lo analicé. Existe un umbral irrenunciable entre la vida y la muerte, pero no solo son dos <text:soft-page-break/>los mundos los que limitan la existencia del ser humano, entre y sobre la vida y la muerte, existe un mundo sin sentido al que terminé denominando con la letra “S”, del Mundo de los Sueños o <text:span text:style-name="T1">Somnus</text:span>. Quizás mi lengua nativa me obligaba a pensar de esta limitada forma, utilizando el lenguaje humano y no la lengua del alma que me temo nunca podré dominar.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>No es un sueño lo que nos lleva ahí madre, nuestro cerebro no es capaz de ejecutar tal magnífico acto como la realización de extraordinarios viajes a través de los distintos mundos que dominan nuestra existencia. Solo podemos hacerlo cuando nuestro cuerpo y mente, vivo o muerto, toma un valor nulo, ya sea en un reposo extremo, como cuando dormimos profundamente pero en concentración; como cuando monjes dicen llegar a un estado consciente de liberación terrenal para no volver a cruzar el imponente umbral; como cuando me dormí tan cansado en el automóvil luego del largo viaje que realizamos; o cuando atravesamos el umbral entre los dos mundos: cuando lo vivo muere y lo muerto vive.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Dentro de cada mundo existen distintos límites. Entendí que el segundo límite de la vida solo se atraviesa cuando el mundo olvida tu alma, lo mismo pasa desde la muerte. Y dentro del pasaje desde el uno al otro, se encuentra el umbral, que ejecuta el gran reinicio sobre el alma viajera y la vuelve a su arquetipo original. Pero hacia los sueños, desde la vida o la muerte, no hay umbral ni reinicio, es un camino libre, pero difícil, al que yo nunca hubiera sido capaz de atravesar si no hubiera tenido aquel sueño.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>No confundas tus sueños con visiones del tercer mundo. Tus sueños son representaciones de tus sentimientos y preocupaciones, tus traumas y los recuerdos de tu alma interfieren en tu cuerpo causando visiones que crees son personas vivas en tu mente. Pero si logras identificar los mismos lugares en un mundo incógnito en los que te sientes libre y en un extraño estar, reconoce que no estás viva ni muerta, si no que solo existes como una forma indeterminada que olvidó la realidad física para sumergirse en un mar de fantasías imposiblemente absurdas que se convierten en la única verdad, donde el universo te pertenece mientras tú perteneces a él.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>En la muerte, aún con el dilema de mi memoria funcionando intermitentemente, intenté vivir de nuevo evitando el gran reinicio, con el único propósito de volver a estar contigo, aunque fuera un solo momento. Desde la muerte, viajé al tercer mundo, a la “S” del triángulo, al mundo de los sueños, para nunca, ¡Jamás!, volver. Y desde ahí hice hasta lo imposible para volver a la vida, pero el orden natural de la existencia humana me impide vivir nuevamente con la misma conciencia que ahora poseo y creo si desaparezco de este infinito mundo para volver a la muerte, también la perderé. Volvería instantáneamente a la vida porque mi cuerpo humano en la muerte ya debe <text:soft-page-break/>estar vivo, momificado o putrefacto, y volver a traspasar el umbral borraría todos los recuerdos que tanto protejo en tu nombre.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>No pienses que me rendiré tan fácil, siempre lo intentaré pues nunca me resignaré a estar tan alejado de ti. Te prometo que voy a ser capaz de hacerte llegar los sentimientos que emanan de mi aún joven corazón bajo algún método. Te prometo que nos volveremos a ver.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Sin resignarme aún, me sentí dueño de mi alma al fijar mi objetivo y concentrarme en él. Hice cosas inexplicables en nuestro lenguaje que no necesitas ni quieres saber. Pero descubrí que los umbrales infinitos y sin límites que unen mi actual mundo con el tuyo no ofrecen resistencia alguna a su cruce. Pero mi alma está atada con cadenas invisibles a la muerte, ¡Y ellas no permiten mi existencia junto a ti! Como ya escribí antes, si me atrevo a cruzar el umbral, tu nombre se borrará por siempre de mi efímera alma. Mi única alternativa es cruzar desde el tercer mundo hacia el mundo de la vida.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Solo décimas de un segundo logré estar en la vida y sin un cuerpo físico sentía que mi existencia desaparecía por intentar desobedecer las reglas con las que los tres mundos coexisten. Solo podría permanecer físicamente en la muerte como un cuerpo vacío. Pero la disposición del tercer mundo nos pertenece a cada uno de nosotros, los seres vivientes.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Voy a experimentar una vez más o mil veces si es necesario. Quizás la forma en la que intento comunicarme contigo es errónea e insultante a la vida misma. Al darme cuenta que ya nunca podré tener un cuerpo físico con el cual abrazarte con pasión, te escribí esta carta en la que intento explicarte de la manera más simple mi actual y perpetua situación. Esta será la herramienta con la que, a pesar de ser solo un mensaje unidireccional, podré comunicarme contigo e incitarte a que viajes al eterno mundo de los sueños a ver al niño cuyo corazón abrazaste para marcar por siempre su vida, e incluso, su ahora eterna existencia. Te extraño madre, deseo volver a tocar tu rostro y besarlo con la misma alegría con la que nos vimos por vez primera. Mi mundo y el que me rodea se sobrecoge al observar mi desdicha causada por la incapacidad de obsequiarte el amor que a ti por siempre he profesado. Yo y el tercer mundo estamos llorando por ti. Ven a verme, por favor.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Porque, aunque estés viva madre, podremos vernos en tus sueños, y aunque yo esté muerto ya, siempre podremos permanecer juntos entre los infinitos límites del tercer mundo.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Corta tu mente al interior de la vida y abre paso al tercer mundo.</text:p>
-   <text:p text:style-name="P2"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P2"><text:tab/>Vive.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Muere.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Sueña.</text:p>
+   <text:p text:style-name="P2">Desde el tercer mundo</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Mi nombre ya no es importante, pero sí lo que tengo que decir. He estado más allá de la vida o la muerte, y, aunque después de un largo viaje tricolor fui capaz de lograr uno de mis objetivos, aún siento un vacío inmenso en mi corazón. Ahora conozco la verdad sobre el símbolo triangular que tanto aparecía en visiones y sueños. Aunque en contra de mi voluntad, logré llegar y pertenecer, por siempre, en y al tercer mundo.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>El único deseo que me atormenta hoy es no poder volver a verte madre, solo quiero estar contigo una vez más, eres lo único que tengo y por eso te escribo esta carta de torpe letra. Espero la encuentres en tu velador al despertar, después de soñar conmigo. Te extraño y no quiero olvidarte como lo hice con mi propio nombre ¡O como lo estoy haciendo con mi propia existencia!</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>El tercer mundo: un mundo al que se visita mientras se duerme, muchas veces confundido con un sueño. Un mundo donde no existe el tiempo y el espacio es subjetivo.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Mis extraños sueños (o creía que lo eran) empezaron más o menos hace doce años, cuando aún era un infante que nada sabía sobre el mundo o de su habla escrita. En estos extraños sueños, no siempre nocturnos, siempre aparecía en un lugar distinto y sin ningún patrón, el mismo sentimiento de inmensidad definida que mi cerebro interpretaba como un símbolo triangular con tres círculos unidos de extraña forma. Nunca le di atención alguna, solo eran sueños, pensaba. Pero en el accidente, del que no tengo muchos recuerdos, justo antes de morir, apareció frente a mí, y, en el momento en el que debí desaparecer de la vida y entrar a la muerte como mi destino lo exigía, mi existencia fue interrumpida por un banal sueño.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>En mi sueño, estaba sentado en un árbol, mirando hacia el cielo mientras llovía... Lo sé, es algo ridículo, pero no fue hasta después de mucho “tiempo” que me di cuenta de que no estaba durmiendo en el automóvil como mi último recuerdo de vida lo mostraba, ni que tampoco estaba realmente en un sueño que habría tenido durante el viaje y que esa sensación tan pacífica en mi espíritu no terminaría jamás. Salí del lugar de donde estaba y logré recorrer, sin cansarme, un nuevo mundo que emergía ante mí. Aunque “nuevo” no es la palabra correcta, creo que “olvidado” se ajusta mejor a la verdad, mas no a la realidad. Porque en este mundo madre, la realidad, como la <text:soft-page-break/>conocía, no existe.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Recordé todas las veces que había estado en esos lugares que veía mientras soñaba, y me di cuenta de que ninguno de esos lugares, ni se crearon en mi mente, ni eran recuerdos retorcidos que mi cerebro confundía. No era yo quien creaba esas formas, ni mi subconsciente ni mis traumas... Era un mundo completamente independiente a nuestra vida y futura muerte. Recordaba algunas cosas... Y olvidaba otras.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>La calle donde vivía, por ejemplo, mi propia casa, y muchos otros lugares eran casi iguales, pero siempre con sutiles o a veces extravagantes diferencias. Paisajes inexistentes, calles cambiantes, lugares en eternos ocasos, y otros en los que el sol no salía jamás son solo algunas cosas que recuerdo de mis innumerables sueños. En esos eternos lugares estaba yo ahora, sin vivir ni morir... Yo solo... Existía.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Recorrí, con un extraño bienestar, mi nuevo hogar, caminé por los paisajes imposibles de mis anteriores sueños y los recordé como en un <text:span text:style-name="T1">déjà vu</text:span>. También, volví a conocer personas que nunca en mi vida vi. Pero, aún así, entre tanta felicidad y calma, sentía un extraño sentimiento al que creí definir como ignorancia. En un momento dado, me di cuenta que no sabía dónde estaba ni qué estaba haciendo. “¿Es que sigo soñando?, ¿Hace cuánto descendí de aquel árbol?, ¿Cuándo dejó de llover?” son solo algunas de las preguntas que me hice en ese momento.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Durante el viaje sin sentido, recordé el porqué estaba yo allí, ya que, sin la necesidad de buscarlo, encontré el automóvil en el mismo lugar del accidente, pero no hallé mi cuerpo. Tampoco estabas tú. Sufrí una crisis nerviosa al recordar medianamente lo que sucedió y al ver mi cuerpo partirse en dos, frente a mí, en un recuerdo borroso que traje involuntariamente del mundo en el que tú, madre, existes. Y entre el temblor de mi cuerpo y el choque mental, caí inconsciente.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Desperté en un lugar que no conocía, y ya nada era tan irreal como antes. Todo volvió a ser palpable, dimensionado, físico, real... Aburrido... Desperté en la muerte.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Al principio, estúpidamente, creí haber revivido milagrosamente e intenté buscarte, pero no estabas en ningún lugar, y en nuestra casa vivía gente que nunca había visto en mi vida. Les pregunté sobre ti y no te conocían, pero, logré reconocer a una persona idéntica a ti, bueno, más o menos. Le pregunté su nombre y después de varios minutos pensando, me di cuenta que era ridículamente parecido a tu apellido materno. Ahora no lo recuerdo, pero estoy seguro que si lo escucharas, te reirías.</text:p>
+   <text:p text:style-name="P3"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P3"><text:tab/>Ninguna persona nos conocía y cuando me atreví a preguntar por mí mismo, me di cuenta que no recordaba mi nombre y que el tuyo cada vez se me hacía más difícil recordar... Pero mis sentimientos por ti madre nunca cambiarán, porque tampoco permitiré que tal cosa suceda. No permitiré que mi alma se desvanezca en este mundo y con ella los bellos recuerdos que guardo sobre ti.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Luego de un tiempo reconocí a algunas de esa gente: eran tus familiares muertos, los reconocí por los nombres de las viejas cartas que siempre me mostrabas. Estuve observándolos por un tiempo mientras dormía en las calles como un indigente, ya que por un loco sin nombre me tomaron, y me di cuenta que no los unían lazos sanguíneos, como sí sucedió en la vida. Permanecían juntos como simples conocidos, por alguna razón que aún desconozco.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>“Si sigo así, terminaré viviendo de hambre”, dije en voz alta... Pero, “¿Qué acabo de decir?”, pensé, “Eso no tiene ningún sentido”. Y casi desfalleciendo por la inanición, me dormí. Tuve el sueño más revelador que te podrías imaginar.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Volví al mismo mundo que te acabo de describir. Cuando reaccioné a mi entorno, no perdí ni un solo segundo en investigar lo que estaba pasando porque aún no comprendía nada y a esas alturas ya me sentía desesperado por no poder volver a verte. Me sentí un estúpido al darme cuenta de que en el lugar que ahora habitaba no existía el tiempo y que, aunque quisiera, no podría desperdiciarlo. No estuve mil años en el mundo de los sueños, mucho menos mil y una noches. No fue ni una eternidad ni un momento. Mi existencia pertenecía al allá, y el allá pertenecía en mí. Por y hasta siempre. Por y hasta nunca.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>La hora percibida dependía, simplemente, de la posición del sol, y el sol, a su vez, dependía del lugar en el que me hallaba. En algunos valles era siempre de noche. El centro de la ciudad, por ejemplo, era gigante y siempre era de día, podía estar quieto allí por una eternidad, pero el sol nunca se ponía hasta que me retiraba a otro lugar. Podrá sonar absurdo e imposible de entender, pero estoy seguro que a lo largo de tu vida pudiste al menos una vez sentir la sensación de extraña paz que da este lugar, aunque lo hayas olvidado al momento de despertar de alguno de tus suaves letargos. Todo es tan irreal, porque lo imposible es la única verdad en este lugar, y lo físico es una mera fantasía.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Pude haber estado mil eternidades en este mundo y otra eternidad estoy dispuesto a permanecer entre sus infinitos límites... Pero tú no estás acá. Te extraño <text:soft-page-break/>madre. Aunque no me hayas tenido en tu vientre y que ningún sentimiento nos unió antes de mis nueve años, tu eres mi madre y yo soy tu hijo. Mis sentimientos por ti, aunque ya no pueda estar contigo físicamente, no variarán en lo absoluto y mi alma, por siempre, te pertenecerá. Espero el profundo amor que sufro desde este mundo, cruce los pasajes de la vida para que a tu corazón lleguen con el mismo cariño que emana desde mi desconsolado corazón. Quiero, desesperadamente, volver a verte.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Desperté en la muerte. Casi viviendo por inanición, y mirando el blanco cielo nocturno me di cuenta que la vida y la muerte son la misma cosa, el mismo lugar, y el mismo sentimiento... ¡Ni siquiera son antípodas! Tampoco son contrarias, una no es buena y la otra mala. No existen cosas como el bien y el mal, solo existen los lugares de existencia al que nuestras almas pertenecen. Son acciones y consecuencias las que manejan nuestras vidas, no el bien y el mal. El humano tiene una cantidad finita de arquetipos personales y estamos encadenados a siempre hacer lo mismo, sea en la vida o en la muerte, por eso nuestro comportamiento es idéntico en los dos mundos y la única forma de conmutar nuestro destino es alejarnos del molde divino del que fuimos creados. Dejar de ser humanos, dejar la humanidad de lado... Pero eso es algo que no estoy dispuesto a hacer, ya que, al olvidar mi humanidad, rompería los lazos que a ti me unen.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>El alma se construye a base de las memorias que nosotros mismos creamos en nuestra existencia, independiente del mundo en las que se crean... Y por eso madre, tengo miedo. Tengo miedo de que la transferencia a otro mundo termine por borrar mis memorias sobre ti y con ellas, mi joven alma se desvanezca.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>El sueño que tuve antes de mi muerte fue un error cósmico que evitó el reinicio de mi alma después de traspasar el gran umbral. Pero yo no lo traspasé. Soy una extraña excepción a la regla. Aunque es increíblemente difícil encontrar personas, he conocido otras excepciones aquí en el tercer mundo. Hay una razón por la que los planetas no chocan entre sí, y es la inmensidad del universo.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Ahora pertenezco al extraño universo limitado sobre y entre la vida y la muerte y eso hace aún más difícil definir y explicarte sobre donde me encuentro. Aunque no es imposible el volver a juntarnos para poder abrazar tu corazón otra vez, como tú lo hiciste con el mío ese día al adoptar mi vida en la tuya.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Siempre pensando en ti y repitiendo tu nombre con cariño en mi mente, en el mundo de la muerte, comencé a alejarme de todo ser humano para terminar deambulando por montañas y desiertos. Sin sentido ya del tiempo y del espacio, <text:soft-page-break/>terminé sobremuriendo dentro de una cueva para no vivir. Si volvía a cambiar de mundo, por culpa de mi cuerpo humano, perdería todo recuerdo tuyo, madre, al traspasar obligadamente por el umbral y que mi actual mundo olvidara mi alma. Y esa es exactamente la razón por la que no volví a la vida.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Comencé a meditar, en un ayuno obligado, e intentar recordar el triángulo de mis sueños sin un propósito muy claro. Lo dibujé en la tierra como lo recordaba y lo analicé. Existe un umbral irrenunciable entre la vida y la muerte, pero no solo son dos los mundos los que limitan la existencia del ser humano, entre y sobre la vida y la muerte, existe un mundo sin sentido al que terminé denominando con la letra “S”, del Mundo de los Sueños o <text:span text:style-name="T1">Somnus</text:span>. Quizás mi lengua nativa me obligaba a pensar de esta limitada forma, utilizando el lenguaje humano y no la lengua del alma que me temo nunca podré dominar.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>No es un sueño lo que nos lleva ahí madre, nuestro cerebro no es capaz de ejecutar tal magnífico acto como la realización de extraordinarios viajes a través de los distintos mundos que dominan nuestra existencia. Solo podemos hacerlo cuando nuestro cuerpo y mente, vivo o muerto, toma un valor nulo, ya sea en un reposo extremo, como cuando dormimos profundamente pero en concentración; como cuando monjes dicen llegar a un estado consciente de liberación terrenal para no volver a cruzar el imponente umbral; como cuando me dormí tan cansado en el automóvil luego del largo viaje que realizamos; o cuando atravesamos el umbral entre los dos mundos: cuando lo vivo muere y lo muerto vive.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Dentro de cada mundo existen distintos límites. Entendí que el segundo límite de la vida solo se atraviesa cuando el mundo olvida tu alma, lo mismo pasa desde la muerte. Y dentro del pasaje desde el uno al otro, se encuentra el umbral, que ejecuta el gran reinicio sobre el alma viajera y la vuelve a su arquetipo original. Pero hacia los sueños, desde la vida o la muerte, no hay umbral ni reinicio, es un camino libre, pero difícil, al que yo nunca hubiera sido capaz de atravesar si no hubiera tenido aquel sueño.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>No confundas tus sueños con visiones del tercer mundo. Tus sueños son representaciones de tus sentimientos y preocupaciones, tus traumas y los recuerdos de tu alma interfieren en tu cuerpo causando visiones que crees son personas vivas en tu mente. Pero si logras identificar los mismos lugares en un mundo incógnito en los que te sientes libre y en un extraño estar, reconoce que no estás viva ni muerta, si no que solo existes como una forma indeterminada que olvidó la realidad física para sumergirse en un mar de fantasías imposiblemente absurdas que se convierten en la <text:soft-page-break/>única verdad, donde el universo te pertenece mientras tú perteneces a él.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>En la muerte, aún con el dilema de mi memoria funcionando intermitentemente, intenté vivir de nuevo evitando el gran reinicio, con el único propósito de volver a estar contigo, aunque fuera un solo momento. Desde la muerte, viajé al tercer mundo, a la “S” del triángulo, al mundo de los sueños, para nunca, ¡Jamás!, volver. Y desde ahí hice hasta lo imposible para volver a la vida, pero el orden natural de la existencia humana me impide vivir nuevamente con la misma conciencia que ahora poseo y creo si desaparezco de este infinito mundo para volver a la muerte, también la perderé. Volvería instantáneamente a la vida porque mi cuerpo humano en la muerte ya debe estar vivo, momificado o putrefacto, y volver a traspasar el umbral borraría todos los recuerdos que tanto protejo en tu nombre.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>No pienses que me rendiré tan fácil, siempre lo intentaré pues nunca me resignaré a estar tan alejado de ti. Te prometo que voy a ser capaz de hacerte llegar los sentimientos que emanan de mi aún joven corazón bajo algún método. Te prometo que nos volveremos a ver.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Sin resignarme aún, me sentí dueño de mi alma al fijar mi objetivo y concentrarme en él. Hice cosas inexplicables en nuestro lenguaje que no necesitas ni quieres saber. Pero descubrí que los umbrales infinitos y sin límites que unen mi actual mundo con el tuyo no ofrecen resistencia alguna a su cruce. Pero mi alma está atada con cadenas invisibles a la muerte, ¡Y ellas no permiten mi existencia junto a ti! Como ya escribí antes, si me atrevo a cruzar el umbral, tu nombre se borrará por siempre de mi efímera alma. Mi única alternativa es cruzar desde el tercer mundo hacia el mundo de la vida.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Solo décimas de un segundo logré estar en la vida y sin un cuerpo físico sentía que mi existencia desaparecía por intentar desobedecer las reglas con las que los tres mundos coexisten. Solo podría permanecer físicamente en la muerte como un cuerpo vacío. Pero la disposición del tercer mundo nos pertenece a cada uno de nosotros, los seres vivientes.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Voy a experimentar una vez más o mil veces si es necesario. Quizás la forma en la que intento comunicarme contigo es errónea e insultante a la vida misma. Al darme cuenta que ya nunca podré tener un cuerpo físico con el cual abrazarte con pasión, te escribí esta carta en la que intento explicarte de la manera más simple mi actual y perpetua situación. Esta será la herramienta con la que, a pesar de ser solo un mensaje unidireccional, podré comunicarme contigo e incitarte a que viajes al eterno mundo de <text:soft-page-break/>los sueños a ver al niño cuyo corazón abrazaste para marcar por siempre su vida, e incluso, su ahora eterna existencia. Te extraño madre, deseo volver a tocar tu rostro y besarlo con la misma alegría con la que nos vimos por vez primera. Mi mundo y el que me rodea se sobrecoge al observar mi desdicha causada por la incapacidad de obsequiarte el amor que a ti por siempre he profesado. Yo y el tercer mundo estamos llorando por ti. Ven a verme, por favor.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Porque, aunque estés viva madre, podremos vernos en tus sueños, y aunque yo esté muerto ya, siempre podremos permanecer juntos entre los infinitos límites del tercer mundo.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Corta tu mente al interior de la vida y abre paso al tercer mundo.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Vive.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Muere.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Sueña.</text:p>
   </office:text>
  </office:body>
 </office:document>

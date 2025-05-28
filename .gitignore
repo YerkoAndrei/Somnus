@@ -11,6 +11,7 @@
 # Prosa:
 # .fodt
 # Formato final imprimible
+# Páginas numeradas
 # Noto serif 12
 
 # Prosa corta:
@@ -22,6 +23,7 @@
 # Título usa una hoja
 # Título en negrita
 # Título centrado horizontal y verticalmente
+# Portada no numerada
 # Capítulo alineado a izquiera
 # 3 saltos de línea por cada capítulo
 

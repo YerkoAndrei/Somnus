@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:date>2025-05-28T12:33:55.879457583</dc:date><meta:editing-duration>PT9M44S</meta:editing-duration><meta:editing-cycles>5</meta:editing-cycles><meta:generator>LibreOffice/25.2.3.2$Linux_X86_64 LibreOffice_project/bbb074479178df812d175f709636b368952c2ce3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="5" meta:paragraph-count="65" meta:word-count="1766" meta:character-count="9890" meta:non-whitespace-character-count="8124"/></office:meta>
+ <office:meta><dc:date>2025-05-28T13:34:20.546746428</dc:date><meta:editing-duration>PT12M14S</meta:editing-duration><meta:editing-cycles>6</meta:editing-cycles><meta:generator>LibreOffice/25.2.3.2$Linux_X86_64 LibreOffice_project/bbb074479178df812d175f709636b368952c2ce3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="5" meta:paragraph-count="66" meta:word-count="1767" meta:character-count="9891" meta:non-whitespace-character-count="8125"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">11853</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">44355</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">19389</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">48791</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">21327</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">13383</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">15600</config:config-item>
      <config:config-item config:name="ViewTop" config:type="long">2501</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">44353</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">19387</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">11853</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">48789</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">33179</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">110</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">true</config:config-item>
@@ -144,7 +144,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1410245</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1562412</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -201,6 +201,22 @@
   <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
    <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
    <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans" style:font-family-complex="&apos;Noto Sans&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.795cm" style:type="center"/>
+     <style:tab-stop style:position="17.59cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Header_20_and_20_Footer" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.795cm" style:type="center"/>
+     <style:tab-stop style:position="17.59cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
   </style:style>
   <text:outline-style style:name="Outline">
    <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
@@ -275,10 +291,13 @@
   </loext:theme>
  </office:styles>
  <office:automatic-styles>
-  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
   </style:style>
   <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1"/>
   </style:style>
   <style:page-layout style:name="pm1">
@@ -286,14 +305,20 @@
     <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
    </style:page-layout-properties>
    <style:header-style/>
-   <style:footer-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0cm" fo:margin-top="0.499cm" fo:background-color="transparent" draw:fill="none"/>
+   </style:footer-style>
   </style:page-layout>
   <style:style style:name="dp1" style:family="drawing-page">
    <style:drawing-page-properties draw:background-size="full"/>
   </style:style>
  </office:automatic-styles>
  <office:master-styles>
-  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1"/>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
+   <style:footer>
+    <text:p text:style-name="P1"><text:bookmark-start text:name="PageNumWizard_FOOTER_Estilo de página predeterminado1"/><text:page-number text:select-page="current">5</text:page-number><text:bookmark-end text:name="PageNumWizard_FOOTER_Estilo de página predeterminado1"/></text:p>
+   </style:footer>
+  </style:master-page>
  </office:master-styles>
  <office:body>
   <office:text text:use-soft-page-breaks="true">
@@ -304,110 +329,110 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P1">La otra muerte</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Harto me encontraba de las misas funerarias de mis amigos. Así que decidí crear mi propio funeral, e investigué a mi estilo, otras formas de morir.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Soy un hombre extraordinariamente viejo, llevo ciento veinte años dedicándome a cuidar plantas y siento lástima al saber que, a mi muerte, ellas no tendrán quien las cuide. He amado tanto a estos seres inmóviles que el convertirme en un botánico reconocido aún en mi adolescencia, fue solo el comienzo de una larga vida basada en la clorofila y la fotosíntesis.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Nunca logré tener hijos y mis parejas han muerto esperando que mi destino se uniera al de ellas, pero mi longeva vida me impide volver a darles el cariño después de la vida que les prometí. Así que mi destino es solitario, como el de la mayoría de los ancianos alrededor del mundo. Pero eso no me importa realmente, lo que en verdad me molesta de la soledad es que nadie se hará cargo de mi cuerpo al yo fallecer. No es que tenga miedo o un desprecio oculto por la muerte, pero desde niño, mi sueño fue tener un funeral memorable al mundo.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Siempre he odiado la apática costumbre de enterrar en un cajón sellado a un cadáver. No tienen ningún tipo de recambio a la tierra de la que fuimos creados, porque queramos o no, del barro nacemos y al barro volvemos. Mi intención es agradecer a la tierra de la que fui creado, y que del útero de arcilla del que nací, nazcan miles como yo.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Comencé investigando los diferentes tipos de funerales que ha creado el hombre a lo largo del gigante mundo que nunca nadie podrá recorrer completamente.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Pensé en el embalsamamiento como otra forma de permanecer en este mundo, pero ¿Quién querría ver a un viejo botánico cuyos descubrimientos solo ayudaron a las plantas y no al hombre a saciar su hambre, literal y de conocimientos?</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Pensé en congelarme mediante técnicas avanzadas de tecnología ajenas a mis conocimientos de la naturaleza, pero ¿Qué haría yo tantos años más tarde?</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Pensé en momificarme, pero la aridez me impediría estar cerca de cualquier cosa.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Viajé en barco a los países lejanos, cruzaba el océano más grande del planeta, <text:soft-page-break/>cuando vi la gran cantidad de plantas marinas que ahí viven y quise unirme a ellas para siempre. Y como los marineros, pensé en ahogarme en sus profundidades, pero, no sentía aún su llamada, pues a las plantas del mar no clamo el mismo amor que a las plantas de la tierra verde.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Viaje al país del río sagrado, donde pensé en ser cremado y despedido al río en una ceremonia multitudinaria entre cientos de indiferentes personas. Pero de la ceniza del hombre no nace vida y mi intención de volver al útero de arcilla del que fui creado no se volvería realidad.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Viaje al país más alto del mundo, donde pensé en ser comido por buitres para seguir el ciclo de la vida de la especie animal a la que pertenezco. Pero no me gustó la forma sin respeto en la que trataban a los cuerpos, solo como una cosa más, sin sentido para el hombre. Y, para los carroñeros, solo sería una comida más.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Pensé en alejarme a un bosque y ser comido por lobos mientras viajaba por el país más frío del mundo. Pero yo no amo a los lobos, amo a las plantas, y con mis huesos no alimentaría ni a un lobezno desnutrido.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Volví decepcionado a mi hogar meses después y sin una sola moneda en mis bolsillos.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Ya en mi hogar de toda la vida, pensé en enterrarme para servirle de abono a los seres que tanto he amado y que he dedicado mi vida entera en cuidar. Pero, cuando me recosté en la fosa que acababa de hacer torpemente con mi pequeña pala, el numen verde me habló:</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>“No mueras aún.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Tú, que tanto nos amas.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Tú, que tanto nos has cuidado.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Tú, que nos diste nueva vida.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Nosotras te daremos nueva vida”.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Yo les respondí:</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>“Si ustedes quieren que permanezca a ustedes por la eternidad, así lo haré.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Si ustedes quieren que las siga amando y cuidando por la eternidad, así lo haré.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Si ustedes quieren que me convierta en una de ustedes por la eternidad, así lo haré”.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Cuando desperté del sueño, una brisa había interrumpido en el invernadero <text:soft-page-break/>moviendo con elegante sincronía las plantas que tanto amo y con las que acababa de tener una conversación que revelaría mi amable destino final.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Olvidé toda materialidad que un hombre puede llegar a tener, y me alimenté del sol y de los nutrientes de la tierra tal como ellas lo hacen. Ellas me decían que hacer, durante las noches que dormía junto a ellas, me daban las técnicas que, gracias a la gran habilidad en la botánica que logré cultivar por un siglo completo, entendía sin mayor dificultad. En uno de mis sueños les pregunté:</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>“Mis musas, ¿Por qué he vivido tanto? ¿Es ésta su voluntad?”.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>“Nosotras alargamos tu vida para que pudieras terminar tus estudios sobre nosotras, y así, poder unírtenos sin nuestra ayuda. </text:p>
-   <text:p text:style-name="P2"><text:tab/>Pero el humano es frágil y mortal, y tu cuerpo, ya viejo, está por expirar a pesar de nuestros esfuerzos por alargar su vida. Tu amor necesita ayuda y nosotras te la daremos para que entiendas lo que un hombre común no podría comprender durante su corta vida”.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Cada vez que despertaba sentía el gran alivio que siente un hombre al saber que su amor es totalmente correspondido. ¡Mis musas verdes comparten el gran amor que profeso a pesar de mi alma humana!</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>En uno de mis sueños me dijeron que, a pesar de ser inmortales, aún no contenían todos los conocimientos necesarios para darme vida, pues, su vida, había comenzado con mi pasión por ellas mismas, y me pidieron que fuera a hablar con la diosa verde más antigua que ellas conocían. “Ve a la cima de la montaña azul, allí encontrarás un árbol más antiguo que la estructura ósea que soporta tu cabeza”.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Fui ya fatigado por mis intensos estudios a la cima de la montaña azul. Allí encontré un pequeño árbol de extraña apariencia, que, podría decir, albergaba cuatro diferentes tipos de hojas y tres colores en su cuerpo. Media no más de tres metros y su tronco era aún delgado, pero daba una sombra hermosa que llamaba a dormir una siesta capaz de tranquilizar cualquier alma atormentada. Me acosté y el árbol me habló:</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>“Tú, que quieres a las plantas.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Tú, que quieres convertirte en una de nosotras.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Tú, que profesas amor por nuestra existencia en este mundo.</text:p>
-   <text:p text:style-name="P2"><text:tab/>¿Quieres saber cómo puedes hacer realidad tu sueño?</text:p>
-   <text:p text:style-name="P2"><text:tab/>¿Quieres realmente abandonar tu cuerpo de carne y convertirte a nuestra inmortalidad?</text:p>
-   <text:p text:style-name="P2"><text:soft-page-break/><text:tab/>¿Quieres ver a tu raza y tu especie destruirse por completo, mientras observas con calma e indiferencia su caída?”</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Yo le respondí:</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>“Sí, quiero saber cómo hacer realidad mi sueño.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Sí, quiero abandonar mi cuerpo de carne y convertirme a su inmortalidad.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Sí, quiero ver la destrucción de mi raza y mi especie y observar con calma e indiferencia su caída.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Porque a pesar de que el hombre cree poder destruirlas a ustedes, diosas verdes, nuestra raza y especie, en nuestra ignorancia, no es capaz de reconocer que no tiene el poder para hacerlo. Ustedes son superior al hombre en todo sentido, y su destrucción, haga lo que haga un ser con vértebras, es imposible. Ustedes, que reinan el mundo entero, por favor, déjenme pertenecer a ustedes por la eternidad.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Dime, por favor, ¿Quién eres tú?”</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Ella me habló:</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>“Vienes a verme a mí, que, a pesar de parecer un árbol pequeño, soy más longevo que toda tu raza y tu especie.</text:p>
-   <text:p text:style-name="P2"><text:tab/>No te equivoques, mi cuerpo es gigantesco, yo no estoy sobre la cumbre de una montaña.</text:p>
-   <text:p text:style-name="P2"><text:tab/>¡Yo soy la montaña!</text:p>
-   <text:p text:style-name="P2"><text:tab/>Mis raíces formaron la montaña en la que estás acostado en mi juventud.</text:p>
-   <text:p text:style-name="P2"><text:tab/>He visto razas completas fallecer en un instante, y las he visto también, desaparecer paulatinamente, pero mi inmortalidad no me permite unirme a ellas.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Mi sabiduría es infinita y sé todo sobre la existencia terrenal.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Respondiste mi pregunta y me convenciste de tu amor por nuestra existencia.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Con mi poder, podrás convertirte a nuestra vida”.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Volví a mi hogar caminando suavemente después de las palabras de ánimo de la gran diosa verde, quizás una de las primeras en rendirle culto al dios sol desde el fondo del mar de aire. Medité sobre mi propia existencia de carne antes de entregarla al amor verde.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>El humano es insignificante y toda la memoria de su creación, su avance y civilización no son siquiera un fragmento de memoria de cualquier ser verde de edad moderada.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>La aparente aleatoriedad de la estructura radical que nos ofrece lo verde es la perfección en sí de la vida y la existencia, ignorando completamente la simetría basada <text:soft-page-break/>en el sistema nominal que el hombre toma como la culminación de su intelecto. No es cuestión de: no todo lo que cree el hombre puede ser perfecto, si no, de: todo lo que crea el hombre es imperfecto. El hombre como él mismo es perfecto, naciendo de la carne y ella del verde, sin embargo, todo lo que cree aquel ser perfecto que nos describe, está incompleto a la subjetividad de quien lo crea. Porque el sistema que considera exacto fue creado por él y por nadie más que él, es imperfecto e inexacto, y lo aparentemente impredecible, que apuñala con insolente superioridad el corazón de quien lo sobre piensa, es la perfección de, quiéralo o no, quien domina el mundo que él mismo cree regir con falsa tiranía, incapaz siquiera de hacer el daño que él cree poder hacer.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Finalmente, llegó el día en el que mi cuerpo humano dejaría de respirar y moverse. Me senté frente a las musas de clorofila que guiaron mi vida desde mi nacimiento, que fue también rodeado de ellas, y crucé mis piernas. Ellas me abrazaron, y yo toqué por última vez mi cuerpo de carne y piel que ahora sería por siempre un ser verde.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Por fin tendré un funeral memorable al mundo, porque mi mundo son las plantas.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Mientras moría, ellas me hablaron:</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>“Rojo sin verde es gris.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Pero verde sin rojo sigue siendo verde.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Tú, aprende de nosotras, y nosotras aprenderemos tu cuerpo.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Tú, aprende, que sobre nosotras solo están los astros.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Tú, muere, y se con nosotras por la eternidad”.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Y a ellas perteneceré por siempre, hasta que mi inmortalidad, que por ellas me fue otorgada, por ellas mismas me sea arrebatada.</text:p>
+   <text:p text:style-name="P2">La otra muerte</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Harto me encontraba de las misas funerarias de mis amigos. Así que decidí crear mi propio funeral, e investigué a mi estilo, otras formas de morir.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Soy un hombre extraordinariamente viejo, llevo ciento veinte años dedicándome a cuidar plantas y siento lástima al saber que, a mi muerte, ellas no tendrán quien las cuide. He amado tanto a estos seres inmóviles que el convertirme en un botánico reconocido aún en mi adolescencia, fue solo el comienzo de una larga vida basada en la clorofila y la fotosíntesis.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Nunca logré tener hijos y mis parejas han muerto esperando que mi destino se uniera al de ellas, pero mi longeva vida me impide volver a darles el cariño después de la vida que les prometí. Así que mi destino es solitario, como el de la mayoría de los ancianos alrededor del mundo. Pero eso no me importa realmente, lo que en verdad me molesta de la soledad es que nadie se hará cargo de mi cuerpo al yo fallecer. No es que tenga miedo o un desprecio oculto por la muerte, pero desde niño, mi sueño fue tener un funeral memorable al mundo.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Siempre he odiado la apática costumbre de enterrar en un cajón sellado a un cadáver. No tienen ningún tipo de recambio a la tierra de la que fuimos creados, porque queramos o no, del barro nacemos y al barro volvemos. Mi intención es agradecer a la tierra de la que fui creado, y que del útero de arcilla del que nací, nazcan miles como yo.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Comencé investigando los diferentes tipos de funerales que ha creado el hombre a lo largo del gigante mundo que nunca nadie podrá recorrer completamente.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Pensé en el embalsamamiento como otra forma de permanecer en este mundo, pero ¿Quién querría ver a un viejo botánico cuyos descubrimientos solo ayudaron a las plantas y no al hombre a saciar su hambre, literal y de conocimientos?</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Pensé en congelarme mediante técnicas avanzadas de tecnología ajenas a mis conocimientos de la naturaleza, pero ¿Qué haría yo tantos años más tarde?</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Pensé en momificarme, pero la aridez me impediría estar cerca de cualquier cosa.</text:p>
+   <text:p text:style-name="P3"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P3"><text:tab/>Viajé en barco a los países lejanos, cruzaba el océano más grande del planeta, cuando vi la gran cantidad de plantas marinas que ahí viven y quise unirme a ellas para siempre. Y como los marineros, pensé en ahogarme en sus profundidades, pero, no sentía aún su llamada, pues a las plantas del mar no clamo el mismo amor que a las plantas de la tierra verde.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Viaje al país del río sagrado, donde pensé en ser cremado y despedido al río en una ceremonia multitudinaria entre cientos de indiferentes personas. Pero de la ceniza del hombre no nace vida y mi intención de volver al útero de arcilla del que fui creado no se volvería realidad.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Viaje al país más alto del mundo, donde pensé en ser comido por buitres para seguir el ciclo de la vida de la especie animal a la que pertenezco. Pero no me gustó la forma sin respeto en la que trataban a los cuerpos, solo como una cosa más, sin sentido para el hombre. Y, para los carroñeros, solo sería una comida más.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Pensé en alejarme a un bosque y ser comido por lobos mientras viajaba por el país más frío del mundo. Pero yo no amo a los lobos, amo a las plantas, y con mis huesos no alimentaría ni a un lobezno desnutrido.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Volví decepcionado a mi hogar meses después y sin una sola moneda en mis bolsillos.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Ya en mi hogar de toda la vida, pensé en enterrarme para servirle de abono a los seres que tanto he amado y que he dedicado mi vida entera en cuidar. Pero, cuando me recosté en la fosa que acababa de hacer torpemente con mi pequeña pala, el numen verde me habló:</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>“No mueras aún.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Tú, que tanto nos amas.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Tú, que tanto nos has cuidado.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Tú, que nos diste nueva vida.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Nosotras te daremos nueva vida”.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Yo les respondí:</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>“Si ustedes quieren que permanezca a ustedes por la eternidad, así lo haré.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Si ustedes quieren que las siga amando y cuidando por la eternidad, así lo haré.</text:p>
+   <text:p text:style-name="P3"><text:soft-page-break/><text:tab/>Si ustedes quieren que me convierta en una de ustedes por la eternidad, así lo haré”.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Cuando desperté del sueño, una brisa había interrumpido en el invernadero moviendo con elegante sincronía las plantas que tanto amo y con las que acababa de tener una conversación que revelaría mi amable destino final.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Olvidé toda materialidad que un hombre puede llegar a tener, y me alimenté del sol y de los nutrientes de la tierra tal como ellas lo hacen. Ellas me decían que hacer, durante las noches que dormía junto a ellas, me daban las técnicas que, gracias a la gran habilidad en la botánica que logré cultivar por un siglo completo, entendía sin mayor dificultad. En uno de mis sueños les pregunté:</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>“Mis musas, ¿Por qué he vivido tanto? ¿Es ésta su voluntad?”.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>“Nosotras alargamos tu vida para que pudieras terminar tus estudios sobre nosotras, y así, poder unírtenos sin nuestra ayuda. </text:p>
+   <text:p text:style-name="P3"><text:tab/>Pero el humano es frágil y mortal, y tu cuerpo, ya viejo, está por expirar a pesar de nuestros esfuerzos por alargar su vida. Tu amor necesita ayuda y nosotras te la daremos para que entiendas lo que un hombre común no podría comprender durante su corta vida”.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Cada vez que despertaba sentía el gran alivio que siente un hombre al saber que su amor es totalmente correspondido. ¡Mis musas verdes comparten el gran amor que profeso a pesar de mi alma humana!</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>En uno de mis sueños me dijeron que, a pesar de ser inmortales, aún no contenían todos los conocimientos necesarios para darme vida, pues, su vida, había comenzado con mi pasión por ellas mismas, y me pidieron que fuera a hablar con la diosa verde más antigua que ellas conocían. “Ve a la cima de la montaña azul, allí encontrarás un árbol más antiguo que la estructura ósea que soporta tu cabeza”.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Fui ya fatigado por mis intensos estudios a la cima de la montaña azul. Allí encontré un pequeño árbol de extraña apariencia, que, podría decir, albergaba cuatro diferentes tipos de hojas y tres colores en su cuerpo. Media no más de tres metros y su tronco era aún delgado, pero daba una sombra hermosa que llamaba a dormir una siesta capaz de tranquilizar cualquier alma atormentada. Me acosté y el árbol me habló:</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:soft-page-break/><text:tab/>“Tú, que quieres a las plantas.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Tú, que quieres convertirte en una de nosotras.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Tú, que profesas amor por nuestra existencia en este mundo.</text:p>
+   <text:p text:style-name="P3"><text:tab/>¿Quieres saber cómo puedes hacer realidad tu sueño?</text:p>
+   <text:p text:style-name="P3"><text:tab/>¿Quieres realmente abandonar tu cuerpo de carne y convertirte a nuestra inmortalidad?</text:p>
+   <text:p text:style-name="P3"><text:tab/>¿Quieres ver a tu raza y tu especie destruirse por completo, mientras observas con calma e indiferencia su caída?”</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Yo le respondí:</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>“Sí, quiero saber cómo hacer realidad mi sueño.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Sí, quiero abandonar mi cuerpo de carne y convertirme a su inmortalidad.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Sí, quiero ver la destrucción de mi raza y mi especie y observar con calma e indiferencia su caída.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Porque a pesar de que el hombre cree poder destruirlas a ustedes, diosas verdes, nuestra raza y especie, en nuestra ignorancia, no es capaz de reconocer que no tiene el poder para hacerlo. Ustedes son superior al hombre en todo sentido, y su destrucción, haga lo que haga un ser con vértebras, es imposible. Ustedes, que reinan el mundo entero, por favor, déjenme pertenecer a ustedes por la eternidad.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Dime, por favor, ¿Quién eres tú?”</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Ella me habló:</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>“Vienes a verme a mí, que, a pesar de parecer un árbol pequeño, soy más longevo que toda tu raza y tu especie.</text:p>
+   <text:p text:style-name="P3"><text:tab/>No te equivoques, mi cuerpo es gigantesco, yo no estoy sobre la cumbre de una montaña.</text:p>
+   <text:p text:style-name="P3"><text:tab/>¡Yo soy la montaña!</text:p>
+   <text:p text:style-name="P3"><text:tab/>Mis raíces formaron la montaña en la que estás acostado en mi juventud.</text:p>
+   <text:p text:style-name="P3"><text:tab/>He visto razas completas fallecer en un instante, y las he visto también, desaparecer paulatinamente, pero mi inmortalidad no me permite unirme a ellas.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Mi sabiduría es infinita y sé todo sobre la existencia terrenal.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Respondiste mi pregunta y me convenciste de tu amor por nuestra existencia.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Con mi poder, podrás convertirte a nuestra vida”.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Volví a mi hogar caminando suavemente después de las palabras de ánimo de la gran diosa verde, quizás una de las primeras en rendirle culto al dios sol desde el fondo del mar de aire. Medité sobre mi propia existencia de carne antes de entregarla <text:soft-page-break/>al amor verde.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>El humano es insignificante y toda la memoria de su creación, su avance y civilización no son siquiera un fragmento de memoria de cualquier ser verde de edad moderada.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>La aparente aleatoriedad de la estructura radical que nos ofrece lo verde es la perfección en sí de la vida y la existencia, ignorando completamente la simetría basada en el sistema nominal que el hombre toma como la culminación de su intelecto. No es cuestión de: no todo lo que cree el hombre puede ser perfecto, si no, de: todo lo que crea el hombre es imperfecto. El hombre como él mismo es perfecto, naciendo de la carne y ella del verde, sin embargo, todo lo que cree aquel ser perfecto que nos describe, está incompleto a la subjetividad de quien lo crea. Porque el sistema que considera exacto fue creado por él y por nadie más que él, es imperfecto e inexacto, y lo aparentemente impredecible, que apuñala con insolente superioridad el corazón de quien lo sobre piensa, es la perfección de, quiéralo o no, quien domina el mundo que él mismo cree regir con falsa tiranía, incapaz siquiera de hacer el daño que él cree poder hacer.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Finalmente, llegó el día en el que mi cuerpo humano dejaría de respirar y moverse. Me senté frente a las musas de clorofila que guiaron mi vida desde mi nacimiento, que fue también rodeado de ellas, y crucé mis piernas. Ellas me abrazaron, y yo toqué por última vez mi cuerpo de carne y piel que ahora sería por siempre un ser verde.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Por fin tendré un funeral memorable al mundo, porque mi mundo son las plantas.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Mientras moría, ellas me hablaron:</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>“Rojo sin verde es gris.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Pero verde sin rojo sigue siendo verde.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Tú, aprende de nosotras, y nosotras aprenderemos tu cuerpo.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Tú, aprende, que sobre nosotras solo están los astros.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Tú, muere, y se con nosotras por la eternidad”.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Y a ellas perteneceré por siempre, hasta que mi inmortalidad, que por ellas me fue otorgada, por ellas mismas me sea arrebatada.</text:p>
   </office:text>
  </office:body>
 </office:document>

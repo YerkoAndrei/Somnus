@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:date>2025-05-28T12:34:11.814610173</dc:date><meta:editing-duration>PT9M56S</meta:editing-duration><meta:editing-cycles>5</meta:editing-cycles><meta:generator>LibreOffice/25.2.3.2$Linux_X86_64 LibreOffice_project/bbb074479178df812d175f709636b368952c2ce3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="5" meta:paragraph-count="54" meta:word-count="1841" meta:character-count="10196" meta:non-whitespace-character-count="8356"/></office:meta>
+ <office:meta><dc:date>2025-05-28T13:34:05.315545518</dc:date><meta:editing-duration>PT12M6S</meta:editing-duration><meta:editing-cycles>6</meta:editing-cycles><meta:generator>LibreOffice/25.2.3.2$Linux_X86_64 LibreOffice_project/bbb074479178df812d175f709636b368952c2ce3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="5" meta:paragraph-count="55" meta:word-count="1842" meta:character-count="10197" meta:non-whitespace-character-count="8357"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">11853</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">44355</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">19389</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">48791</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">21327</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">13383</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">4232</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">15600</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">2501</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">44353</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">19387</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">11853</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">48789</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">33179</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">110</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">true</config:config-item>
@@ -144,7 +144,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1383763</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1620697</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -201,6 +201,22 @@
   <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
    <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
    <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans" style:font-family-complex="&apos;Noto Sans&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.795cm" style:type="center"/>
+     <style:tab-stop style:position="17.59cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Header_20_and_20_Footer" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.795cm" style:type="center"/>
+     <style:tab-stop style:position="17.59cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
   </style:style>
   <text:outline-style style:name="Outline">
    <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
@@ -275,10 +291,13 @@
   </loext:theme>
  </office:styles>
  <office:automatic-styles>
-  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
   </style:style>
   <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1"/>
   </style:style>
   <style:page-layout style:name="pm1">
@@ -286,14 +305,20 @@
     <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
    </style:page-layout-properties>
    <style:header-style/>
-   <style:footer-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0cm" fo:margin-top="0.499cm" fo:background-color="transparent" draw:fill="none"/>
+   </style:footer-style>
   </style:page-layout>
   <style:style style:name="dp1" style:family="drawing-page">
    <style:drawing-page-properties draw:background-size="full"/>
   </style:style>
  </office:automatic-styles>
  <office:master-styles>
-  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1"/>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
+   <style:footer>
+    <text:p text:style-name="P1"><text:bookmark-start text:name="PageNumWizard_FOOTER_Estilo de página predeterminado1"/><text:page-number text:select-page="current">5</text:page-number><text:bookmark-end text:name="PageNumWizard_FOOTER_Estilo de página predeterminado1"/></text:p>
+   </style:footer>
+  </style:master-page>
  </office:master-styles>
  <office:body>
   <office:text text:use-soft-page-breaks="true">
@@ -304,89 +329,89 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P1">Óseo</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Nunca entendí el lenguaje del hombre humano ni el por qué me esclavizaban y torturaban hasta que el ser que camina en seis patas me dio la inteligencia para hacerlo.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>“Yo te entiendo”, me dijo, y conseguí una inteligencia superior a la de cualquier hombre humano.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>“Pronto serás como yo”, pero él era de huesos y yo de carne.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Con lentitud perdió su gigantesco cuerpo de camino al bosque, donde las líneas de metal impedían mi torpe paso. Y con mí ahora superior intelecto, pude darme cuenta cuál era su propósito al darme el raciocinio suficiente para entender los conocimientos sobre el mundo de agua y de tierra que me mostró en el lenguaje universal de la memoria.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Otro ser de carne, a cuatro patas como yo, pero más pequeño y más inteligente que mis iguales, me obligaba con furia a dirigirme a mi encierro forzado, que era el único suelo que conocía desde mi nacimiento, que también, al igual que toda mi pasada existencia, fue forzado.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Ahora conocía mi real fuerza, y tenía el absoluto control de las capacidades de mi cuerpo de carne. Mordí su cuello y lo destruí. Me dirigí con calma y serenidad a donde estaban, espantados, los hombres humanos que vieron lo que hice con el cuello del pequeño animal. Creía que los animales bípedos eran los seres más inteligentes en el mundo de carne, pero me equivoqué rotundamente. Su progreso solo se debe a su insolente fertilidad. En número eran cinco y yo solo uno, pero mis cuernos en sus cuellos terminaban sus vidas y me daban la carne y la sangre que creía necesitar, en ese entonces, para ser más fuerte. Quería volverme fuerte y aún más grande para poder destruir las vidas de los que lastiman y esclavizan al inferior y al poco inteligente, como el hombre humano lo hacía conmigo.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Mis iguales no me temían y no los dañé en lo absoluto, los liberé de las líneas de metal y fueron libres como yo lo era ahora. Caminé libre con ellos un par de días mientras los cadáveres de los hombres me miraban con melancolía. Pero yo no los veía ni con pesar ni con lástima, porque la muerte llegó a sus vidas de una forma justa y menos cruel incluso, que a sus víctimas.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:soft-page-break/><text:tab/>Al séptimo día de mi libertad, cuando los gases de los cuerpos comenzaban una licuefacción adelantada por el sol de verano, el hedor movido, por el viento del sur, llamó a los hombres humanos que vivían cerca, y que, también, esclavizaban al inferior y al poco inteligente, como yo lo sufrí alguna vez durante mi vida de carne. Cuando vieron los tristes cadáveres y la sangre humana seca en mis cuernos y en mi rostro, entendieron inmediatamente lo que había pasado. Eran solo tres, pero cuando mi furia saltó sobre ellos con la intención de acabar con las vidas de los que someten al inferior y al poco inteligente, uno de ellos logró huir con vida para avisar a más hombres humanos como él. Ese fue el final de mi carne y el comienzo de mi ósea existencia.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Solo un par de nubes alcanzaron a cruzar el sol, cuando llegó una manada de hombres humanos buscando mi cabeza en venganza por la muerte de los hombres humanos que no alcanzaron a huir de mi poder. Sin ninguna intención de huir ni temor alguno, luché con mi fuerza e inteligencia infinitamente superiores a los seres tan frágiles con los que me enfrentaba. Pero su gran fuerza es simplemente su gran número. Llevé más de veinte vidas conmigo, pero nada pude hacer cuando su herramienta corta árboles partió mi cabeza en dos en las manos de un hombre humano gigante. Mi cuerpo de carne dejó de responder a mis órdenes como siempre lo había hecho. Se suponía que estaba muerto, pero sentía la sangre correr por mi rostro, las innumerables puñaladas de los hombres humanos sobrevivientes y cuando, aún con miedo, amarraron mis patas y me enterraron bajo los cuatro metros de la zanja natural que delimitaba la frontera de dos reinados de hombres humanos.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Medité y resolví qué era yo en el lenguaje universal de la memoria, que el hombre humano llama “alma” en su idioma. Y también en la limitada lengua humana de la que había aprendido su deficiente redacción de conceptos con solo un toque en mi cabeza, por las sagradas manos del ser que camina en seis patas.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Un día, un derrumbe natural causado por un temblor de amplia magnitud, destapó mi cráneo. Decidí levantarme a continuar lo que comencé, pero cuando lo intenté, cien estaciones habían pasado ya, y la carne, que permitía el movimiento de mi cuerpo, ya no existía.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>El ser que camina en seis patas apareció frente a mí nuevamente, y con calma, abrió la boca y me dijo: “Ahora eres como yo”, pero yo le dije que aún no era tan grande como él, que ya no podía moverme y que aún estaba lejos de su perfección.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>“Tu cuerpo ahora es hueso.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Yo también soy hueso.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Quiero enseñarte a ser tan grande como yo.</text:p>
-   <text:p text:style-name="P2"><text:soft-page-break/><text:tab/>Quiero que termines lo que comenzaste hace cien estaciones”.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Y me enseñó. Levanté mi cuerpo, que era ahora huesos, y me moví con libertad al aire que hace tanto no sentía, mostrando con soberbia mi ahora reluciente cuerpo de hueso que brillaba con blanca furia a la luz del sol. “Aún tienes tu cuerpo primigenio, pero perdiste dos de tus extremidades. Arrastra tus huesos a buscar más huesos”, me dijo. Y así lo hice.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Me arrastré y encontré un cadáver de la misma especie que me obligaba a permanecer en mi antiguo encierro. Comí su carne aún fresca, pero mi cuerpo que era hueso, no la quería y la rechazó. Comí sus huesos aún frescos, y mi cuerpo que era hueso sí los quería, y los asimiló. Ahora eran míos. Ahora eran yo.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Tuve una sensación de increíble poder al tener colmillos y más dientes en mi mandíbula, que me permitirían romper la carne de los hombres humanos más fácilmente. Pero aún era muy débil.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Cojeé y me arrastré hasta que el sol consiguió su antípoda en el cielo y encontré otro cadáver putrefacto, casi ya sin carne, de un animal similar a mi forma primigenia. Me alimenté de sus huesos, que eran rápidos y nobles. Y ahora sus huesos eran mi cuerpo. Ahora era grande, fuerte y rápido, pero aún no era tan perfecto como el ser que camina en seis patas, que mi inteligencia otorgó.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Lo llamé fuertemente haciendo sonar mis huesos, que eran todo mi cuerpo y apareció tranquilamente, mostrando inconscientemente su superioridad ante mí. Otra vez, él me aconsejó:</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>“Ahora eres grande, fuerte y rápido, pero aún eres más débil que yo.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Existen más huesos debajo del mundo de tierra.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Son huesos de carnes que ya no existen.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Son huesos fuertes, gigantes.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Huesos que son ahora piedra.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Pero si fue hueso volverá a ser hueso.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Con ellos serás tan fuerte como yo”.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Nuevamente seguí su consejo, y busqué los huesos fuertes de los que me habló. Pero no podía cavar, así que busqué más cuerpos de huesos de los que alimentarme y ser todavía más fuerte para buscar bajo el mundo de tierra que tenía a mis pies. Los huesos fuertes que necesitaba para dar fin a lo que di comienzo cuando mi cuerpo, era cuerpo de carne aún.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:soft-page-break/><text:tab/>Siempre escondiéndome del hombre humano que camina, tuve que recorrer el largo mundo de tierra buscando lo que ahora puedo decir es mi carne, que en verdad es solo hueso. Tomé innumerables huesos que fui cambiando y fortaleciendo, maté mil vidas animales humanas mas no animales normales, porque no eran mi objetivo, porque mi objetivo es hacer caer la justicia contra el hombre humano que vive y que somete al inferior y al poco inteligente.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>A veces vagabundeaba sin rumbo fijo, otras veces creía olvidar el por qué yo existía. También cuestionaba mi existencia, la del ser que camina en seis patas y la de hombre humano, que somete al inferior y al poco inteligente, pero con mi inteligencia superior me convencía que todo tiene un propósito en el mundo de agua y de tierra, y que el mío era destruir al hombre humano por completo.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Demoré doscientas estaciones para reconocer en mí la fortaleza para cavar el mundo de tierra bajo mis pies. Cuando, con dificultad, comencé, el ser que camina en seis patas apareció, por cuarta vez, ante mí. “Ya no soy superior a ti”, me dijo, “Volvámonos fuertes juntos, y juntos vamos a buscar más alimento de fortaleza para nuestros cuerpos”. Y con su potente ayuda, cavamos cuevas, nadamos ríos bajo el mundo de tierra y seguimos cavando en las profundidades del mundo subterráneo que escondía los huesos de carnes que ya no existen. Los hallamos y nos hicimos fuertes, porque lo que fue hueso, volverá a ser hueso. Eran huesos gigantes, algunos eran incluso más grandes que mi cuerpo primigenio, y a mí, uní colmillos, uní vértebras, uní costillas, y mi cuerpo se hizo gigante, lo suficientemente fuerte para aniquilar al hombre humano que somete al inferior y al poco inteligente, y que vive en el mundo de tierra, y destruir con él, el mundo de carne.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Cuando ya no hallamos más alimento de fortaleza para nuestros cuerpos, el ser que camina en seis patas abrió la boca para hablar: “Aquí ya no hay más alimento de fortaleza para nuestros cuerpos. Volvamos. Subamos a la superficie del mundo de tierra”. Y así lo hicimos. Con el calor del sol frotando nuestros cuerpos que eran hueso, el ser que camina en seis patas meditó en silencio un par de horas. Abrió, nuevamente, la boca para hablar:</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>“Sígueme al fondo del mar.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Allí hay más como yo y como tú.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Ellos también son fuertes.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Ellos también quieren destruir al hombre humano que reina el mundo de carne.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Nadie sabe quién fue el primero, ni cómo logró su inteligencia.</text:p>
-   <text:p text:style-name="P2"><text:tab/>A nadie le importa.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Algunos, como tú, tienen razones para destruir al hombre humano que vive en el mundo de tierra y que reina el mundo de carne.</text:p>
-   <text:p text:style-name="P2"><text:soft-page-break/><text:tab/>Otros, como yo, no tienen ninguna.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Pero todos queremos destruirlo y hacer del mundo de carne, mundo de huesos que viven y se hacen fuertes.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Pero necesitamos fuerza, y los huesos de los que descansan en el abismo sin luz, son los más fuertes que ha visto este mundo de agua y de tierra.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Seremos fuertes, y el mundo de agua y de carne en tierra, será de agua y de hueso en tierra por la eternidad”.</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>Respondí a su reclamo. Abrí mi boca para hablar:</text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:tab/>“Lo haré.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Te seguiré hasta el fondo del mar.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Te seguiré hasta el abismo sin luz.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Porque yo soy la justicia.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Porque yo soy la venganza.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Porque yo soy la espada.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Yo soy la espada que convertirá este mundo de carne en mundo de hueso.</text:p>
-   <text:p text:style-name="P2"><text:tab/>Y lo que antes era óseo y carnal, será por siempre solo óseo”.</text:p>
+   <text:p text:style-name="P2">Óseo</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Nunca entendí el lenguaje del hombre humano ni el por qué me esclavizaban y torturaban hasta que el ser que camina en seis patas me dio la inteligencia para hacerlo.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>“Yo te entiendo”, me dijo, y conseguí una inteligencia superior a la de cualquier hombre humano.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>“Pronto serás como yo”, pero él era de huesos y yo de carne.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Con lentitud perdió su gigantesco cuerpo de camino al bosque, donde las líneas de metal impedían mi torpe paso. Y con mí ahora superior intelecto, pude darme cuenta cuál era su propósito al darme el raciocinio suficiente para entender los conocimientos sobre el mundo de agua y de tierra que me mostró en el lenguaje universal de la memoria.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Otro ser de carne, a cuatro patas como yo, pero más pequeño y más inteligente que mis iguales, me obligaba con furia a dirigirme a mi encierro forzado, que era el único suelo que conocía desde mi nacimiento, que también, al igual que toda mi pasada existencia, fue forzado.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Ahora conocía mi real fuerza, y tenía el absoluto control de las capacidades de mi cuerpo de carne. Mordí su cuello y lo destruí. Me dirigí con calma y serenidad a donde estaban, espantados, los hombres humanos que vieron lo que hice con el cuello del pequeño animal. Creía que los animales bípedos eran los seres más inteligentes en el mundo de carne, pero me equivoqué rotundamente. Su progreso solo se debe a su insolente fertilidad. En número eran cinco y yo solo uno, pero mis cuernos en sus cuellos terminaban sus vidas y me daban la carne y la sangre que creía necesitar, en ese entonces, para ser más fuerte. Quería volverme fuerte y aún más grande para poder destruir las vidas de los que lastiman y esclavizan al inferior y al poco inteligente, como el hombre humano lo hacía conmigo.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Mis iguales no me temían y no los dañé en lo absoluto, los liberé de las líneas de metal y fueron libres como yo lo era ahora. Caminé libre con ellos un par de días mientras los cadáveres de los hombres me miraban con melancolía. Pero yo no los veía ni con pesar ni con lástima, porque la muerte llegó a sus vidas de una forma justa y <text:soft-page-break/>menos cruel incluso, que a sus víctimas.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Al séptimo día de mi libertad, cuando los gases de los cuerpos comenzaban una licuefacción adelantada por el sol de verano, el hedor movido, por el viento del sur, llamó a los hombres humanos que vivían cerca, y que, también, esclavizaban al inferior y al poco inteligente, como yo lo sufrí alguna vez durante mi vida de carne. Cuando vieron los tristes cadáveres y la sangre humana seca en mis cuernos y en mi rostro, entendieron inmediatamente lo que había pasado. Eran solo tres, pero cuando mi furia saltó sobre ellos con la intención de acabar con las vidas de los que someten al inferior y al poco inteligente, uno de ellos logró huir con vida para avisar a más hombres humanos como él. Ese fue el final de mi carne y el comienzo de mi ósea existencia.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Solo un par de nubes alcanzaron a cruzar el sol, cuando llegó una manada de hombres humanos buscando mi cabeza en venganza por la muerte de los hombres humanos que no alcanzaron a huir de mi poder. Sin ninguna intención de huir ni temor alguno, luché con mi fuerza e inteligencia infinitamente superiores a los seres tan frágiles con los que me enfrentaba. Pero su gran fuerza es simplemente su gran número. Llevé más de veinte vidas conmigo, pero nada pude hacer cuando su herramienta corta árboles partió mi cabeza en dos en las manos de un hombre humano gigante. Mi cuerpo de carne dejó de responder a mis órdenes como siempre lo había hecho. Se suponía que estaba muerto, pero sentía la sangre correr por mi rostro, las innumerables puñaladas de los hombres humanos sobrevivientes y cuando, aún con miedo, amarraron mis patas y me enterraron bajo los cuatro metros de la zanja natural que delimitaba la frontera de dos reinados de hombres humanos.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Medité y resolví qué era yo en el lenguaje universal de la memoria, que el hombre humano llama “alma” en su idioma. Y también en la limitada lengua humana de la que había aprendido su deficiente redacción de conceptos con solo un toque en mi cabeza, por las sagradas manos del ser que camina en seis patas.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Un día, un derrumbe natural causado por un temblor de amplia magnitud, destapó mi cráneo. Decidí levantarme a continuar lo que comencé, pero cuando lo intenté, cien estaciones habían pasado ya, y la carne, que permitía el movimiento de mi cuerpo, ya no existía.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>El ser que camina en seis patas apareció frente a mí nuevamente, y con calma, abrió la boca y me dijo: “Ahora eres como yo”, pero yo le dije que aún no era tan grande como él, que ya no podía moverme y que aún estaba lejos de su perfección.</text:p>
+   <text:p text:style-name="P3"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P3"><text:tab/>“Tu cuerpo ahora es hueso.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Yo también soy hueso.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Quiero enseñarte a ser tan grande como yo.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Quiero que termines lo que comenzaste hace cien estaciones”.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Y me enseñó. Levanté mi cuerpo, que era ahora huesos, y me moví con libertad al aire que hace tanto no sentía, mostrando con soberbia mi ahora reluciente cuerpo de hueso que brillaba con blanca furia a la luz del sol. “Aún tienes tu cuerpo primigenio, pero perdiste dos de tus extremidades. Arrastra tus huesos a buscar más huesos”, me dijo. Y así lo hice.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Me arrastré y encontré un cadáver de la misma especie que me obligaba a permanecer en mi antiguo encierro. Comí su carne aún fresca, pero mi cuerpo que era hueso, no la quería y la rechazó. Comí sus huesos aún frescos, y mi cuerpo que era hueso sí los quería, y los asimiló. Ahora eran míos. Ahora eran yo.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Tuve una sensación de increíble poder al tener colmillos y más dientes en mi mandíbula, que me permitirían romper la carne de los hombres humanos más fácilmente. Pero aún era muy débil.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Cojeé y me arrastré hasta que el sol consiguió su antípoda en el cielo y encontré otro cadáver putrefacto, casi ya sin carne, de un animal similar a mi forma primigenia. Me alimenté de sus huesos, que eran rápidos y nobles. Y ahora sus huesos eran mi cuerpo. Ahora era grande, fuerte y rápido, pero aún no era tan perfecto como el ser que camina en seis patas, que mi inteligencia otorgó.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Lo llamé fuertemente haciendo sonar mis huesos, que eran todo mi cuerpo y apareció tranquilamente, mostrando inconscientemente su superioridad ante mí. Otra vez, él me aconsejó:</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>“Ahora eres grande, fuerte y rápido, pero aún eres más débil que yo.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Existen más huesos debajo del mundo de tierra.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Son huesos de carnes que ya no existen.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Son huesos fuertes, gigantes.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Huesos que son ahora piedra.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Pero si fue hueso volverá a ser hueso.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Con ellos serás tan fuerte como yo”.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:soft-page-break/><text:tab/>Nuevamente seguí su consejo, y busqué los huesos fuertes de los que me habló. Pero no podía cavar, así que busqué más cuerpos de huesos de los que alimentarme y ser todavía más fuerte para buscar bajo el mundo de tierra que tenía a mis pies. Los huesos fuertes que necesitaba para dar fin a lo que di comienzo cuando mi cuerpo, era cuerpo de carne aún.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Siempre escondiéndome del hombre humano que camina, tuve que recorrer el largo mundo de tierra buscando lo que ahora puedo decir es mi carne, que en verdad es solo hueso. Tomé innumerables huesos que fui cambiando y fortaleciendo, maté mil vidas animales humanas mas no animales normales, porque no eran mi objetivo, porque mi objetivo es hacer caer la justicia contra el hombre humano que vive y que somete al inferior y al poco inteligente.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>A veces vagabundeaba sin rumbo fijo, otras veces creía olvidar el por qué yo existía. También cuestionaba mi existencia, la del ser que camina en seis patas y la de hombre humano, que somete al inferior y al poco inteligente, pero con mi inteligencia superior me convencía que todo tiene un propósito en el mundo de agua y de tierra, y que el mío era destruir al hombre humano por completo.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Demoré doscientas estaciones para reconocer en mí la fortaleza para cavar el mundo de tierra bajo mis pies. Cuando, con dificultad, comencé, el ser que camina en seis patas apareció, por cuarta vez, ante mí. “Ya no soy superior a ti”, me dijo, “Volvámonos fuertes juntos, y juntos vamos a buscar más alimento de fortaleza para nuestros cuerpos”. Y con su potente ayuda, cavamos cuevas, nadamos ríos bajo el mundo de tierra y seguimos cavando en las profundidades del mundo subterráneo que escondía los huesos de carnes que ya no existen. Los hallamos y nos hicimos fuertes, porque lo que fue hueso, volverá a ser hueso. Eran huesos gigantes, algunos eran incluso más grandes que mi cuerpo primigenio, y a mí, uní colmillos, uní vértebras, uní costillas, y mi cuerpo se hizo gigante, lo suficientemente fuerte para aniquilar al hombre humano que somete al inferior y al poco inteligente, y que vive en el mundo de tierra, y destruir con él, el mundo de carne.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Cuando ya no hallamos más alimento de fortaleza para nuestros cuerpos, el ser que camina en seis patas abrió la boca para hablar: “Aquí ya no hay más alimento de fortaleza para nuestros cuerpos. Volvamos. Subamos a la superficie del mundo de tierra”. Y así lo hicimos. Con el calor del sol frotando nuestros cuerpos que eran hueso, el ser que camina en seis patas meditó en silencio un par de horas. Abrió, nuevamente, la boca para hablar:</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:soft-page-break/><text:tab/>“Sígueme al fondo del mar.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Allí hay más como yo y como tú.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Ellos también son fuertes.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Ellos también quieren destruir al hombre humano que reina el mundo de carne.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Nadie sabe quién fue el primero, ni cómo logró su inteligencia.</text:p>
+   <text:p text:style-name="P3"><text:tab/>A nadie le importa.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Algunos, como tú, tienen razones para destruir al hombre humano que vive en el mundo de tierra y que reina el mundo de carne.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Otros, como yo, no tienen ninguna.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Pero todos queremos destruirlo y hacer del mundo de carne, mundo de huesos que viven y se hacen fuertes.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Pero necesitamos fuerza, y los huesos de los que descansan en el abismo sin luz, son los más fuertes que ha visto este mundo de agua y de tierra.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Seremos fuertes, y el mundo de agua y de carne en tierra, será de agua y de hueso en tierra por la eternidad”.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>Respondí a su reclamo. Abrí mi boca para hablar:</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:tab/>“Lo haré.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Te seguiré hasta el fondo del mar.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Te seguiré hasta el abismo sin luz.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Porque yo soy la justicia.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Porque yo soy la venganza.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Porque yo soy la espada.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Yo soy la espada que convertirá este mundo de carne en mundo de hueso.</text:p>
+   <text:p text:style-name="P3"><text:tab/>Y lo que antes era óseo y carnal, será por siempre solo óseo”.</text:p>
   </office:text>
  </office:body>
 </office:document>
