@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:date>2025-05-28T14:04:57.851091542</dc:date><meta:editing-duration>PT13M7S</meta:editing-duration><meta:editing-cycles>9</meta:editing-cycles><meta:generator>LibreOffice/25.2.3.2$Linux_X86_64 LibreOffice_project/bbb074479178df812d175f709636b368952c2ce3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="16" meta:paragraph-count="70" meta:word-count="4850" meta:character-count="27228" meta:non-whitespace-character-count="22388"/></office:meta>
+ <office:meta><dc:date>2025-05-28T14:26:37.028512398</dc:date><meta:editing-duration>PT13M41S</meta:editing-duration><meta:editing-cycles>10</meta:editing-cycles><meta:generator>LibreOffice/25.2.3.2$Linux_X86_64 LibreOffice_project/bbb074479178df812d175f709636b368952c2ce3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="16" meta:paragraph-count="70" meta:word-count="4850" meta:character-count="27228" meta:non-whitespace-character-count="22388"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">45508</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">48791</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">21327</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">22491</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">24395</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">2501</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">15600</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">32673</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">45508</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">48789</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">66834</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">22490</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -144,7 +144,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1653032</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1746073</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -168,7 +168,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0cm" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0cm" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Serif" fo:font-size="12pt" fo:language="es" fo:country="CL" style:letter-kerning="true" style:font-name-asian="DejaVu Sans" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="DejaVu Sans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -333,7 +333,7 @@
    </style:footer-style>
   </style:page-layout>
   <style:page-layout style:name="pm2">
-   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
     <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
    </style:page-layout-properties>
    <style:header-style/>
@@ -349,8 +349,8 @@
     <text:p text:style-name="P1"><text:bookmark-start text:name="PageNumWizard_FOOTER_Estilo de página predeterminado1"/><text:page-number text:select-page="current">14</text:page-number><text:bookmark-end text:name="PageNumWizard_FOOTER_Estilo de página predeterminado1"/></text:p>
    </style:footer>
   </style:master-page>
-  <style:master-page style:name="First_20_Page" style:display-name="First Page" style:page-layout-name="pm2" style:next-style-name="Standard"/>
-  <style:master-page style:name="Index" style:page-layout-name="pm2"/>
+  <style:master-page style:name="First_20_Page" style:display-name="First Page" style:page-layout-name="pm2" draw:style-name="dp1" style:next-style-name="Standard"/>
+  <style:master-page style:name="Index" style:page-layout-name="pm2" draw:style-name="dp1"/>
  </office:master-styles>
  <office:body>
   <office:text text:use-soft-page-breaks="true">
@@ -385,6 +385,7 @@
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>La porquería de vida aburrida que he vivido satura todos mis recuerdos. Despierto, viajo, trabajo, viajo, como, duermo. Solo hago tres cosas al día y no disfruto ninguna. No veo esperanza ni escapatoria del ciclo gris en el que estoy, y del que creí que podría escapar cuando era joven. Durante años, estuve esperando algún momento extraordinario del que sería protagonista, que me sacaría del espiral gris, que lo cambiaría todo. Pero nunca llegó.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>A lo largo de los años, probé hacer varias cosas para no morir de aburrimiento, pero nada logré. Comencé muchos pasatiempos, pero nunca tuve tiempo ni energía para disfrutarlos. Intenté leer algún libro mientras viajaba, pero la basura de camino rural que uso a diario no me deja ni enfocar mis pensamientos. El bus lleva la misma gente aburrida que yo, caras largas, ropas de trabajo, manos agrietadas. Solo obreros rumbo a cumplir su deber, para que nuestro jefe, un hombre-cerdo, pueda pagarse las asquerosidades que el muy bastardo lleva todas las semanas a su oficina.</text:p>
@@ -398,6 +399,7 @@
    <text:p text:style-name="P7"/>
    <text:p text:style-name="P7"/>
    <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>Mientras comía, escuché que los perros salvajes, que viven por los alrededores y que a veces se meten a mi jardín para descansar y jugar, hacían más ruido de lo habitual. Miré por la ventana y vi un perro que no había visto antes. Aunque estaba sucio, parecía que había estado limpio hace poco. Salí afuera a espantar a los perros matones, que, aunque parezca raro, me respetaban más que al cartero que ven a diario, y tomé en mis brazos al flaco perro que temblaba de miedo mientras los demás perros le gruñían.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>Limpié un poco al asustado perro, buscando algún collar o indicio de anteriores dueños, pero no tenía nada. Sus costillas se estaban empezando a marcar y pareciera que no podía conseguir nada para comer. Le di mis sobras y aunque no pareció gustarle mucho, igualmente se lo comió todo. No cocino muy bien y lo acaricié por no ser un malagradecido. Estuve calmándolo unos minutos y lo saqué al patio, aprovechando que la jauría de siempre se había ido. Lo estuve mirando un buen rato y creo que no podía cazar ni obtener comida por lo torpe que era. Le costaba incluso caminar, como si fuera un perro recién nacido, pero ya era un perro grande y largo.</text:p>
@@ -408,7 +410,7 @@
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>Otro día de esclavitud laboral terminó. De nuevo lo mismo. Nada nuevo. Algunos cerdos caminan silenciosos, otros chillan, otros me piden que realice tareas que no me corresponden.</text:p>
    <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"><text:tab/>Después de que aceptaran a su nuevo miembro, veía a los perros más seguido. <text:soft-page-break/>Eran muy juguetones y el nuevo se adaptó fácilmente. Me alegré bastante por él. Esa jauría de perros salvajes era más amigable que mis compañeros de trabajo. Y el bosque y la intemperie que se veía desde mi ventana, parecía más amable que la empresa en la que trabajaba seis días a la semana.</text:p>
+   <text:p text:style-name="P6"><text:soft-page-break/><text:tab/>Después de que aceptaran a su nuevo miembro, veía a los perros más seguido. Eran muy juguetones y el nuevo se adaptó fácilmente. Me alegré bastante por él. Esa jauría de perros salvajes era más amigable que mis compañeros de trabajo. Y el bosque y la intemperie que se veía desde mi ventana, parecía más amable que la empresa en la que trabajaba seis días a la semana.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>Mientras miraba como jugaban, me fui dando cuenta de algunas cosas. El perro nuevo no era ni tan torpe ni tan nuevo, pero algunos de sus movimientos eran muy extraños. Lo veía intentar tomar distintas cosas sin éxito, y creo que intentaba mover uno de sus dedos porque pasaba grandes periodos de tiempo, mirándolos y lamiéndolos, solo para rendirse e ir a jugar o dormir con los demás.</text:p>
    <text:p text:style-name="P6"/>
@@ -422,8 +424,9 @@
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>Al principio, me sentí decepcionado al no poder seguir jugando (o hablando) con el perro nuevo, pero sentí escalofríos en todo el cuerpo cuando me di cuenta que deletreó “Yo”. Quizás sí podía entenderme y quería hablar conmigo, o quizás los efectos de dormir poco me estaban volviendo loco. Ese día me fui a dormir contento. Tenía algo interesante que hacer que no fuera trabajar o dormir.</text:p>
    <text:p text:style-name="P6"/>
-   <text:p text:style-name="P7"><text:tab/>Los perros no aparecieron durante varios días y luego de jugar un rato con ellos <text:soft-page-break/>cuando volvieron, le pedí al perro nuevo que me dijera algo nuevamente. Este perro sí era inteligente y, por alguna razón, conocía la lengua humana, volvió a deletrear “Yo” y lo siguió una “A” y una “N”, antes de cansarse y echarse para no volver a pararse a pesar de mis insistencias. Pensé quizás debería sobornarlo con alguna comida, pero frente a tantos perros eso era peligroso, así que ideé otros planes.</text:p>
+   <text:p text:style-name="P7"><text:soft-page-break/><text:tab/>Los perros no aparecieron durante varios días y luego de jugar un rato con ellos cuando volvieron, le pedí al perro nuevo que me dijera algo nuevamente. Este perro sí era inteligente y, por alguna razón, conocía la lengua humana, volvió a deletrear “Yo” y lo siguió una “A” y una “N”, antes de cansarse y echarse para no volver a pararse a pesar de mis insistencias. Pensé quizás debería sobornarlo con alguna comida, pero frente a tantos perros eso era peligroso, así que ideé otros planes.</text:p>
    <text:p text:style-name="P8">Semana tres</text:p>
+   <text:p text:style-name="P7"/>
    <text:p text:style-name="P7"/>
    <text:p text:style-name="P7"/>
    <text:p text:style-name="P6"/>
@@ -436,6 +439,7 @@
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>Hace dos semanas llevaba una vida aburrida de obrero mal pagado sin esperanza alguna. ¿Y hoy? Hoy puedo decir que hablé con un perro.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>A pesar de que no entendí el mensaje en la primera lectura, tuve mucho tiempo para analizarlo, porque tiempo con mis pensamientos es lo que más tengo. No puedo decir que estuve haciendo algo dentro de un razonamiento prudente, porque al hablar el perro, me rendí intentando explicar las cosas con lógica y sentido común.</text:p>
@@ -444,12 +448,13 @@
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>Así explicaba las dos primeras frases. “Yo antes tú”, significaba que antes era como yo, humano. “Yo ahora yo”, significaba que se había convertido en un perro. Pero la tercera y última no logré comprenderla. Hablaba de un “Perro grande”, pero no podía identificar si se refería a sí mismo, a mí, a su antiguo yo u otra persona. Estuve varios días con esta duda, intentando encontrar alguna forma lógica de cómo alguien habría cambiado de forma animal, pero nada acerca del “Perro grande” me ayudó. Más tarde, recordé que la primera pregunta que le hice, fue de dónde venía, y me había respondido mirando, o apuntando su nariz, hacia el este. Las calles son bastante enredadas en este pueblo horrible, así que, consultando un mapa, tracé una línea con todo lo que había hacia el este, por suerte no era tan complejo, pero sí muy largo. Lamentablemente, tenía que esperar hasta el domingo, que era mi único día libre y que generalmente lo pasaba mirando el techo, descansando en agonía.</text:p>
    <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"><text:tab/>Hice este plan el lunes en la tarde, estuve toda la semana ansioso y casi no podía controlar mi ira cuando el sábado en la mañana me avisaron que el domingo debería trabajar media jornada con la promesa, siempre al aire, de que la paga sería el doble por hora. Cuando dije que no podía y que tenía planes, el hombre-cerdo, en su cochino corral al que llama oficina, me amenazó con absoluta calma de que sí no obedecía sus demandas, debería empezar a buscar otro trabajo, ya que “Hay miles de personas <text:soft-page-break/>buscando reemplazarme” y que si no me “Ponía la camiseta por la empresa” no debería seguir trabajando allí. No puedo describir el odio que sentía hacía ese asqueroso cerdo que creía trabajar más duro que yo, cuando lo único que ha hecho en su pueril vida fue nacer hijo del anterior dueño. Cerdo asqueroso, con su camisa de lujo, llena de cebo y hedionda a sudor y plasta.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Hice este plan el lunes en la tarde, estuve toda la semana ansioso y casi no podía controlar mi ira cuando el sábado en la mañana me avisaron que el domingo debería trabajar media jornada con la promesa, siempre al aire, de que la paga sería el doble por hora. Cuando dije que no podía y que tenía planes, el hombre-cerdo, en su cochino corral al que llama oficina, me amenazó con absoluta calma de que sí no obedecía sus <text:soft-page-break/>demandas, debería empezar a buscar otro trabajo, ya que “Hay miles de personas buscando reemplazarme” y que si no me “Ponía la camiseta por la empresa” no debería seguir trabajando allí. No puedo describir el odio que sentía hacía ese asqueroso cerdo que creía trabajar más duro que yo, cuando lo único que ha hecho en su pueril vida fue nacer hijo del anterior dueño. Cerdo asqueroso, con su camisa de lujo, llena de cebo y hedionda a sudor y plasta.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>Si tuviera otra opción de trabajo en esta porquería de pueblo ya me habría ido de este asqueroso matadero, pero este pueblo conformista no se atreve a ver un negocio que no sea una empresa gigante que lo controle todo, porque “Así es hace años” y otra cosa “Traería inestabilidad”. La gentuza que me rodea es igual a los cerdos que muevo todo el día, y, lo peor de todo, es que yo soy uno de ellos. Creo ser más libre solo por saberlo, pero sigo haciendo lo mismo un día tras otro, sin cuestionarme mi propia debilidad, ni hacer algo por cambiarla, temeroso de cualquier cambio que esté fuera de mi corta visión de las cosas.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P7"><text:tab/>Ese domingo odié todo un poquito más. Luego me enteré de que tuve que cubrir esas horas porque habían renunciado tres personas. “Visionarios” pensé para mí mismo. “Son más libres ahora” me dije, sin pensar siquiera cuáles fueron las razones de sus renuncias. Pero me alegré sinceramente por ellos.</text:p>
    <text:p text:style-name="P8">Semana cinco</text:p>
+   <text:p text:style-name="P7"/>
    <text:p text:style-name="P7"/>
    <text:p text:style-name="P7"/>
    <text:p text:style-name="P6"/>
@@ -461,13 +466,13 @@
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>Me cuesta describir con palabras lo ahogado que me sentí, que intenté sin éxito gritar de miedo y sorpresa, cuando vi a un perro sentado en sus patas traseras, en una posición tan incómoda, enredado en palos y cadenas, que me miraba sumisamente desde su altura de casi tres metros.</text:p>
    <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"><text:tab/>¡Casi me desmayé! Intenté huir, pero las piernas me temblaban y tropecé varias <text:soft-page-break/>veces mientras mi corazón intentaba rendirse. En el suelo, intentando gatear por culpa de mi vergonzoso estado físico, miré hacia atrás. Y lo que era miedo se convirtió en dudas, y las dudas se convirtieron en lástima. Sentado en el suelo miraba yo a aquel canino gigante, atrapado en una bodega de menos de dos metros de ancho. Me miraba con tristeza, quizás de su propia torpeza, con una mirada tan tierna, pidiendo ayuda en un lenguaje natural tan claro que no pude ignorar.</text:p>
+   <text:p text:style-name="P6"><text:soft-page-break/><text:tab/>¡Casi me desmayé! Intenté huir, pero las piernas me temblaban y tropecé varias veces mientras mi corazón intentaba rendirse. En el suelo, intentando gatear por culpa de mi vergonzoso estado físico, miré hacia atrás. Y lo que era miedo se convirtió en dudas, y las dudas se convirtieron en lástima. Sentado en el suelo miraba yo a aquel canino gigante, atrapado en una bodega de menos de dos metros de ancho. Me miraba con tristeza, quizás de su propia torpeza, con una mirada tan tierna, pidiendo ayuda en un lenguaje natural tan claro que no pude ignorar.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>Me levanté con la fuerza de un niño enfermo, y caminé como esgrimista tan ridículamente, que el canino antinaturalmente grande frente a mí, hizo un gesto de dudas con su cabeza, sin entender quizás, mi estúpida y lenta forma de caminar. Me acerqué, quizás muy cobardemente, a la criatura, mientras me miraba con atención. Caminé casi tres metros con la mano levantada para no mostrar agresión, pero el canino rostro que me observaba solo reflejaba extrañeza a mi actuar, sin entender mi miedo hacia aquel. Al momento de mi mano tocar su suave pelaje, el muy insensible ladró acercando su rostro al mío, lo que me hizo caer hacía atrás y dar por lo menos unas cuatro vueltas en el suelo, quedando completamente sucio y lleno de barro. Miré atónito al canino solo para ver su boca abierta, jadeando con su larga lengua, mientras me miraba moviendo rítmicamente la cabeza. Sí, sé reconocer una risa burlesca, las he visto muchas veces, pero ¿Cómo podría enojarme yo con un perro travieso? La travesura del gran canino hizo darme cuenta de que era inofensivo, y con más confianza y soltura, me acerqué a la bodega.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>Tardé varios minutos en desenredar al torpe gigante que tenía ante mí. Y cuando lo logré, salió disparado a saltar al patio de aquel que alguna vez fue humano. La tierra tembló un poco a sus saltos, pero no lo suficiente para hacerme tambalear, ya no quería volver a tocar el suelo por el día.</text:p>
    <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"><text:tab/>Luego de verlo jugar un rato y dar vueltas de felicidad, me miró y se acercó a mí. Un tanto receloso porque mi cabeza caía entera dentro de su boca, intenté alejarme suavemente, pero se apuró en darme una lamida, botarme y dejarme aún más sucio de lo que ya estaba. Mientras lo liberaba me olfateaba suavemente, pero ya libre, metía su nariz donde no debía y con su gran tamaño no podía ofrecer ninguna resistencia, me había convertido en un muñeco de trapo lleno de tierra. Solo eran juegos, que por cierto seguí, e intenté empujarlo con todas mis fuerzas, sin lograr moverlo ni un solo centímetro. Se paró un momento y pude apreciarlo mejor, media unos dos metros y medio y todo en el animal era extraño. Su cabeza y cuello no eran para nada gruesos para su increíble tamaño. El centro de su espalda era oscuro, pero el resto del pelaje era irregular, con varios tonos cafés y algunas manchas blancas y negras en las patas. Sus rasgos faciales eran aún muy extraños, tenía orejas anchas como de lobo, como los <text:soft-page-break/>había visto algunas veces en libros, los ojos delicados y hermosos de un zorro, un hocico ancho y la lengua grande y torpe de un perro asilvestrado. No sabía que era. Si lo miraba con los ojos entrecerrados, se igualaba a cualquier canino que quisiera, y sus movimientos, a veces serios, a veces torpes y juguetones, no daban ninguna respuesta.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Luego de verlo jugar un rato y dar vueltas de felicidad, me miró y se acercó a mí. Un tanto receloso porque mi cabeza caía entera dentro de su boca, intenté alejarme suavemente, pero se apuró en darme una lamida, botarme y dejarme aún más sucio de lo que ya estaba. Mientras lo liberaba me olfateaba suavemente, pero ya libre, metía su nariz donde no debía y con su gran tamaño no podía ofrecer ninguna resistencia, me había convertido en un muñeco de trapo lleno de tierra. Solo eran juegos, que por cierto seguí, e intenté empujarlo con todas mis fuerzas, sin lograr moverlo ni un solo centímetro. Se paró un momento y pude apreciarlo mejor, media unos dos metros y medio y todo en el animal era extraño. Su cabeza y cuello no eran para nada gruesos para su increíble tamaño. El centro de su espalda era oscuro, pero el resto del pelaje era irregular, con varios tonos cafés y algunas manchas blancas y negras en las patas. <text:soft-page-break/>Sus rasgos faciales eran aún muy extraños, tenía orejas anchas como de lobo, como los había visto algunas veces en libros, los ojos delicados y hermosos de un zorro, un hocico ancho y la lengua grande y torpe de un perro asilvestrado. No sabía que era. Si lo miraba con los ojos entrecerrados, se igualaba a cualquier canino que quisiera, y sus movimientos, a veces serios, a veces torpes y juguetones, no daban ninguna respuesta.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>Jugamos un rato con los últimos rayos del sol, y mientras me paraba limpiándome el rostro de una de sus lamidas, entró nuevamente a la vieja bodega, se dio un par de vueltas y se acostó en una posición más ridícula que incómoda. Lo miré, me miró, intenté entender por qué se había metido en donde mismo había estado atrapado hace unos minutos, pero me rendí y decidí irme a mi casa, pues la siguiente mañana tendría que levantarme temprano. Ya era de noche y quién soy yo para juzgar a semejante animal, pues yo mismo viajo a diario a las trampas de la sociedad.</text:p>
    <text:p text:style-name="P6"/>
@@ -479,6 +484,7 @@
    <text:p text:style-name="P8">Semana seis</text:p>
    <text:p text:style-name="P7"/>
    <text:p text:style-name="P7"/>
+   <text:p text:style-name="P7"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>A pesar de que los cerdos no son de mis animales favoritos, no quiere decir que no me gusten. Me agradan todos los tipos de animales, los grandes, los pequeños, los pasivos, los agresivos, los que solo comen pasto, los que comen otros animales, todos, excepto uno. Desde que entré a trabajar en el matadero, paulatinamente comencé a comer menos carne, y ahora casi podría considerarme vegetariano, aunque no lo hago, porque aunque no tenga tanto dinero como para comprar, no me niego una buena carne de vez en cuando. Eso sí, jamás he matado a un animal, ni tampoco tenía pensado hacerlo, porque mi trabajo solo era llevar a los animales hacia su muerte, pero es algo muy distinto tener que llevar el gran cuchillo a su cuello y escuchar sus últimos lamentos. No estaba dispuesto a hacer eso, pero, aún así, el canalla al que todos llamaban “jefe” me obligó a ir a esa sección por falta de personal. Más personas estaban renunciando a este basurero y no podía culparlos por tan valiente acción.</text:p>
    <text:p text:style-name="P6"/>
@@ -486,7 +492,7 @@
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>Pero eso no duraría tanto tiempo, y el gordo hediondo a cerdo que se decía a sí mismo humano, me vio “vagabundeando”, según él. Pero mi trabajo era igual de importante que el de los demás. Cosa que no entendió, porque la lógica no lograba pasar por su cerebro de cerdo más allá de la obediencia tradicional y el “porque yo lo digo”. Luego de humillarme delante de todos los demás obreros, me obligó a seguirlo a su grasosa oficina.</text:p>
    <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"><text:tab/>Hablaba y hablaba y no se callaba nunca. Empecé a soñar despierto con los perros que vagabundeaban en mi casa y la envidia tiñó un poquito mi pensar. Pero el hombre-cerdo chispeó sus grasosos dedos en mi rostro como si el animal fuera yo. Requería mi atención y la encontró. No voy a entrar en hondo en la clase de insultos que dirigió hacía mí, mucho menos lo que no tenían que ver con el trabajo y solo eran burlas a mi persona y mi apariencia física, antípoda de la suya. Mi sangre siempre tibia comenzó a hervir de rabia y devolví todos los insultos que el bastardo merecía. Al principio se sorprendió, pero como cerdo que era, no tenía un buen temperamento, y su cabeza ya calva empezó a echar humos mientras su rostro pasaba de ser un rosado-porcino a un rojo-faenado. De los insultos pasó a las manos, empujándome y manchando mi ropa con el cebo de cerdo que expelían sus manos, y yo ya furioso, pasé <text:soft-page-break/>también.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Hablaba y hablaba y no se callaba nunca. Empecé a soñar despierto con los perros que vagabundeaban en mi casa y la envidia tiñó un poquito mi pensar. Pero el hombre-cerdo chispeó sus grasosos dedos en mi rostro como si el animal fuera yo. Requería mi atención y la encontró. No voy a entrar en hondo en la clase de insultos que dirigió hacía mí, mucho menos lo que no tenían que ver con el trabajo y solo eran burlas a mi persona y mi apariencia física, antípoda de la suya. Mi sangre siempre tibia comenzó a hervir de rabia y devolví todos los insultos que el bastardo merecía. Al principio se sorprendió, pero como cerdo que era, no tenía un buen temperamento, y su cabeza ya calva empezó a echar humos mientras su rostro pasaba de ser un rosado-porcino a un rojo-faenado. De los insultos pasó a las manos, empujándome y <text:soft-page-break/>manchando mi ropa con el cebo de cerdo que expelían sus manos, y yo ya furioso, pasé también.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>Fue una pelea bastante torpe, a pesar de que yo estaba poseído por una furia simiesca ajena a la ley y el orden. Estuve correteándolo por toda la oficina, mientras lo golpeaba en la calva, fallando la mayoría de mis golpes. Al darme la espalda, comencé a patearle sus inexistentes nalgas porcinas, lo que hizo que el hombre-cerdo renunciara a su poca humanidad y comenzara a caminar a cuatro patas como siempre debió hacerlo. Después de ver la gotera de sangre que iba dejando desde su cabeza, comenzó a suplicar que me detuviera, que “haría cualquier cosa” pero cuando le exigí que me pagara lo que me debía, comenzó a gruñir tan alto que lastimó mis oídos, lo que me obligó a patearle el rostro varias veces para que se callara. Casi desmayado, suplicó de nuevo, pero cuando intenté, metafóricamente, tocar sus bolsillos, solo sentí el vergonzoso silencio de un ladrón y explotador. La furia simiesca me dio fuerzas para seguir golpeando al cerdo que, chillando, lloraba que me detuviera. Y como los chimpancés que vi cuando niño en el zoológico, le lancé todo lo que mis brazos pudieron levantar. El tacaño cerdo quedó enterrado debajo de mesas, sillas, un montón de libros explicando sus engaños y varios otros muebles.</text:p>
    <text:p text:style-name="P6"/>
@@ -496,6 +502,7 @@
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P7"><text:tab/>Volví al día siguiente al trabajo y nadie me dirigió su mirada, ni nadie dijo nada sobre el escándalo que hice el día anterior. Todo siguió como siempre.</text:p>
    <text:p text:style-name="P8">Semana siete</text:p>
+   <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -509,6 +516,7 @@
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P7"><text:tab/>Al final, rompí mi propia promesa y maté al cerdo que creía ser dueño de la libertad de los demás.</text:p>
    <text:p text:style-name="P8">Semana ocho</text:p>
+   <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
