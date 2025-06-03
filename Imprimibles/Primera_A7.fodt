@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:print-date>2025-05-26T15:34:31.231795793</meta:print-date><dc:date>2025-05-31T18:21:44.839503654</dc:date><meta:editing-duration>PT2H37M53S</meta:editing-duration><meta:editing-cycles>33</meta:editing-cycles><meta:generator>LibreOffice/25.2.3.2$Linux_X86_64 LibreOffice_project/bbb074479178df812d175f709636b368952c2ce3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="1" meta:object-count="0" meta:page-count="2" meta:paragraph-count="8" meta:word-count="17" meta:character-count="106" meta:non-whitespace-character-count="94"/></office:meta>
+ <office:meta><meta:print-date>2025-06-03T15:36:51.132305035</meta:print-date><dc:date>2025-06-03T15:38:21.384377176</dc:date><meta:editing-duration>PT2H57M53S</meta:editing-duration><meta:editing-cycles>38</meta:editing-cycles><meta:generator>LibreOffice/25.2.3.2$Linux_X86_64 LibreOffice_project/bbb074479178df812d175f709636b368952c2ce3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="1" meta:object-count="0" meta:page-count="2" meta:paragraph-count="9" meta:word-count="18" meta:character-count="139" meta:non-whitespace-character-count="115"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">39</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">22781</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">10224</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">38550</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">16406</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">15090</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">1501</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">22063</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">8894</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">22779</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">10222</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">39</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">38548</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">16443</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">2</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">true</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">220</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">130</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="KeepRatio" config:type="boolean">true</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">true</config:config-item>
@@ -109,14 +109,14 @@
    <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">HL1200</config:config-item>
    <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
    <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">xAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2ZmDABQUklOVEVSX05BTUUPAEdlbmVyaWMgUHJpbnRlcgsARFJJVkVSX05BTUUHAFNHRU5QUlQ=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">rgH+/0hMMTIwMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpITDEyMDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAmwAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9SEwxMjAwCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERRMARHVwbGV4TW9kZTo6VW5rbm93bgwAUFJJTlRFUl9OQU1FBgBITDEyMDALAERSSVZFUl9OQU1FCwBDVVBTOkhMMTIwMA==</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -144,7 +144,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">4244475</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4313536</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -170,7 +170,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0cm" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0cm" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="es" fo:country="CL" style:letter-kerning="true" style:font-name-asian="DejaVu Sans1" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="DejaVu Sans1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -221,6 +221,9 @@
    </style:paragraph-properties>
   </style:style>
   <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
   <style:style style:name="Graphics" style:family="graphic">
    <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:background-color="transparent" draw:fill="none" draw:fill-color="#729fcf"/>
   </style:style>
@@ -299,46 +302,58 @@
  <office:automatic-styles>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="11pt" officeooo:rsid="001fe937" officeooo:paragraph-rsid="0021f66d" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="10pt" officeooo:rsid="001fe937" officeooo:paragraph-rsid="0021f66d" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="11pt" officeooo:rsid="003731ec" officeooo:paragraph-rsid="003731ec" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="10pt" officeooo:rsid="003731ec" officeooo:paragraph-rsid="003731ec" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="11pt" officeooo:rsid="00279941" officeooo:paragraph-rsid="0038a9f1" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="10pt" officeooo:rsid="00279941" officeooo:paragraph-rsid="0038a9f1" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="11pt" officeooo:rsid="00279941" officeooo:paragraph-rsid="003badf1" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="10pt" officeooo:paragraph-rsid="0041d1c0" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties style:font-name="Noto Serif1" officeooo:rsid="0038a9f1" officeooo:paragraph-rsid="003badf1"/>
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" officeooo:paragraph-rsid="0041d1c0"/>
   </style:style>
   <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="11pt" officeooo:rsid="00355adc" officeooo:paragraph-rsid="003badf1" style:font-size-asian="9.60000038146973pt" style:font-size-complex="11pt"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="10pt" officeooo:rsid="0038a9f1" officeooo:paragraph-rsid="003badf1" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="8pt" officeooo:rsid="00355adc" officeooo:paragraph-rsid="003badf1" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="10pt" officeooo:rsid="0041d1c0" officeooo:paragraph-rsid="0041d1c0" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="11pt" officeooo:rsid="0024db3d" officeooo:paragraph-rsid="00355adc" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="10pt" officeooo:rsid="0024db3d" officeooo:paragraph-rsid="00355adc" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="11pt" officeooo:rsid="0024db3d" officeooo:paragraph-rsid="00355adc" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="10pt" officeooo:rsid="0024db3d" officeooo:paragraph-rsid="00355adc" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="11pt" officeooo:rsid="0024db3d" officeooo:paragraph-rsid="0029e2c5" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="10pt" officeooo:rsid="0024db3d" officeooo:paragraph-rsid="0029e2c5" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
+   <style:text-properties officeooo:rsid="0041d1c0"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
    <style:text-properties officeooo:rsid="0038a9f1"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:font-size="6pt" officeooo:rsid="0041d1c0" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties officeooo:rsid="00355adc"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties fo:font-size="6pt" officeooo:rsid="00355adc" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
@@ -369,14 +384,13 @@
    </text:sequence-decls>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1">¡Gracias por leer!</text:p>
-   <text:p text:style-name="P1"/>
    <text:p text:style-name="P2">¡Y por el apoyo!</text:p>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P3">Puedes encontrar más en:</text:p>
-   <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Imagen1" text:anchor-type="char" svg:x="0.415cm" svg:y="0.358cm" svg:width="1cm" svg:height="1cm" draw:z-index="0"><draw:image draw:mime-type="image/png">
+   <text:p text:style-name="P3">Puedes encontrar más en:<text:line-break/></text:p>
+   <text:p text:style-name="P3"><draw:frame draw:style-name="fr1" draw:name="Imagen1" text:anchor-type="char" svg:x="0.681cm" svg:y="0.011cm" svg:width="1cm" svg:height="1cm" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAACXBIWXMAAAsTAAALEwEAmpwY
        AAAgAElEQVR4nO3dd7hcVdXH8e+96YUQQkiAAAkldJUmUqQIItJERYqAyqsIAlIEVJBeBQRB
        RAULTUQFEVCx0F5RmiBFOqEXAwQI6fXm3vePdefNMJm5084+a59zfp/nWU/wETJr7b1nTttn
@@ -692,11 +706,12 @@
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:p text:style-name="P4"><text:span text:style-name="T1">/ y</text:span>erko<text:span text:style-name="T1">a</text:span>ndrei</text:p>
-   <text:p text:style-name="P5"><text:line-break/></text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T1">/ </text:span><text:span text:style-name="T2">y</text:span>erko<text:span text:style-name="T2">a</text:span>ndrei</text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T3"><text:s text:c="12"/>wattpad.com</text:span></text:p>
    <text:p text:style-name="P6"/>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P7"><text:line-break/>YerkoAndrei 2025</text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:line-break/></text:p>
+   <text:p text:style-name="P7">yerkoandrei@gmail.com<text:span text:style-name="T4"><text:line-break/></text:span><text:span text:style-name="T5">2025</text:span></text:p>
    <text:p text:style-name="P8"/>
    <text:p text:style-name="P9"/>
    <text:p text:style-name="P9"/>
@@ -705,6 +720,7 @@
    <text:p text:style-name="P9"/>
    <text:p text:style-name="P9"/>
    <text:p text:style-name="P9">Título</text:p>
+   <text:p text:style-name="P10"/>
    <text:p text:style-name="P10"/>
    <text:p text:style-name="P10"/>
    <text:p text:style-name="P10"/>
