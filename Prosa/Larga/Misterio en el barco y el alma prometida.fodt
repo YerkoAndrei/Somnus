@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:date>2025-06-04T11:27:09.093214793</dc:date><meta:editing-duration>PT16M40S</meta:editing-duration><meta:editing-cycles>16</meta:editing-cycles><meta:generator>LibreOffice/25.2.3.2$Linux_X86_64 LibreOffice_project/bbb074479178df812d175f709636b368952c2ce3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="20" meta:paragraph-count="167" meta:word-count="6476" meta:character-count="37077" meta:non-whitespace-character-count="30610"/></office:meta>
+ <office:meta><dc:date>2025-06-13T14:46:02.452342276</dc:date><meta:editing-duration>PT17M17S</meta:editing-duration><meta:editing-cycles>17</meta:editing-cycles><meta:generator>LibreOffice/25.2.3.2$Linux_X86_64 LibreOffice_project/bbb074479178df812d175f709636b368952c2ce3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="20" meta:paragraph-count="167" meta:word-count="6476" meta:character-count="37078" meta:non-whitespace-character-count="30611"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">521758</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">24553</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">41647</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">16565</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">50114</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">21327</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">12028</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">524492</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">17806</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">30942</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">521758</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">41645</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">538321</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">24553</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">50112</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">45879</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -144,7 +144,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">2055796</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2070926</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -168,7 +168,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0cm" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0cm" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Serif" fo:font-size="12pt" fo:language="es" fo:country="CL" style:letter-kerning="true" style:font-name-asian="DejaVu Sans" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="DejaVu Sans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -327,6 +327,9 @@
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="11pt" fo:font-style="italic" style:font-size-asian="11pt" style:font-style-asian="italic" style:font-size-complex="11pt" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
+   <style:text-properties officeooo:rsid="001f998e"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
    <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:page-layout style:name="pm1">
@@ -352,7 +355,7 @@
  <office:master-styles>
   <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
    <style:footer>
-    <text:p text:style-name="P1"><text:bookmark-start text:name="PageNumWizard_FOOTER_Estilo de página predeterminado1"/><text:page-number text:select-page="current">12</text:page-number><text:bookmark-end text:name="PageNumWizard_FOOTER_Estilo de página predeterminado1"/></text:p>
+    <text:p text:style-name="P1"><text:bookmark-start text:name="PageNumWizard_FOOTER_Estilo de página predeterminado1"/><text:page-number text:select-page="current">18</text:page-number><text:bookmark-end text:name="PageNumWizard_FOOTER_Estilo de página predeterminado1"/></text:p>
    </style:footer>
   </style:master-page>
   <style:master-page style:name="First_20_Page" style:display-name="First Page" style:page-layout-name="pm2" draw:style-name="dp1" style:next-style-name="Standard"/>
@@ -387,7 +390,7 @@
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P4">Misterio en el barco y el alma prometida</text:p>
-   <text:p text:style-name="P5">Capítulo Primero: Barco</text:p>
+   <text:p text:style-name="P5">Capítulo <text:span text:style-name="T1">p</text:span>rimero: Barco</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -444,7 +447,7 @@
    <text:p text:style-name="P6"><text:tab/>- Espero yo también.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P7"><text:tab/>Pensé que sería una semana libre de descanso, pero este caso era realmente interesante, y mi descanso podía postergarse un par de días, que es lo que dura mi parte en las <text:soft-page-break/>investigaciones frecuentemente, pero lo que había pasado en aquel barco, seguiría siendo un puzle sin ninguna pieza por mucho tiempo.</text:p>
-   <text:p text:style-name="P8">Capítulo Segundo: Investigación</text:p>
+   <text:p text:style-name="P8">Capítulo <text:span text:style-name="T1">s</text:span>egundo: Investigación</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -492,7 +495,7 @@
    <text:p text:style-name="P6"><text:tab/>- Eso es todo por ahora, llamaré a los demás oficiales para que se hagan cargo de usted, por mientras puede...</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P7"><text:tab/>A esto interrumpió la enfermera, que de por sí ya me distraía bastante con su escote. Avisó que ya no necesitaba los vendajes, que se los habían puesto por temor a que su estado de choque mental hubiera sido producido por un golpe, pero que los exámenes habían verificado que no era así. Procedió a quitárselos, y mientras lo hacía nos despedimos. Pero como yo estaba tan... ¿Cómo decirlo? Con la enfermera. Nos quedamos ahí un rato, para desearle buena recuperación al paciente o alguna excusa como esa. A la insistencia de mi amigo, que ya era anciano y nada le importaban las mujeres salvo la suya, me vi obligado a irme. Pero alcancé a ver su rostro para hacer una descripción por lo menos vaga: treintón, blanco, rostro cuadrado, cabello corto y negro, afeitado y ojos marrones claro. Pude verlo ponerse sus lentes, que eran del mismo modelo que los míos. Era como mirar un espejo borroso.</text:p>
-   <text:p text:style-name="P8">Capítulo Tercero: Miedo</text:p>
+   <text:p text:style-name="P8">Capítulo <text:span text:style-name="T1">t</text:span>ercero: Miedo</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -547,7 +550,7 @@
    <text:p text:style-name="P6"><text:tab/>Recuerdo que una vez uno de los detectives que me entrevistaron tantas veces, mientras era un niño, me regaló un talismán de madera, me dijo que era capaz de espantar todo mal que me atormentara, que si lo guardaba, siempre me protegería, lo dijo con una expresión difícil de describir... Lástima, creo que la describe bien. Recogí el objeto de la caja roja. Es un memento doloroso, me recuerda mi infancia. Supongo que varias veces intenté botarlo, pero creo que aún en mi subconsciente sabía que algún día lo necesitaría.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P7"><text:tab/>Encontré un diario de vida que ni siquiera recordaba que existía. Lo leí sentado en mi cama, recordé momentos felices y otros no tanto. Lo cierto es que me dormí con el cuadernillo en mi rostro, tapando la tranquila luz de invierno que entraba por la ventana. Los sueños de esa tarde no fueron sueños vividos, pesadillas ni terrores nocturnos, si no recuerdos de mi infancia.</text:p>
-   <text:p text:style-name="P8">Capítulo Cuarto: Recuerdos</text:p>
+   <text:p text:style-name="P8">Capítulo <text:span text:style-name="T1">c</text:span>uarto: Recuerdos</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -573,7 +576,7 @@
    <text:p text:style-name="P6"><text:tab/>Que recuerdo más extraño.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P7"><text:tab/>Supongo que estoy en deuda con un demonio... O un ser celestial. Y quiera o no, le debo mi alma. Mas no estoy dispuesto a dársela.</text:p>
-   <text:p text:style-name="P8">Capítulo Quinto: Intento</text:p>
+   <text:p text:style-name="P8">Capítulo <text:span text:style-name="T1">q</text:span>uinto: Intento</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -614,7 +617,7 @@
    <text:p text:style-name="P6"><text:soft-page-break/><text:tab/>En un fragmento lo vi. Era el mismo demonio de mi niñez, rodeado por una nube de estática. Y él me vio también. Fue solo un instante, pero cuando cambió de dirección para ir a atrapar su alma prometida, fue demasiado tarde.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P7"><text:tab/>Para él.</text:p>
-   <text:p text:style-name="P8">Capítulo Sexto: Hogar</text:p>
+   <text:p text:style-name="P8">Capítulo <text:span text:style-name="T1">s</text:span>exto: Hogar</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -644,12 +647,12 @@
    <text:p text:style-name="P6"><text:tab/>Pasé cuatro días encerrado en la habitación de un niño que nunca volvió. Desde el segundo piso podía ver casi la mitad de esta ciudad tan montañosa y, desde el miércoles, un incendio gigante que se había iniciado, seguramente, en el centro comercial. También, un minuto antes de que el incendio se iniciara, vi una sombra difícil de identificar que se elevaba al cielo mirando hacia mi antigua ventana, mirándome a mí. Ya estaba decidido, sería mañana mi último día de vida. Me decidí a seguir escribiendo estos sucesos en mi diario para que alguien alguna vez los encontrara, no me importa si son creíbles o no. Quizás sería más fácil explicar las desapariciones masivas con una nueva arma militar que el gobierno esconde, con alguna conspiración ridícula, o con que el fin del mundo se acerca. O quizás no sea necesario y nadie las recuerde.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P7"><text:tab/>Me decidí también, a escribir un testamento. Pero creo que dejaré eso a lo último.</text:p>
-   <text:p text:style-name="P8">Capítulo Séptimo: Testamento</text:p>
+   <text:p text:style-name="P8">Capítulo <text:span text:style-name="T1">s</text:span>éptimo: Testamento</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T1">A Patricio Emmanuel Bell Riqué le dejo todas mis posiciones. Sé que, a pesar de su avanzada edad, sabrá darles un uso. La decisión de donarlas o no, es suya.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T2">A Patricio Emmanuel Bell Riqué le dejo todas mis posiciones. Sé que, a pesar de su avanzada edad, sabrá darles un uso. La decisión de donarlas o no, es suya.</text:span></text:p>
    <text:p text:style-name="P9"/>
    <text:p text:style-name="P9"><text:tab/>Estoy escribiendo el testamento más resumido de la historia, pero ya nada me importa, porque hoy, viernes 16 de enero, moriré.</text:p>
    <text:p text:style-name="P9"/>
