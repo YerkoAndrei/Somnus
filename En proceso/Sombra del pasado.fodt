@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:date>2025-05-28T16:18:11.457607926</dc:date><meta:editing-duration>PT21M42S</meta:editing-duration><meta:editing-cycles>14</meta:editing-cycles><meta:generator>LibreOffice/25.2.3.2$Linux_X86_64 LibreOffice_project/bbb074479178df812d175f709636b368952c2ce3</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="23" meta:paragraph-count="221" meta:word-count="2714" meta:character-count="15078" meta:non-whitespace-character-count="12407"/></office:meta>
+ <office:meta><dc:date>2025-06-21T14:08:45.903202679</dc:date><meta:editing-duration>PT1H26M31S</meta:editing-duration><meta:editing-cycles>29</meta:editing-cycles><meta:generator>LibreOffice/25.2.4.3$Linux_X86_64 LibreOffice_project/33e196637044ead23f5c3226cde09b47731f7e27</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="23" meta:paragraph-count="242" meta:word-count="3132" meta:character-count="17443" meta:non-whitespace-character-count="14353"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">26035</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">50114</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">22491</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">79611</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">32281</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">31108</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">34980</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">39806</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">10439</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">26035</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">50112</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">48525</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">79610</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">32279</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">45</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">true</config:config-item>
@@ -144,7 +144,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1905689</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2019376</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -168,7 +168,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0cm" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0cm" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Noto Serif" fo:font-size="12pt" fo:language="es" fo:country="CL" style:letter-kerning="true" style:font-name-asian="DejaVu Sans" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="DejaVu Sans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -296,39 +296,60 @@
   </style:style>
   <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="First_20_Page">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" style:page-number="auto"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" officeooo:paragraph-rsid="00139ada"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="11pt" officeooo:paragraph-rsid="00139ada" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" officeooo:paragraph-rsid="00139ada"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="11pt" officeooo:paragraph-rsid="00139ada" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-weight="bold" officeooo:paragraph-rsid="001a2c00" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="11pt" fo:font-weight="bold" officeooo:paragraph-rsid="001a2c00" style:font-size-asian="11pt" style:font-weight-asian="bold" style:font-size-complex="11pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="Standard">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" style:page-number="1" fo:break-before="page"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" officeooo:paragraph-rsid="00139ada"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="11pt" officeooo:paragraph-rsid="00139ada" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" officeooo:paragraph-rsid="00139ada"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="11pt" officeooo:paragraph-rsid="00139ada" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" officeooo:paragraph-rsid="001a2c00"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="11pt" officeooo:paragraph-rsid="001a2c00" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:break-before="page"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" officeooo:paragraph-rsid="001a2c00"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="11pt" officeooo:paragraph-rsid="001a2c00" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" officeooo:paragraph-rsid="001a2c00"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="11pt" officeooo:paragraph-rsid="001d2c12" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="11pt" officeooo:rsid="001d2c12" officeooo:paragraph-rsid="001d2c12" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="11pt" officeooo:paragraph-rsid="001a2c00" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="11pt" officeooo:paragraph-rsid="001e0f84" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" officeooo:paragraph-rsid="00139ada"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1" fo:font-size="11pt" officeooo:paragraph-rsid="00139ada" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties officeooo:rsid="001d2c12"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Serif1"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties officeooo:rsid="001e0f84"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
@@ -353,7 +374,7 @@
  <office:master-styles>
   <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
    <style:footer>
-    <text:p text:style-name="P1"><text:bookmark-start text:name="PageNumWizard_FOOTER_Estilo de página predeterminado1"/><text:page-number text:select-page="current">1</text:page-number><text:bookmark-end text:name="PageNumWizard_FOOTER_Estilo de página predeterminado1"/></text:p>
+    <text:p text:style-name="P1"><text:bookmark-start text:name="PageNumWizard_FOOTER_Estilo de página predeterminado1"/><text:page-number text:select-page="current">21</text:page-number><text:bookmark-end text:name="PageNumWizard_FOOTER_Estilo de página predeterminado1"/></text:p>
    </style:footer>
   </style:master-page>
   <style:master-page style:name="First_20_Page" style:display-name="First Page" style:page-layout-name="pm2" draw:style-name="dp1" style:next-style-name="Standard"/>
@@ -387,18 +408,20 @@
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"/>
    <text:p text:style-name="P4">Sombra del pasado</text:p>
    <text:p text:style-name="P5">Querido Carlos:</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"><text:tab/>Han pasado tantas lunas desde la última vez que nos vimos y hablamos, es una pena que hoy estemos obligados a solo escribirnos.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Han pasado tantas lunas desde la última vez que nos vimos y <text:span text:style-name="T1">aún más desde que </text:span>hablamos <text:span text:style-name="T1">como solíamos hacerlo</text:span>, es una pena que hoy estemos obligados a solo escribirnos.</text:p>
    <text:p text:style-name="P6"><text:tab/>Varios meses ya desde la última carta, hay que ponernos al corriente, ¿Quieres?</text:p>
    <text:p text:style-name="P6"><text:tab/>Podría contarte sobre mi, pero no mucho ha pasado en mi trabajo aburrido, sin embargo, mi hijo, ya cumplió nueve años.</text:p>
-   <text:p text:style-name="P6"><text:tab/>¿Recuerdas cuando teníamos nueve años?</text:p>
+   <text:p text:style-name="P6"><text:tab/>¿Recuerdas cuando teníamos nueve años? <text:span text:style-name="T1">¿Recuerdas?</text:span></text:p>
    <text:p text:style-name="P6"><text:tab/>Va al mismo colegio al que fuimos nosotros, y, aunque no hay mucha novedad por ahí, me sorprende que siga existiendo, pero, ¿Sabes que ahora hay menos cursos?</text:p>
    <text:p text:style-name="P6"><text:tab/>Supongo que es normal que en el pueblo haya cada vez menos niños, aunque mi hijo ha hecho un par de amigos nuevos gracias a esto.</text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T1">Aunque no siempre se puede sacar algo bueno de lo malo, ¿Qué crees tú?</text:span></text:p>
    <text:p text:style-name="P6"><text:tab/>Me gustaría hablarte de esto. ¿Es seguro?</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -411,9 +434,10 @@
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>Que bueno saber de ti, yo estoy bien y espero tú también lo estés.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Es seguro, sí, pero no recuerdo nada de cuando teníamos nueve años, eso es mucho tiempo, y mucha agua ha pasado por el río.</text:p>
-   <text:p text:style-name="P6"><text:tab/>No preguntes eso por favor, ¿Por qué lo harías?</text:p>
-   <text:p text:style-name="P6"><text:tab/>Me gustaría saber más de ti y del pueblo, hace tantos años que no estoy por allá, y, la verdad, no tengo motivos para volver, al menos que a ti se te ocurra algo.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Es seguro, sí, pero no recuerdo nada de cuando teníamos nueve años, eso <text:span text:style-name="T1">fue hace</text:span> mucho tiempo, y mucha agua ha pasado por el río.</text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T1">Pero n</text:span>o preguntes eso, por favor, ¿Por qué lo harías?</text:p>
+   <text:p text:style-name="P6"><text:tab/>Me gustaría saber más de ti, <text:span text:style-name="T1">de tu familia</text:span> y del pueblo. <text:span text:style-name="T1">H</text:span>ace tantos años que no estoy por allá, y, la verdad, no tengo motivos para volver, al menos que a ti se te ocurra algo. <text:span text:style-name="T1">​¿Como una reunión? Sería divertido ver cómo hemos cambiado.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T1">Podríamos pensar en algo.</text:span></text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -424,8 +448,11 @@
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"><text:tab/>Que bueno que sea seguro, amigo mío, amigo del alma... Por aquí también lo es...</text:p>
+   <text:p text:style-name="P9"><text:tab/>Que bueno que sea seguro, amigo mío, amigo del alma…</text:p>
+   <text:p text:style-name="P9"><text:tab/>Por aquí también lo es...</text:p>
    <text:p text:style-name="P6"><text:tab/>Lo vi.</text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T1">Como un reflejo del pasado.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T1">Lo vi.</text:span></text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -437,8 +464,10 @@
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>¿Qué viste? ¿A quién?</text:p>
-   <text:p text:style-name="P6"><text:tab/>No me asustes por favor, Segundo, por favor.</text:p>
-   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:tab/>No me asustes por favor. Segundo, por favor.</text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T1">Cuéntame sobre tu familia, sobre el pueblo.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T1">Pero, por favor, no me asustes.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T1">No hay nada que recordar de nuestro pasado más que aventuras de la juventud.</text:span></text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -454,14 +483,14 @@
    <text:p text:style-name="P6"><text:tab/>Y un tiempo después, a mitad de año, llegó este nuevo niño, ¿Recuerdas?</text:p>
    <text:p text:style-name="P6"><text:tab/>¿Recuerdas cómo lo molestábamos todo el día?</text:p>
    <text:p text:style-name="P6"><text:tab/>Acosándolo cada vez que podíamos. Haciendo su vida miserable porque sí.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Todos, incluso su madre, pensaron que había sido un accidente, pero nosotros sabemos que no fue así, lo hicimos a propósito, simplemente porque hablaba con acento y nos caía mal.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Verás, hace una semana, mi hijo de nueve años trajo a un amigo del colegio a jugar a mi casa, era él, era Curileo.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Todos, incluso su madre, pensaron que había sido un accidente, pero nosotros sabemos que no fue así, lo hicimos a propósito, simplemente porque hablaba con acento y nos caía mal. <text:span text:style-name="T1">Aunque no quiera recordarlo ni reconocerlo.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>Verás, hace una semana, mi hijo <text:span text:style-name="T1">recién cumplidos los</text:span> nueve años, trajo a un amigo del colegio a jugar a mi casa, era él, era Curileo.</text:p>
    <text:p text:style-name="P6"><text:tab/>Era igual que la última vez que lo vimos.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Me puse pálido cuando lo vi, estuve unos momentos sin reaccionar, incluso preocupé a mi esposa, pero no pude siquiera mentir, simplemente salí a dar una caminata, a pensar. No pensé nada.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Me puse pálido cuando lo vi, estuve unos momentos sin reaccionar, incluso preocupé a mi esposa <text:span text:style-name="T1">con mis tartamudeos</text:span>, pero no pude siquiera mentir, simplemente salí a dar una caminata, a pensar. No pensé <text:span text:style-name="T1">en</text:span> nada.</text:p>
    <text:p text:style-name="P6"><text:tab/>El niño solo vino a jugar y no pasó nada fuera de lo normal, pero antes de irse, me sonrió de una forma aterradora, no tengo claro de si fue mi imaginación o no, pero ahora tengo miedo, no solo por mi hijo, si no también por mi.</text:p>
    <text:p text:style-name="P6"><text:tab/>¿Qué podría estar pasando?</text:p>
    <text:p text:style-name="P6"><text:tab/>Siento que nada de lo que pasó fue real, pero yo sé lo que vi.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Espero no preocuparte más de lo debido, y espero también que esté alucinando, o si el niño es real, que solo sea mi imaginación.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Espero no preocuparte más de lo debido, y espero también que esté alucinando. <text:span text:style-name="T1">O</text:span> si el niño es real, que solo sea mi imaginación.</text:p>
    <text:p text:style-name="P6"><text:tab/>Ayúdame Carlos, no sé qué hacer.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -473,9 +502,10 @@
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"><text:tab/>Cálmate, por favor, puede ser solo una coincidencia, intentaré hablar con Teodoro a ver que opina de eso.</text:p>
-   <text:p text:style-name="P6"><text:tab/>La última vez que lo vi vivíamos relativamente cerca aquí en la ciudad, iré a verlo con tus cartas, o por lo menos preguntar dónde vive ahora.</text:p>
-   <text:p text:style-name="P6"><text:tab/>No debes hablar de esto con nadie, es obvio que lo recuerdo todo, pero, por favor, Segundo, por favor, no saques ese tema.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Cálmate, por favor, puede ser solo una coincidencia, intentaré hablar con Teodoro a ver que opina de es<text:span text:style-name="T1">t</text:span>o.</text:p>
+   <text:p text:style-name="P6"><text:tab/>La última vez que lo vi, vivíamos relativamente cerca aquí en la ciudad. <text:span text:style-name="T1">I</text:span>ré a verlo con tus cartas, o por lo menos, preguntar dónde vive ahora.</text:p>
+   <text:p text:style-name="P9"><text:tab/>No debes hablar de esto con nadie, es obvio que lo recuerdo todo, pero, por favor, Segundo, por favor, no saques ese tema.<text:span text:style-name="T2"/></text:p>
+   <text:p text:style-name="P9"><text:tab/><text:span text:style-name="T1">Le hablaré lo antes posible, espera mi respuesta por favor.</text:span></text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -493,8 +523,8 @@
    <text:p text:style-name="P6"><text:tab/>¿Es seguro? Aquí lo es y para Segundo también.</text:p>
    <text:p text:style-name="P6"><text:tab/>Sé que fue él quien lo tocó último pero... Eso no nos hace menos culpables.</text:p>
    <text:p text:style-name="P6"><text:tab/>Solo espero que no hable de eso con nadie más.</text:p>
-   <text:p text:style-name="P6"><text:tab/>De Pablo nunca supe nada después de que se fue, y su familia es incontactable.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Fui a la última casa de la que me hablaste. Por suerte los nuevos arrendatarios me dieron tu nueva dirección, espero esta carta te llegue.</text:p>
+   <text:p text:style-name="P6"><text:tab/>De Pablo nunca supe nada después de que se fue. <text:span text:style-name="T1">S</text:span>u familia es incontactable, <text:span text:style-name="T1">aunque nunca les importó realmente</text:span>. <text:span text:style-name="T1">Hace años no sabemos nada de él.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>Fui a la última casa de la que me hablaste. Por suerte los nuevos arrendatarios me dieron tu nueva dirección, espero esta carta llegue <text:span text:style-name="T1">a ti</text:span>.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -507,33 +537,34 @@
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>Que bueno saber que estás bien. Ha pasado mucho tiempo, pero no creo que nuestros lazos de amistad sean tan débiles, me agrada saber que opinas igual.</text:p>
    <text:p text:style-name="P6"><text:tab/>Yo también estoy bien, o lo estaba antes de recibir tu carta.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Sí es seguro, no te preocupes, aunque no deberías escribir tanto si no lo sabes.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Sí, es seguro, no te preocupes, aunque no deberías escribir tanto si no lo sabes.</text:p>
    <text:p text:style-name="P6"><text:tab/>Pero no importa.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Gracias por la noticia, la he estado esperando durante un tiempo bastante largo, aunque no pensé que este día llegaría, ¿O no quería?</text:p>
-   <text:p text:style-name="P6"><text:tab/>No necesitas contarme más nada sobre esto.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Creo saberlo todo.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Gracias por la noticia, la he estado esperando durante un tiempo bastante largo, aunque no pensé que este día llegaría... ¿O no quería?</text:p>
+   <text:p text:style-name="P6"><text:tab/>No necesitas contarme más nada sobre esto. Creo saberlo todo.</text:p>
+   <text:p text:style-name="P10"><text:tab/>Hablaré con Segundo de padre a padre, seguro podremos entendernos bien.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P7">Atentamente, Teodoro.</text:p>
    <text:p text:style-name="P8">Estimado Segundo:</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P11"/>
    <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"><text:tab/>Carlos se comunicó conmigo y me trajo la peor noticia que pude haber imaginado.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Carlos <text:span text:style-name="T1">me envió una carta, y, con ella,</text:span> la peor noticia que pude haber imaginado.</text:p>
    <text:p text:style-name="P6"><text:tab/>Estoy aterrado. Incluso cuando la esperé durante tanto tiempo.</text:p>
-   <text:p text:style-name="P6"><text:tab/>La culpa me ha perseguido todos estos años.</text:p>
+   <text:p text:style-name="P6"><text:tab/>La culpa, <text:span text:style-name="T1">como a ti,</text:span> me ha perseguido todos estos años.</text:p>
    <text:p text:style-name="P6"><text:tab/>Cada aniversario de su muerte tengo el mismo sueño. Lo veo matando a una niña de unos doce años, empujándola a la misma quebrada en donde nosotros lo hicimos.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Fueron muchos años, y, por ende, muchos sueños, nunca entendí aquello, porque se parecía a una prima mía, pero no tanto.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Cuando me mudé a la capital, hice una nueva vida llena de distracciones, pero los sueños me perseguían y, cada año, la ansiedad no me dejaba dormir porque sabía que vería mi pecado nuevamente. No importaba cuánto alcohol o drogas me metiera para escapar, el sueño siempre venía.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Así pasaron los años e incluso formé familia igual que tú. Tuve una sola hija, es bastante alta para su edad, ¿Sabes? Y, hace un tiempo, por alguna razón, decidió cortarse su cabello tan largo...</text:p>
-   <text:p text:style-name="P6"><text:tab/>Y un día, cuando mi hija cumplió ocho, en su mismo cumpleaños... La reconocí.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Era la niña que Curileo siempre empujaba en aquel sueño, por veinte años... Vi cómo mataba a mi futura hija... ¡Veinte años!</text:p>
+   <text:p text:style-name="P6"><text:tab/>Fueron muchos años, y, por ende, muchos sueños. <text:span text:style-name="T1">N</text:span>unca entendí <text:span text:style-name="T1">el propósito de </text:span>aquello, porque se parecía a una prima mía, pero no tanto, <text:span text:style-name="T1">y eso era tan confuso.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>Cuando me mudé a la <text:span text:style-name="T1">ciudad</text:span>, hice una nueva vida llena de distracciones, pero <text:span text:style-name="T1">esos</text:span> sueños me perseguían y, cada año, la ansiedad no me dejaba dormir, porque sabía que vería mi pecado nuevamente. No importaba cuánto alcohol o drogas me metiera <text:span text:style-name="T1">en el cuerpo</text:span> para escapar, <text:span text:style-name="T1">no importaba en que estado me encontrase, </text:span>el sueño siempre venía.</text:p>
+   <text:p text:style-name="P9"><text:tab/>Así pasaron los años e incluso formé familia igual que tú. <text:span text:style-name="T1">Me mudé a la capital después de un tiempo. Quería darles la vida que yo no tuve.</text:span></text:p>
+   <text:p text:style-name="P9"><text:tab/>Tuve una sola hija, es bastante alta para su edad, ¿Sabes? Y, hace un tiempo, por alguna razón, decidió cortarse su cabello tan largo. <text:span text:style-name="T1">Se dejó el cabello corto, igual a como una prima mía lo usaba cuando joven.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>Y un día, <text:span text:style-name="T1">hace un tiempo, </text:span>cuando mi hija cumplió ocho, en su mismo cumpleaños... La reconocí.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Era la niña que Curileo siempre empujaba en aquel sueño. <text:span text:style-name="T1">P</text:span>or veinte años... <text:span text:style-name="T1">Por veinte años v</text:span>i cómo mataba a mi futura hija... ¡Veinte años! <text:span text:style-name="T1">¡Veinte malditos años!</text:span></text:p>
    <text:p text:style-name="P6"><text:tab/>Nunca le conté de mis pesadillas a nadie por obvias razones, pero ya no puedo quedarme callado ante tus miedos.</text:p>
    <text:p text:style-name="P6"><text:tab/>Yo te creo, Segundo. Y creo también en el terror que estás sintiendo, porque también soy padre.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Pero lo siento, tampoco sé qué hacer.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Pero lo siento. <text:span text:style-name="T1">Perdona mi incapacidad en esto. T</text:span>ampoco sé qué hacer.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -545,14 +576,15 @@
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>Hay que huir.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Investigaré al niño, preguntaré por el colegio o en cualquier lugar que se me ocurra.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Quizás solo estoy alucinando por la culpa, eramos solo niños y a nuestros hijos cumplir la edad que teníamos, ¿La culpa volvió?</text:p>
+   <text:p text:style-name="P6"><text:tab/>Investigaré al niño, preguntaré por el colegio o en cualquier lugar que se me ocurra. <text:span text:style-name="T1">Debe haber alguna explicación.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>Quizás solo estoy alucinando por la culpa, eramos solo niños y a nuestros hijos cumplir la edad que teníamos, ¿La culpa volvió? <text:span text:style-name="T1">¿Es una posibilidad?</text:span></text:p>
    <text:p text:style-name="P6"><text:tab/>No lo sé, perdón, estoy muy paranoico.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Huir tampoco tiene sentido, tú estás en la capital, y yo aquí, en el pueblo.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Huir tampoco tiene sentido <text:span text:style-name="T1">supongo</text:span>, tú estás en la capital, y yo aquí, en el pueblo.</text:p>
    <text:p text:style-name="P6"><text:tab/>No puedo pensar con claridad.</text:p>
    <text:p text:style-name="P6"><text:tab/>Estas semanas he estado sintiendo cosas que no debería. A veces escucho mi nombre en el sonido del agua. ¿Eso tiene sentido?</text:p>
    <text:p text:style-name="P6"><text:tab/>¡Claro que no lo tiene!</text:p>
-   <text:p text:style-name="P6"><text:tab/>No sé qué hacer. No tengo idea. El de las ideas siempre fuiste tú. Solo te pido que pienses un poco más.</text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T1">Empecé a escuchar cosas en una gotera que no quería arreglar, y después de eso incluso escuché mi nombre una y otra vez en el sonido del riachuelo.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>No sé qué hacer. No tengo idea. El de las ideas siempre fuiste tú. Solo te pido que pienses un poco más. <text:span text:style-name="T1">Quizás nos falte algo.</text:span></text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -563,14 +595,14 @@
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"><text:tab/>No hay donde huir. En el campo o en la ciudad, me persigue y me ha perseguido desde que tenemos nueve años.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Nunca lo dije porque me aterraba hablar de aquello, pero me sorprende que ustedes no hayan tenido el mismo sueño. En él, siento claramente como me llama a través del eco de la quebrada, aunque no lo veo pronunciar mi nombre.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Él también era un niño Segundo, no lo merecía.</text:p>
+   <text:p text:style-name="P6"><text:tab/>No hay donde huir. En el <text:span text:style-name="T1">pueblo</text:span> o en la ciudad, me persigue y me ha perseguido desde <text:span text:style-name="T1">aquel día, cuando teníamos solo</text:span> nueve años.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Nunca lo dije porque me aterraba hablar de aquello, pero me sorprende que ustedes no hayan tenido el mismo sueño. En él, <text:span text:style-name="T1">también, </text:span>siento claramente como me llama a través del eco de la quebrada, aunque no lo veo pronunciar mi nombre. <text:span text:style-name="T1">Creo que es como tú dices, como si me llamara a través del agua. Eso tiene sentido para mi.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>Él también era un niño, no lo merecía. <text:span text:style-name="T1">No lo merecía.</text:span></text:p>
    <text:p text:style-name="P6"><text:tab/>Es como... Como... Como si matáramos a nuestros hijos...</text:p>
    <text:p text:style-name="P6"><text:tab/>Al final, tienen la misma edad, pero en mi hija solo veo inocencia. ¿Éramos nosotros tan diferentes?</text:p>
    <text:p text:style-name="P6"><text:tab/>No veo ningún motivo por el cual hacer algo así.</text:p>
    <text:p text:style-name="P6"><text:tab/>Estoy perdido en la culpa.</text:p>
-   <text:p text:style-name="P6"><text:tab/>¡Es peor incluso que hace veinte años!</text:p>
+   <text:p text:style-name="P6"><text:tab/>¡<text:span text:style-name="T1">Hoy e</text:span>s peor incluso que hace veinte años!</text:p>
    <text:p text:style-name="P6"><text:tab/>Lo siento, pero no creo poder ayudarte, porque tampoco creo poder ayudarme a mí mismo. Pero si descubro algo por mi cuenta, ten por seguro que lo sabrás.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -583,14 +615,14 @@
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>Me comuniqué con Teodoro, aunque no cree poder ayudar.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Por mi parte investigué en el colegio y según los profesores, no había ningún niño con ese apellido. Pero mi hijo me dice que se sienta detrás de él y que tiene recuerdos claros de verlo participando en clases.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Le dije que dejara de ser su amigo y que no lo trajera a casa nunca más, pero no me hace caso, siempre ha sido un niño bien portado, pero cuando le ordeno que deje de ser su amigo, me ignora completamente.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Todos dicen que no hay nadie con ese nombre, pero mi hijo lo recuerda.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Por mi parte investigué en el colegio y según los profesores, no había ningún niño con ese <text:span text:style-name="T1">nombre ni </text:span>apellido. Pero mi hijo me dice que se sienta detrás de él y que tiene recuerdos claros de verlo participando en clases.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Le dije que dejara de ser su amigo y que no lo trajera a casa nunca más, pero no me hace caso, siempre ha sido un niño bien portado, pero cuando le ordeno que deje de ser su amigo, me ignora completamente. <text:span text:style-name="T1">Aunque por suerte no volvió a venir a jugar mi casa.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>Todos dicen que no hay nadie con ese nombre, pero mi hijo lo recuerda, <text:span text:style-name="T1">a aveces lo escucho hablar de él con su madre</text:span>.</text:p>
    <text:p text:style-name="P6"><text:tab/>Aún estoy confundido.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Hace unos días decidí ir a la quebrada solo para ordenar mis pensamientos, aunque no quería revivir nada, tenía que asegurarme de que fue real.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Hace unos días decidí ir a la quebrada solo para ordenar mis pensamientos. <text:span text:style-name="T1">Sigue igual de solitaria. A</text:span>unque no quería revivir nada, tenía que asegurarme de que <text:span text:style-name="T1">todo</text:span> fue real.</text:p>
    <text:p text:style-name="P6"><text:tab/>Me sentí observado todo el tiempo, solo pude estar un par de minutos, no logré ni siquiera descansar un segundo.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Cuando me iba, volví a ver el río y era tan oscuro, tan negro, como si no le llegara luz tras la quebrada, pero cuando me acerque volvió a verse normal, pensé que era un efecto por la perspectiva, pero no volví a verlo con esa oscuridad tan aterradora.</text:p>
-   <text:p text:style-name="P6"><text:tab/>¿Es esta la paranoia?</text:p>
+   <text:p text:style-name="P6"><text:tab/>Cuando me iba, volví a ver el río, y era tan oscuro, tan negro, como si no le llegara luz tras la quebrada, pero cuando me acerqué <text:span text:style-name="T1">confundido,</text:span> volvió a verse normal, pensé que era un efecto por la perspectiva, pero no volví a verlo con esa oscuridad tan aterradora <text:span text:style-name="T1">nunca más</text:span>.</text:p>
+   <text:p text:style-name="P6"><text:tab/>¿Es esta la paranoia <text:span text:style-name="T1">o la culpa</text:span>?</text:p>
    <text:p text:style-name="P6"><text:tab/>Aún estoy aterrado.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -603,9 +635,9 @@
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>Quizás deberías descansar.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Sé que la culpa nos consume, pero ya nada podemos hacer, es un secreto que nos llevaremos a la tumba, dejemos de hablar de esto por favor, Segundo, y juntémonos como buenos amigos.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Sé que la culpa nos consume, pero ya nada podemos hacer. <text:span text:style-name="T1">E</text:span>s un secreto que nos llevaremos a la tumba, dejemos de hablar de esto por favor, Segundo, y juntémonos como buenos amigos.</text:p>
    <text:p text:style-name="P6"><text:tab/>¿Te parece?</text:p>
-   <text:p text:style-name="P6"><text:tab/>Creo que puedo hacerme un tiempo para volver al pueblo, le avisaré a Teodoro.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Creo que puedo hacerme un tiempo para volver al pueblo, le avisaré a Teodoro, <text:span text:style-name="T1">ojalá él también pueda</text:span>.</text:p>
    <text:p text:style-name="P6"><text:tab/>Dime cuando te acomoda e iré de inmediato.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -613,12 +645,13 @@
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P7">Siempre tu amigo, Carlos.</text:p>
    <text:p text:style-name="P8">Teodoro, amigo mio:</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P11"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"><text:tab/>¿Crees que puedes hacerte un momento para volver al pueblo?</text:p>
    <text:p text:style-name="P6"><text:tab/>Sé que estás más lejos que yo, pero creo que necesitamos hablar de esto e intentar cerrar ciertas heridas, Segundo no lo está pasando bien y creo que tú tampoco.</text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T1">Apenas puedas </text:span><text:span text:style-name="T3">ir</text:span><text:span text:style-name="T1">, yo también podré, necesito verlos </text:span><text:span text:style-name="T3">otra vez</text:span><text:span text:style-name="T1">.</text:span></text:p>
    <text:p text:style-name="P6"><text:tab/>Deberíamos ayudarnos, ya sabes, como en los viejos tiempos.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -634,29 +667,31 @@
    <text:p text:style-name="P6"><text:tab/>Mi hijo ha muerto.</text:p>
    <text:p text:style-name="P6"><text:tab/>Fue un accidente, pero no sé...</text:p>
    <text:p text:style-name="P6"><text:tab/>Siento que me está llamando, lo escucho en el agua.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Lamento que mi hijo haya pagado mis pecados.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Pero supongo que fue peor para su madre, Curileo nunca más volvió a aparecer.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Lamento que mi hijo haya pagado mis pecados, <text:span text:style-name="T3">al menos así lo siento yo</text:span>.</text:p>
+   <text:p text:style-name="P12"><text:tab/><text:span text:style-name="T3">Cuanto tuve su frágil cuerpo entre mis brazos, esa culpa insana volvió, y una empatía fraternal se apoderó de mi.</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T3"><text:tab/>S</text:span>upongo que fue peor para su madre... Curileo nunca aparec<text:span text:style-name="T3">ió</text:span>.</text:p>
    <text:p text:style-name="P6"><text:tab/>Ya no soporto este tormento.</text:p>
    <text:p text:style-name="P6"><text:tab/>No sé qué hacer.</text:p>
    <text:p text:style-name="P6"><text:tab/>No hay nadie que pueda ayudarnos.</text:p>
    <text:p text:style-name="P6"><text:tab/>No lo soporto.</text:p>
    <text:p text:style-name="P6"><text:tab/>Estoy vacío.</text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T3">Ya no hay más.</text:span></text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P7">Segundo.</text:p>
    <text:p text:style-name="P8">Segundo, amigo mio:</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P11"/>
    <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"><text:tab/>No sabes cuanto lamento escuchar eso.</text:p>
+   <text:p text:style-name="P6"><text:tab/>No sabes cuánto lamento escuchar eso.</text:p>
    <text:p text:style-name="P6"><text:tab/>Siento una pena enorme.</text:p>
    <text:p text:style-name="P6"><text:tab/>Haré tiempo para ir a verte lo antes posible, por favor, espérame.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Espérame y volvamos a ser los amigos que alguna vez fuimos, te acompañaré todo el tiempo que necesites, incluso podré buscar un trabajo en el pueblo si es que hay.</text:p>
-   <text:p text:style-name="P6"><text:tab/>No hay problema, siempre te apoyaré como tú me apoyaste.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Sé que soy el menor y que llegué último al grupo, pero siempre me hiciste sentir bienvenido. Durante todos estos años siempre te consideré un modelo a seguir, incluso en la adultez.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Espérame y volvamos a ser los amigos que alguna vez fuimos, te acompañaré todo el tiempo que necesites, incluso podrí<text:span text:style-name="T3">a</text:span> buscar un trabajo en el pueblo, si es que hay.</text:p>
+   <text:p text:style-name="P6"><text:tab/>No hay problema <text:span text:style-name="T3">con eso</text:span>, siempre te apoyaré como tú me apoyaste.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Sé que soy el menor y que llegué último al grupo, pero siempre me hiciste sentir bienvenido. Durante todos estos años siempre te consideré un modelo a seguir, incluso <text:span text:style-name="T3">ahora,</text:span> en la adultez.</text:p>
    <text:p text:style-name="P6"><text:tab/>Espero que Teodoro pueda ir a verte también, él está muchos más lejos y ocupado que yo, pero espero se de el tiempo para ir a verte a pesar de las consecuencias. Confío en él.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -672,14 +707,15 @@
    <text:p text:style-name="P6"><text:tab/>Hoy viuda.</text:p>
    <text:p text:style-name="P6"><text:tab/>Gracias por tu apoyo.</text:p>
    <text:p text:style-name="P6"><text:tab/>De vez en cuando me hablaba de sus aventuras de jóvenes, pero no sabía que aún hablaba con ustedes por correspondencia.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Lamento informarte no solo que Segundo ha muerto, si no que también se suicidó.</text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T3">No nos conocemos mucho, pero permíteme saltarme el preámbulo.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>Lamento informarte no solo que Segundo ha muerto, si no que también <text:span text:style-name="T3">fue por</text:span> suicid<text:span text:style-name="T3">io</text:span>.</text:p>
    <text:p text:style-name="P6"><text:tab/>Estoy devastada, pero no entiendo el porqué, no entiendo por qué me dejo sola tras la tragedia de nuestro hijo.</text:p>
    <text:p text:style-name="P6"><text:tab/>¿Tú sabes algo?</text:p>
    <text:p text:style-name="P6"><text:tab/>Solo te cuento esto porque imagino que sabes algo, no es fácil para mí hablar de esto con nadie, pero también tengo derecho a saber.</text:p>
    <text:p text:style-name="P6"><text:tab/>Mi vida está arruinada. He perdido a mi familia.</text:p>
    <text:p text:style-name="P6"><text:tab/>¿Podrías decirme también, por qué quemó tantas cartas?</text:p>
    <text:p text:style-name="P6"><text:tab/>Estoy segura de que eran cartas tuyas y de Teodoro o Pablo.</text:p>
-   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T3">Cuéntame lo que sabes, por favor, quiero entender, por Segundo.</text:span></text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -689,15 +725,18 @@
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"><text:tab/>Estoy en nuestro pueblo natal, sigo creyendo que deberías venir conmigo a la tumba de Segundo.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Estoy en nuestro pueblo natal, sigo creyendo que deberías venir conmigo a <text:span text:style-name="T3">ver a </text:span>Segundo, <text:span text:style-name="T3">por lo menos a su tumba</text:span>. <text:span text:style-name="T3">Aunque ha sido difícil evitar a su esposa.</text:span></text:p>
    <text:p text:style-name="P6"><text:tab/>Se suicidó...</text:p>
    <text:p text:style-name="P6"><text:tab/>¿Sabes dónde?</text:p>
    <text:p text:style-name="P6"><text:tab/>Has de suponer...</text:p>
-   <text:p text:style-name="P6"><text:tab/>Sí, en la misma quebrada, en el mismo río.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Solo lo encontraron porque su bicicleta estaba cerca y pudieron buscarlo a tiempo antes de que se lo llevara el río. Si alguien se tirara desde ahí, por muy grande que sea, nunca lo encontrarían ¿Sabes qué significa esto, cierto?</text:p>
-   <text:p text:style-name="P6"><text:tab/>Creo que ya sé donde está Pablo.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Sí, en la misma quebrada. <text:span text:style-name="T3">E</text:span>n el mismo río. <text:span text:style-name="T3">En la misma oscuridad.</text:span></text:p>
+   <text:p text:style-name="P12"><text:tab/>Solo lo encontraron porque su bicicleta estaba cerca y pudieron buscarlo <text:span text:style-name="T3">mientras su cuerpo estaba atascado en un árbol caído, a tiempo, </text:span>antes de que se lo llevara el río. Si alguien se tirara desde ahí, por muy grande que sea, nunca lo encontrarían, ¿Sabes qué significa esto, cierto?</text:p>
+   <text:p text:style-name="P6"><text:tab/>Creo que ya sé dónde está Pablo.</text:p>
    <text:p text:style-name="P6"><text:tab/>Por favor, Teodoro, no cometas una locura.</text:p>
    <text:p text:style-name="P6"><text:tab/>No me dejes solo.</text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T3">Por favor.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T3">Por favor.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T3">Por favor.</text:span></text:p>
    <text:p text:style-name="P6"><text:tab/>Luego iré verte a ti.</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -714,14 +753,15 @@
    <text:p text:style-name="P6"><text:tab/>Lamento dejarte solo, pero espero algún día entiendas que la sangre es más importante.</text:p>
    <text:p text:style-name="P6"><text:tab/>Jamás olvidaré los lazos que formamos, pero tengo que proteger a mi familia.</text:p>
    <text:p text:style-name="P6"><text:tab/>Yo no soy importante, y, la verdad, tampoco debí vivir tanto tiempo, porque el último empujón lo dí yo.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Toda la felicidad que sentí en mi vida fue eclipsada por la culpa de robarle a alguien más esos sentimientos.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Quemaré todas las cartas también, por favor, si mi esposa pregunta sobre la razón de todo esto, no le cuentes nada.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Toda la felicidad que sentí en mi vida fue <text:span text:style-name="T3">siempre </text:span>eclipsada por la culpa de robarle a alguien más esos sentimientos. <text:span text:style-name="T3">Nunca fui digno de la felicidad.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>Quemaré todas las cartas también, por favor, si mi esposa pregunta sobre la razón de todo esto, no le cuentes nada. <text:span text:style-name="T3">Y discúlpame por hacerte lo mismo que Segundo.</text:span></text:p>
    <text:p text:style-name="P6"><text:tab/>Intentaré hacer que parezca un accidente, y solo te digo esto por si fallo en ese cometido, y porque confío en ti, porque somos amigos.</text:p>
    <text:p text:style-name="P6"><text:tab/>Pablo se lo llevó a la tumba.</text:p>
    <text:p text:style-name="P6"><text:tab/>Segundo se lo llevó a la tumba.</text:p>
    <text:p text:style-name="P6"><text:tab/>Yo me lo llevaré a la tumba.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Y aunque espero que tu final sea más feliz que el nuestro, espero también que hagas lo mismo que nosotros.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Y, aunque espero que tu final sea más feliz que el nuestro, espero también que hagas lo mismo que nosotros.</text:p>
    <text:p text:style-name="P6"><text:tab/>Este será por siempre nuestro horrible secreto.</text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T3">Adiós.</text:span></text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
@@ -735,7 +775,7 @@
    <text:p text:style-name="P6"><text:tab/>Han pasado varios meses desde que Segundo y Teodoro se suicidaron.</text:p>
    <text:p text:style-name="P6"><text:tab/>Sus esposas me molestan de vez en cuando, pero no puedo responderles con la verdad.</text:p>
    <text:p text:style-name="P6"><text:tab/>No tengo hijos ni familia, y ahora tampoco nadie a quien llamar amigo.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Sus muertes fueron tan repentinas, como si la idea se les metiera de un momento a otro y la ejecutaran de inmediato.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Sus muertes fueron tan repentinas, como si la idea se les metiera de un momento a otro y la ejecutaran de inmediato. <text:span text:style-name="T3">No tuve tiempo de protestas ni para convencerlos de tan mala idea.</text:span></text:p>
    <text:p text:style-name="P6"><text:tab/>De Segundo puedo entenderlo, ni siquiera puedo imaginar la pérdida de un hijo tan pequeño, pero Teodoro... ¿Se suicidó para salvar a su hija? Eso no me hace sentido, aunque es verdad que sigue viva y que ayer cumplió diez años.</text:p>
    <text:p text:style-name="P6"><text:tab/>Quiero suponer que fue la culpa la que actuó, pero también quiero creer que tuvo razón. </text:p>
    <text:p text:style-name="P6"><text:tab/>No sé si queme mis cartas, como ellos, o las tire al vacío del río.</text:p>
@@ -756,25 +796,26 @@
    <text:p text:style-name="P6"><text:tab/>Teodoro tenía razón, pero yo no mataría a un niño, a diferencia de ustedes.</text:p>
    <text:p text:style-name="P6"><text:tab/>¿Sabías que desde que nací, viví aislado?</text:p>
    <text:p text:style-name="P6"><text:tab/>Antes del colegio, nunca tuve la oportunidad de jugar con niños de mi edad, así que cuando llegué a su curso, tenía tantas esperanzas de tener nuevos amigos, pero solo los encontré a ustedes.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Aunque podríamos empezar de cero, ¿Te parece?</text:p>
+   <text:p text:style-name="P6"><text:tab/>Aunque, podríamos empezar de cero, ¿Te parece?</text:p>
    <text:p text:style-name="P6"><text:tab/>¿Quieres ser mi amigo?</text:p>
-   <text:p text:style-name="P6"><text:tab/>Podrías enviarme más cartas a través del fuego, pero mis cartas no se queman, solo pueden morir en el agua.</text:p>
-   <text:p text:style-name="P6"><text:tab/>En todo caso, ahora soy lo único que podrías llamar amigo en tu vida manchada de culpa y remordimiento.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Podrías enviarme más cartas a través del fuego, pero mis cartas no se queman, solo pueden morir en el agua. <text:span text:style-name="T3">El agua negra del dolor.</text:span></text:p>
+   <text:p text:style-name="P6"><text:tab/>En todo caso, ahora soy lo único que podrías llamar <text:span text:style-name="T3">un </text:span>amigo en tu vida manchada de culpa y remordimiento.</text:p>
    <text:p text:style-name="P6"><text:tab/>Desde donde estoy no puedo hacerte ningún daño, solo puedo llamarte, estés donde estés.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Solo puedo susurrar tu nombre y lo que eres, un asesino.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Estoy junto a tus amigos por si quieres saber, ellos estarán junto a mi, hasta que considere pagados sus pecados, pero más importante, hasta que ellos mismos se perdonen el robarme la vida.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Solo puedo susurrar tu nombre y lo que eres: un asesino.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Estoy junto a tus amigos por si quieres saber. <text:span text:style-name="T3">E</text:span>llos estarán junto a mi, hasta que considere pagados sus pecados. <text:span text:style-name="T3">P</text:span>ero más importante, hasta que ellos mismos se perdonen el robarme la vida.</text:p>
    <text:p text:style-name="P6"><text:tab/>Eso podría tomar un tiempo, pero aquí no existe tal cosa, aquí no es la vida ni la muerte.</text:p>
    <text:p text:style-name="P6"><text:tab/>Y tú tendrás el mismo destino.</text:p>
    <text:p text:style-name="P6"><text:tab/>Primero Pablo.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Segundo Segundo.</text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T3">Después</text:span> Segundo.</text:p>
    <text:p text:style-name="P6"><text:tab/>Tercero Teodoro.</text:p>
-   <text:p text:style-name="P6"><text:tab/>Y tú Carlos, serás el cuarto y último.</text:p>
+   <text:p text:style-name="P6"><text:tab/>Y tú, Carlos, serás el cuarto y último.</text:p>
+   <text:p text:style-name="P6"><text:tab/><text:span text:style-name="T3">Estoy esperando.</text:span></text:p>
    <text:p text:style-name="P6"><text:tab/>¿Ya vienes a verme?</text:p>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
    <text:p text:style-name="P6"/>
-   <text:p text:style-name="P10">Curileo, tu último amigo.</text:p>
+   <text:p text:style-name="P13">Curileo, tu último amigo.</text:p>
   </office:text>
  </office:body>
 </office:document>
