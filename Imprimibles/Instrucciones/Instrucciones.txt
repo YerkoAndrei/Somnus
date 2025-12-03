@@ -1,0 +1,33 @@
+Instrucciones de impresión:
+
+Los plaquettes están en formato A6 y A7 porque son compatibles con el A4, que mantiene la misma relación de aspecto al subdividirse. Si se imprime en carta debería cambiarse el tamaño desde un inicio. En teoría, las hojas oficio pueden cortarse a tamaño A4.
+
+Usar la plantilla:
+- Reemplazar lorem ipsum por texto
+- Reemplazar primera y última página (título y autor)
+- Verificar números de páginas correctos
+
+Imprimir a PDF:
+- Imprimir como folleto A4 (así el tamaño es compatible con A6 o A7)
+- Verificar que última página esté al lado de la portada para que quede tocando la tapa (igual esto es a gusto personal)
+- Verificar que ni portadas ni finales tengan números (con los números se ordenan las hojas al final)
+
+Imprimir con impresora de un solo lado:
+A7:
+- 4 páginas por hoja
+- Todas las páginas (impares y pares)
+- Después de imprimir: reordenar hojas de primera a última
+- Después de imprimir: colocar hojas en la misma orientación en la que salieron
+- Siempre se imprimen de a dos plaquettes, y al cortarlas hay que ordenarlas
+
+A6:
+- 2 Páginas por hoja
+- Imprimir solo impares
+- Después de imprimir: reordenar hojas de primera a última
+- Después de imprimir: voltear las hojas horizontalmente y colocarlas de nuevo en la impresora
+- Estas pueden imprimirse de a un solo plaquette
+
+Después de imprimir:
+- Cortar siempre a la mitad. A7 necesita dos cortes por hoja, A6 solo uno
+- Ordenar siguiendo el numero impar de abajo a la derecha: 1, 3, 5, 7, etc.
+- Corchetear / cocer
